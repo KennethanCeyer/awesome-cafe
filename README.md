@@ -6,3 +6,6 @@
 
 - [Awesome Cafe - US](./README-us.md)
 - [Awesome Cafe - KR](./README-kr.md)
+
+Target countries will be added gradually.
+Contribution through [Pull Requests](https://github.com/KennethanCeyer/awesome-cafe/pulls) are always welcome!
