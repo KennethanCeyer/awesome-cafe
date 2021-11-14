@@ -525,6 +525,10 @@
 
 ### 마포구
 
+- 할리스커피 합정역점 ([link](https://goo.gl/maps/6m6Buyw8LFBDuzqz7))
+   - 서울특별시 마포구 합정동 374-1
+- 투썸플레이스 합정역점 ([link](https://goo.gl/maps/aSbz9XTDS7MTEGDn6))
+   - 서울특별시 마포구 합정동 독막로5길 5
 - 테라로사 노을공원점 ([link](https://goo.gl/maps/8xpzwjzGBASGEmhY6))
    - 서울특별시 마포구 상암동 하늘공원로 112 테라로사 노을공원점 1층
 - 스타벅스 서강대프라자점 ([link](https://maps.google.com/?cid=17909451259461198311))
@@ -1301,6 +1305,8 @@
 
 ### 성남시 분당구
 
+- 아티제 분당 정자점 ([link](https://goo.gl/maps/tVFdDQi1RhCJoZEQ9))
+   - 경기도 성남시 분당구 정자일로 100 미켈란쉐르빌 D동 202 호 
 - 스타벅스 야탑역사거리점 ([link](https://maps.google.com/?cid=13284694952908364560))
    - 대한민국 경기도 성남시 분당구 야탑로 102 KR
 - 스타벅스 분당궁내DT점 ([link](https://maps.google.com/?cid=3216356558513113446))
