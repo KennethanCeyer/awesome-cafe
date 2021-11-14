@@ -49,6 +49,10 @@
 
 ### 강남구
 
+- 테라로사 코엑스점 ([link](서울 강남구 삼성1동))
+   - 서울 강남구 삼성1동 1층 스타필드 코엑스몰
+- 테라로사 포스코센터점 ([link](https://goo.gl/maps/fmFfGQdQK31YK5jv9))
+   - 서울특별시 강남구 대치4동 테헤란로 440 포스코센터 1층
 - 스타벅스 역삼아레나빌딩점 ([link](https://maps.google.com/?cid=13658902587988069534))
    - 대한민국 서울특별시 강남구 역삼동 언주로 425 아레나빌딩
 - 스타벅스 논현역사거리점 ([link](https://maps.google.com/?cid=2369206391972629600))
@@ -226,6 +230,8 @@
 
 ### 강동구
 
+- 테라로사 길동점 ([link](https://goo.gl/maps/E77MknGtMZjgSQ3y8))
+   - 서울특별시 강동구 길동 255-2
 - 스타벅스 명일이마트점 ([link](https://maps.google.com/?cid=8553215300384195544))
    - 대한민국 강동구 명일동 47-7
 - 스타벅스 강동구청DT점 ([link](https://maps.google.com/?cid=14957727249905363587))
@@ -519,6 +525,8 @@
 
 ### 마포구
 
+- 테라로사 노을공원점 ([link](https://goo.gl/maps/8xpzwjzGBASGEmhY6))
+   - 서울특별시 마포구 상암동 하늘공원로 112 테라로사 노을공원점 1층
 - 스타벅스 서강대프라자점 ([link](https://maps.google.com/?cid=17909451259461198311))
    - 대한민국 서울특별시 마포구 신수동 1-1 서강대학교 지하캠퍼스 지하 1층 104, 105-1호
 - 스타벅스 상암YTN점 ([link](https://maps.google.com/?cid=7196236916208547429))
@@ -631,6 +639,8 @@
 
 ### 서초구
 
+- 테라로사 예술의전당점 ([link](https://goo.gl/maps/h98YwSZo4DjZ1FsG9))
+   - 서울특별시 서초구 서초동 2406 예술의 전당
 - 스타벅스 방배로점 ([link](https://maps.google.com/?cid=16836504460698244835))
    - 대한민국 서울특별시 서초구 방배동 1022-5 감정평가사회관
 - 스타벅스 강남교보타워R점 ([link](https://maps.google.com/?cid=15025687321437457758))
@@ -979,6 +989,8 @@
 
 ### 용산구
 
+- 테라로사 한남점 ([link](https://goo.gl/maps/ADgBeuZ7KRatJjNRA))
+   - 서울특별시 용산구 이태원로36길 15 카프리 빌딩
 - 스타벅스 효창공원앞역점 ([link](https://maps.google.com/?cid=9903304719219964387))
    - 대한민국 서울특별시 용산구 효창동 13-2 롯데캐슬 센터포레
 - 스타벅스 서울역서부점 ([link](https://maps.google.com/?cid=3929323224139275207))
@@ -1047,6 +1059,10 @@
 
 ### 종로구
 
+- 테라로사 국립현대미술관서울점 ([link](https://goo.gl/maps/jcU3eLvmjoCYaKE49))
+   - 서울특별시 종로구 소격동 165-5
+- 테라로사 광화문점 ([link](https://goo.gl/maps/iiN3subQgC5gYKZh7))
+   - 서울특별시 종로구 중학동 종로1길 50
 - 스타벅스 연합뉴스점 ([link](https://maps.google.com/?cid=1788059100544953303))
    - 대한민국 서울특별시 종로구 수송동 110 연합뉴스빌딩
 - 스타벅스 혜화역점 ([link](https://maps.google.com/?cid=8541861781608948279))
