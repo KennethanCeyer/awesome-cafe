@@ -49,7 +49,7 @@
 
 ### 강남구
 
-- 테라로사 코엑스점 ([link](서울 강남구 삼성1동))
+- 테라로사 코엑스점 ([link](https://goo.gl/maps/P3e8zqMXPP4nGUxB6))
    - 서울 강남구 삼성1동 1층 스타필드 코엑스몰
 - 테라로사 포스코센터점 ([link](https://goo.gl/maps/fmFfGQdQK31YK5jv9))
    - 서울특별시 강남구 대치4동 테헤란로 440 포스코센터 1층
