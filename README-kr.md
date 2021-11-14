@@ -49,6 +49,34 @@
 
 ### 강남구
 
+- 카페 원데이노마드 ([link](https://goo.gl/maps/zRrRvMiGsogtRVzdA))
+   - 서울특별시 강남구 대치동 번지 1층 959-5
+- 인디워커스 하이브 ([link](https://goo.gl/maps/R361yJbVEjjBUeL8A))
+   - 서울특별시 강남구 대치동 삼성로 414
+- 구글 스타트업 캠퍼스 ([link](https://goo.gl/maps/L4ZnVntaACnSBPhL9))
+   - 서울특별시 강남구 대치2동 영동대로 417, 지하 2층
+- 파스쿠찌 선릉이노센스점 ([link](https://goo.gl/maps/RKG48anQr6ctvS919))
+   - 서울특별시 강남구 삼성동 141-9
+- 카페 레꼴뜨 ([link](https://goo.gl/maps/TceiwzF2WMyXXWWm9))
+   - 서울특별시 강남구 역삼동 봉은사로50길 10
+- 텐퍼센트커피 선릉점 ([link](https://goo.gl/maps/MQ3G3BcHYRZBuUWe6))
+   - 서울특별시 강남구 역삼동 696-17
+- 텐퍼센트커피 역삼점 ([link](https://goo.gl/maps/7amXhk6GqwMxL1QC8))
+   - 서울특별시 강남구 역삼동 637-20
+- 커피빈 강남역먹자골목점 ([link](https://goo.gl/maps/JJkiik23KGjxsppU7))
+   - 서울특별시 강남구 역삼동 816-6
+- 엔제리너스 강남역사거리점 ([link](https://goo.gl/maps/XMTrjWrAzWrmrHu1A))
+   - 서울특별시 강남구 역삼동 824-19 1층 동경빌딩
+- 투썸플레이스 강남IBC점 ([link](https://goo.gl/maps/qgqveNtnKAd4tEMFA))
+   - 서울특별시 강남구 역삼동 648-1 IBC오피스텔, 1층
+- 리퍼크 ([link](https://goo.gl/maps/5vfGv9asPGYbQR8b6))
+   - 서울특별시 강남구 역삼동 825-2 메리츠타워, 1층 
+- 할리스 강남역점 ([link](https://goo.gl/maps/XwWdr2HnZ3aDFUHJ7))
+   - 서울특별시 강남구 역삼동 820-11
+- 투썸플레이스 역삼점 ([link](https://goo.gl/maps/izenCCRarsTkrg1w7))
+   - 서울특별시 강남구 역삼동 746
+- 올드타운 한양 ([link](https://goo.gl/maps/PzHhhm7cxmDCntcK7))
+   - 서울특별시 강남구 역삼동 694-32 1층
 - 가배도 코엑스점 - Gabaedo COEX ([link](https://goo.gl/maps/X5Joy557cSYTz5vT6))
    - 서울특별시 강남구 삼성동 봉은사로 524
 - 테라로사 코엑스점 ([link](https://goo.gl/maps/P3e8zqMXPP4nGUxB6))
@@ -237,6 +265,22 @@
 
 ### 강북구
 
+- 투썸플레이스 미아테라스파크점 ([link](https://goo.gl/maps/hFnrEFFUM4u9PFYn8))
+   - 서울특별시 강북구 삼각산동 655-6
+- 와겐커피 ([link](https://goo.gl/maps/x8udbjoMkaDhw2x29))
+   - 서울특별시 강북구 미아동 솔매로 131
+- 엔제리너스 미아삼거리역점 ([link](https://goo.gl/maps/FdoVVzVVLzhtwAq79))
+   - 서울특별시 강북구 미아동 55-58
+- 디저트카페낙타 ([link](https://goo.gl/maps/YTPEu8y4sXU7Rg9k9))
+   - 서울특별시 강북구 수유동 567-13
+- 어니언 미아 ([link](https://goo.gl/maps/4bYYQ5aKyynVa49J9))
+   - 서울특별시 강북구 미아동 127-9
+- 몽브루 ([link](https://goo.gl/maps/Y6h26pmiRWczYQkdA))
+   - 서울특별시 강북구 수유동 535-73 몽브루
+- 카페 산아래 ([link](https://goo.gl/maps/aHtQge9Unu3oeruf7))
+   - 서울특별시 강북구 우이동 삼양로181길 56
+- 워더커피 ([link](https://goo.gl/maps/R7vB4tNUJpsqL5e18))
+   - 서울 강북구 미아동 214-20 KH하우스, 1층
 - 스타벅스 미아사거리역점 ([link](https://maps.google.com/?cid=4634047881410089864))
    - 서울특별시 강북구 미아동 35-30
 - 스타벅스 강북구청사거리점 ([link](https://maps.google.com/?cid=5300669783557187154))
@@ -250,6 +294,12 @@
 
 ### 강서구
 
+- 텐퍼센트커피 마곡점 ([link](https://goo.gl/maps/pELUQ2J52LLxiQay8))
+   - 서울특별시 강서구 마곡중앙4로 22 파인스퀘어 A동 112호
+- 텐퍼센트 양천향교점 ([link](https://goo.gl/maps/TX2QC2PBY2KWgNAu5))
+   - 서울특별시 강서구 내발산동 강서로 471 엠코지니어스타 107
+- 텐퍼센트커피 리더스퀘어점 ([link](https://goo.gl/maps/FGHwRjAn1eFHjkEP8))
+   - 서울특별시 강서구 마곡동 772-5 1층 136호
 - 스타벅스 발산역사거리점 ([link](https://maps.google.com/?cid=3517460395915379410))
    - 서울특별시 강서구 공항대로 248 대방건설빌딩, 1층
 - 스타벅스 마곡역점 ([link](https://maps.google.com/?cid=6566411228428744544))
@@ -383,6 +433,8 @@
 
 ### 노원구
 
+- 시드누아 노원본점 ([link](https://goo.gl/maps/mtwvCvb8foX3WpWR8))
+   - 서울 노원구 상계동 341-5
 - 스타벅스 월계역점 ([link](https://maps.google.com/?cid=12199716866720691866))
    - 서울특별시 노원구 월계동 초안산로2라길 26
 - 스타벅스 월계트레이더스점 ([link](https://maps.google.com/?cid=6045228849538885315))
@@ -436,6 +488,10 @@
 
 ### 동작구
 
+- 드롭탑 서여의도점 ([link](https://goo.gl/maps/mmiCX4yyK8BhHNpCA))
+   - 서울특별시 영등포구 여의도동 국회대로70길 7
+- 텐퍼센트커피 이수역점 ([link](https://goo.gl/maps/k9GUs4pNYDSbAvgP7))
+   - 서울특별시 동작구 동작대로29길 36 103, 104호
 - 스타벅스 노량진역점 ([link](https://maps.google.com/?cid=8193250930787995266))
    - 서울특별시 동작구 노량진로 134
 - 스타벅스 남성역점 ([link](https://maps.google.com/?cid=11010804693953806030))
@@ -455,6 +511,16 @@
 
 ### 마포구
 
+- 카페그레이 망원 ([link](https://goo.gl/maps/WFgu6NCrF2vu3NKy9))
+   - 서울특별시 마포구 망원2동 방울내로7길 42
+- 그레이랩 합정 ([link](https://goo.gl/maps/Mqi99Yd9PrJ7HswZ7))
+   - 서울특별시 마포구 합정동 토정로3길 16
+- 빈브라더스 합정 ([link](https://goo.gl/maps/6TfEhdCbuMpGMxyZ8))
+   - 서울특별시 마포구 합정동 368-3
+- 카페코나퀸즈 마포점 ([link](https://goo.gl/maps/jkc2f3MHARqotpPTA))
+   - 서울특별시 마포구 도화동 292-20번지 도원빌딩, 1층
+- 커피빈 동교동삼거리점 ([link](https://goo.gl/maps/bw5WZ5JDje7h4VsH9))
+   - 서울특별시 마포구 동교동 173-16
 - 할리스커피 합정역점 ([link](https://goo.gl/maps/6m6Buyw8LFBDuzqz7))
    - 서울특별시 마포구 합정동 374-1
 - 투썸플레이스 합정역점 ([link](https://goo.gl/maps/aSbz9XTDS7MTEGDn6))
@@ -530,6 +596,8 @@
 
 ### 서대문구
 
+- 마이헬싱키 ([link](https://goo.gl/maps/FYnAtLBTUwTJESBe9))
+   - 서울특별시 서대문구 대현동 67-5 핀란드타워, 1층
 - 스타벅스 가재울뉴타운점 ([link](https://maps.google.com/?cid=5569467115428591435))
    - 서울특별시 서대문구 남가좌동 381-6
 - 스타벅스 남가좌사거리점 ([link](https://maps.google.com/?cid=3588853144340882169))
@@ -569,6 +637,16 @@
 
 ### 서초구
 
+- 커피빈 잠원논현역점 ([link](https://goo.gl/maps/HDeqE4FCWTzinECr6))
+   - 서울특별시 서초구 잠원동 신반포로47길 9-3
+- 텐퍼센트커피 강남서초점 ([link](https://goo.gl/maps/LCntT4sfQm2WR3ut9))
+   - 서울특별시 서초구 서초동 1327번지 트라팰리스2차 트라팰리스 1층 104호
+- 텐퍼센트커피 서초역점 ([link](https://goo.gl/maps/2Y5jgAjw9dV6HV62A))
+   - 서울특별시 서초구 서초동 1550-7
+- 가배도 강남점 ([link](https://goo.gl/maps/rnGZhFzu5SBkdebJA))
+   - 서울특별시 서초구 서초동 1318-2, 1층
+- 투썸플레이스 강남KI타워점 ([link](https://goo.gl/maps/wRMS14RJK19pUSTAA))
+   - 서울특별시 서초구 서초동 1309-8 KI타워, 2층
 - 테라로사 예술의전당점 ([link](https://goo.gl/maps/h98YwSZo4DjZ1FsG9))
    - 서울특별시 서초구 서초동 2406 예술의 전당
 - 스타벅스 방배로점 ([link](https://maps.google.com/?cid=16836504460698244835))
@@ -660,6 +738,8 @@
 
 ### 성동구
 
+- 비엔나커피하우스 서울숲점 ([link](https://goo.gl/maps/nsjyDAqALekvhRRv5))
+   - 서울특별시 성동구 성수동1가 왕십리로 66 클리오사옥, 1층
 - 스타벅스 서울숲역 ([link](https://maps.google.com/?cid=18271421566258781263))
    - 서울특별시 성동구 성수동1가 왕십리로 50
 - 스타벅스 금호역점 ([link](https://maps.google.com/?cid=17802897838938838844))
@@ -714,6 +794,8 @@
 
 ### 송파구
 
+- 시드누아 가든파이브점 ([link](https://goo.gl/maps/eyPFD46S8FDDK42H9))
+   - 서울특별시 송파구 문정동 516번지 가든파이브라이프, 지하1층 TB1070 1071호
 - 스타벅스 송파나루역DT점 ([link](https://maps.google.com/?cid=4374938206514197491))
    - 서울특별시 송파구 송파동 59-9 송봉주유소
 - 스타벅스 송파헬리오시티점 ([link](https://maps.google.com/?cid=8404553397705509687))
@@ -781,6 +863,8 @@
 
 ### 양천구
 
+- 한스케익 목동점 ([link](https://goo.gl/maps/3tbpWDvuNs59Qd8b9))
+   - 서울특별시 양천구 목1동 오목로 287
 - 스타벅스 목동파리공원점 ([link](https://maps.google.com/?cid=11793465013749267750))
    - 서울특별시 양천구 목동 907-18
 - 스타벅스 등촌역점 ([link](https://maps.google.com/?cid=5126375276075847766))
@@ -812,6 +896,8 @@
 
 ### 영등포구
 
+- 텐퍼센트커피 여의도점 ([link](https://goo.gl/maps/xwcCKDjeqLN39mWd6))
+   - 서울특별시 영등포구 여의동 35-2번지 백상빌딩 1층 102호
 - 스타벅스 타임스퀘어R점 ([link](https://maps.google.com/?cid=5585900882227809798))
    - 서울특별시 영등포구 영등포동4가 타임스퀘어 1층 442
 - 스타벅스 샛강역점 ([link](https://maps.google.com/?cid=1849841814286126589))
@@ -953,6 +1039,8 @@
 
 ### 종로구
 
+- 까페 골목숲 ([link](https://goo.gl/maps/HcymBRM6hW1PpyRJ9))
+   - 서울특별시 종로구 삼청동 63-14 골목숲
 - 테라로사 국립현대미술관서울점 ([link](https://goo.gl/maps/jcU3eLvmjoCYaKE49))
    - 서울특별시 종로구 소격동 165-5
 - 테라로사 광화문점 ([link](https://goo.gl/maps/iiN3subQgC5gYKZh7))
@@ -1034,6 +1122,10 @@
 
 ### 중구
 
+- 아티제 대신파이낸스센터점 ([link](https://goo.gl/maps/EtiQ7dp9RERVJvWHA))
+   - 서울특별시 중구 저동1가 삼일대로 343
+- 텐퍼센트커피 태평로점 ([link](https://goo.gl/maps/dhbi1JJz628dxNAM9))
+   - 서울특별시 중구 태평로2가 세종대로 70
 - 스타벅스 숭례문북창점 ([link](https://maps.google.com/?cid=2225096497161592464))
    - 서울특별시 중구 남대문로4가 세종대로 12길 12
 - 스타벅스 을지로4가역점 ([link](https://maps.google.com/?cid=12264487569069910615))
@@ -1142,6 +1234,8 @@
 
 ### 성남시 판교
 
+- 브라우니70 백현점 ([link](https://goo.gl/maps/rkwu1UyFCgeViUAZ6))
+   - 경기도 성남시 분당구 백현동  583-5
 - 테라로사 판교점 ([link](https://goo.gl/maps/znmvfZ9Fi2Gwrs9A6))
    - 경기도 성남시 분당구 판교동 411-1
 - 스타벅스 판교역로점 ([link](https://maps.google.com/?cid=16802859400829529089))
@@ -1167,6 +1261,8 @@
 
 ### 성남시 정자
 
+- 카페부부 ([link](https://goo.gl/maps/PJbsb4fACmEHHdQt5))
+   - 경기도 성남시 분당구 정자동 내정로 58
 - 탐앤탐스 정자역점 ([link](https://goo.gl/maps/mqtb4CzKzcSYkhWS9))
    - 경기도 성남시 분당구 정자동 156-1
 - 아티제 분당 정자점 ([link](https://goo.gl/maps/tVFdDQi1RhCJoZEQ9))
@@ -1184,6 +1280,8 @@
 
 ### 성남시 분당구
 
+- 카페 디바인 ([link](https://goo.gl/maps/aRWiPjHn3ptYXo6i6))
+   - 경기도 성남시 분당구 금곡동 151 골드프라자 110호
 - 스타벅스 야탑역사거리점 ([link](https://maps.google.com/?cid=13284694952908364560))
    - 경기도 성남시 분당구 야탑로 102
 - 스타벅스 분당궁내DT점 ([link](https://maps.google.com/?cid=3216356558513113446))
@@ -1220,6 +1318,15 @@
    - 경기도 성남시 분당구 이매동 이매로 15
 - 스타벅스 야탑터미널 ([link](https://maps.google.com/?cid=17764232293200612529))
    - 경기도 성남시 분당구 야탑동 성남대로925번길 16
+
+### 성남시 중원구
+
+- 리치카페 ([link](https://goo.gl/maps/kPLyMqSA9h1p5YdX8))
+   - 경기도 성남시 중원구 성남동  3219
+- 스타벅스 단대오거리역 ([link](https://goo.gl/maps/XSEzdz52ub3gRfNn8))
+   - 경기도 성남시 중원구 중앙동 산성대로 340-1
+- 스타벅스 남한산성입구역점 ([link](https://goo.gl/maps/tSarsV8EYbDeSGr57))
+   - 경기도 성남시 중원구 금광동 4608 4609, 4610번지 101호, 102호, 103호, 104호, 105호, 106호
 
 ### 수원시 영통구
 
