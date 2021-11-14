@@ -1276,6 +1276,8 @@
 
 ### 성남시 판교
 
+- 테라로사 판교점 ([link](https://goo.gl/maps/znmvfZ9Fi2Gwrs9A6))
+   - 경기도 성남시 분당구 판교동 411-1
 - 스타벅스 판교역로점 ([link](https://maps.google.com/?cid=16802859400829529089))
    - 대한민국 경기도 분당구 삼평동 663
 - 스타벅스 판교봇들마을점 ([link](https://maps.google.com/?cid=17711087762051123019))
