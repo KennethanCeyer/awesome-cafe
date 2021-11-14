@@ -2,6 +2,21 @@
   
 <p align="center">List of cafes for developers</p>
 
+## ⛳️ List
+
+- [California (CA)](#california-ca)
+    - [Bay Area](#bay-area)
+    - [San Francisco](#san-francisco)
+    - [San Jose](#san-jose)
+    - [Mountain View](#mountain-view)
+    - [Los Angeles](#los-angeles)
+    - [San Diego](#san-deigo)
+    - [Santa Clarita](#santa-clarita)
+    - [Fresno](#fresno)
+    - [Sacramento](#sacramento)
+    - [Long Beach](#long-beach)
+    - [Oakland](#oakland)
+
 ## 🔰 Rules
 
 - For convenience of developer accessibility, write the cafe name and Google Map link instead of `.geojson`.
