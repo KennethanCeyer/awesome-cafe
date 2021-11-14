@@ -32,6 +32,7 @@
   - [중랑구](#중랑구)
 - [경기](#경기)
   - [성남시 판교](#성남시-판교)
+  - [성남시 정자](#성남시-)
   - [성남시 분당구](#성남시-분당구)
   - [수원시 영통구](#수원시-영통구)
   - [수원시 팔달구](#수원시-팔달구)
@@ -462,6 +463,54 @@
 
 ### 도봉구
 
+- 셀렉토커피 방학역점 ([link](https://goo.gl/maps/7g9DYYt836ddvn3aA))
+   - 서울특별시 도봉구 방학동 719-2 북한산현대렉시온오피스텔
+- 파스쿠찌 창동점 ([link](https://goo.gl/maps/8x31A8b1KQHfLhuL7))
+   - 서울특별시 도봉구 창동 715-14
+- 카페게이트 방학역점 ([link](https://goo.gl/maps/Ez2ZeEfDqArESPFb8))
+   - 서울특별시 도봉구 방학동 715-19
+- 이디야커피 도봉중앙점 ([link](https://goo.gl/maps/hHXc33EVza9xD13u6))
+   - 서울특별시 도봉구 도봉동 568-33 1층
+- 이디야커피 방학점 ([link](https://goo.gl/maps/sAV3VyN7KbpWjuV48))
+   - 서울특별시 도봉구 방학3동 670
+- 이디야커피 창동현대타운점 ([link](https://goo.gl/maps/7aBZQ4f1naZKRyBP8))
+   - 서울특별시 도봉구 창동 657-142
+- 이디야커피 도봉산점 ([link](https://goo.gl/maps/ZMz6DAj65xJajgsM8))
+   - 서울특별시 도봉구 도봉동 282-344 동서빌딩 1층
+- 커피홀베이커리 창동점 ([link](https://goo.gl/maps/yxfZXGBWtdsea4m5A))
+   - 서울특별시 도봉구 창동 219-5
+- 모던타임즈 ([link](https://goo.gl/maps/dJfsoagirjEjPYpi8))
+   - 서울특별시 도봉구 쌍문동 724-1 1층 1호
+- 만랩커피 창동역점 ([link](https://goo.gl/maps/w4mg1aT1rszERz1p8))
+   - 서울특별시 도봉구 창동 74-7 1층
+- 카페유노 ([link](https://goo.gl/maps/BXJmPBcFhesuhr3P7))
+   - 서울특별시 도봉구 방학동 718-7 이에스에이아파트
+- 투썸플레이스 창동이마트점 ([link](https://goo.gl/maps/onGSqkyMDUEsVkqn8))
+   - 서울특별시 도봉구 창동 75-1 2층 투썸플레이스 창동이마트점
+- 투썸플레이스 쌍문중앙점 ([link](https://goo.gl/maps/QVDmkrc5FTfxKFiP9))
+   - 서울특별시 도봉구 창동 659-4 우성빌딩
+- 투썸플레이스 도봉보건소점 ([link](https://goo.gl/maps/6YJBaTdWKTqTbQRLA))
+   - 서울특별시 도봉구 창동 715-1
+- 투썸플레이스 쌍문역점 ([link](https://goo.gl/maps/zKGwLUZHt78wPvAt8))
+   - 서울특별시 도봉구 쌍문동 96-4 우림빌딩
+- 투썸플레이스 창동역점 ([link](https://goo.gl/maps/TNBURLWWMsAJV6hM8))
+   - 서울특별시 도봉구 창동 9-2
+- 키웨스트 연산군묘점 ([link](https://goo.gl/maps/3wHxJzixDw6rrPAN7))
+   - 서울특별시 도봉구 방학동 584
+- 커피스미스 도봉역점 ([link](https://goo.gl/maps/CEHSNYTccSFCs1jD9))
+   - 서울특별시 도봉구 도봉동 92-55
+- 와겐커피 방학점 ([link](https://goo.gl/maps/VdMG4oAmxJAG12cn7))
+   - 서울특별시 도봉구 방학동 716-14
+- 투썸플레이스 방학역점 ([link](https://goo.gl/maps/WX9zqDKN29xV8ECW6))
+   - 서울특별시 도봉구 방학동 706-7
+- 카미노 커피로스터스 ([link](https://goo.gl/maps/FRegMNLDLwvciRKo9))
+   - 서울특별시 도봉구 방학1동 671-18
+- 탐앤탐스 창동본점 ([link](https://goo.gl/maps/kLj6Qt6UFURmWgm69))
+   - 서울특별시 도봉구 창동 691-10
+- 도봉관 ([link](https://goo.gl/maps/jkKTj7zP7sWnEToQ9))
+   - 서울특별시 도봉구 창동 노해로 261
+- 스타벅스 쌍문도봉로점 ([link](https://goo.gl/maps/VFQgrC35kbeYgbHc8))
+   - 서울특별시 도봉구 창동 650-45
 - 스타벅스 창동이마트점 ([link](https://maps.google.com/?cid=1963695170520806667))
    - 서울특별시 도봉구 창동 135-26 이마트
 - 스타벅스 쌍문역점 ([link](https://maps.google.com/?cid=14681938399562063279))
