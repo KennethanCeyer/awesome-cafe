@@ -30,6 +30,31 @@
 
 ### Bay Area
 
+- Atlas Cafe ([link](https://g.page/AtlasCafeSF?share))
+   - 3049 20th St, San Francisco, CA 94110
+- Beacon Coffee and Pantry ([link](https://goo.gl/maps/4cKkhFic1eszr5kF9))
+   - 805 Columbus Ave, San Francisco, CA 94133
+- Jane on Fillmore ([link](https://goo.gl/maps/UjDQB9NeG5TZpwuSA))
+   - 2123 Fillmore St, San Francisco, CA 94115
+- Mercury Cafe ([link](https://goo.gl/maps/GMAcry593bx8bise9))
+   - 201 Octavia St, San Francisco, CA 94102
+- Philz Coffee, Polk Street ([link](https://goo.gl/maps/NEZPv2KN1rPZFWp47))
+   - 2234 Polk St, San Francisco, CA 94109
+- Philz Coffee, Front Street ([link](https://goo.gl/maps/Wba7J644HNN95kiQ6))
+   - 1 Front St #100, San Francisco, CA 94111
+- Philz Coffee, Folsom Street ([link](https://goo.gl/maps/8tuVuGKzXPyYfNEB9))
+   - 300 Folsom St, San Francisco, CA 94105
+- Philz Coffee, Berry Street ([link](https://goo.gl/maps/unLzhgwJXGC2dRZo9))
+   - 201 Berry St, San Francisco, CA 94158
+- Philz Coffee, 17th Street ([link](https://goo.gl/maps/HARUZ5HwTbhSxYTM9))
+   - 1775 17th St, San Francisco, CA 94103
+- Philz Coffee, 24th Street ([link](https://goo.gl/maps/PRz8pTouAN9p4wwM7))
+   - 3101 24th St, San Francisco, CA 94110
+- Philz Coffee, Castro Street ([link](https://goo.gl/maps/jNEGscGZiVBJTV6K7))
+   - 549 Castro St, San Francisco, CA 94114
+- Philz Coffee, Embarcadero Center ([link](https://goo.gl/maps/9KHHzs3enyrN5PQz6))
+   - 5 Embarcadero Ctr, San Francisco, CA 94111
+
 #### San Francisco
 
 #### San Jose
