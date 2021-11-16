@@ -384,8 +384,6 @@
 
 ### 강북구
 
-- 투썸플레이스 미아테라스파크점 ([link](https://goo.gl/maps/hFnrEFFUM4u9PFYn8))
-   - 서울특별시 강북구 삼각산동 655-6
 - 와겐커피 ([link](https://goo.gl/maps/x8udbjoMkaDhw2x29))
    - 서울특별시 강북구 미아동 솔매로 131
 - 엔제리너스 미아삼거리역점 ([link](https://goo.gl/maps/FdoVVzVVLzhtwAq79))
