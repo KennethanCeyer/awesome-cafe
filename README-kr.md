@@ -775,24 +775,12 @@
    - 서울특별시 도봉구 창동 74-7 1층
 - 카페유노 ([link](https://goo.gl/maps/BXJmPBcFhesuhr3P7))
    - 서울특별시 도봉구 방학동 718-7 이에스에이아파트
-- 투썸플레이스 창동이마트점 ([link](https://goo.gl/maps/onGSqkyMDUEsVkqn8))
-   - 서울특별시 도봉구 창동 75-1 2층 투썸플레이스 창동이마트점
-- 투썸플레이스 쌍문중앙점 ([link](https://goo.gl/maps/QVDmkrc5FTfxKFiP9))
-   - 서울특별시 도봉구 창동 659-4 우성빌딩
-- 투썸플레이스 도봉보건소점 ([link](https://goo.gl/maps/6YJBaTdWKTqTbQRLA))
-   - 서울특별시 도봉구 창동 715-1
-- 투썸플레이스 쌍문역점 ([link](https://goo.gl/maps/zKGwLUZHt78wPvAt8))
-   - 서울특별시 도봉구 쌍문동 96-4 우림빌딩
-- 투썸플레이스 창동역점 ([link](https://goo.gl/maps/TNBURLWWMsAJV6hM8))
-   - 서울특별시 도봉구 창동 9-2
 - 키웨스트 연산군묘점 ([link](https://goo.gl/maps/3wHxJzixDw6rrPAN7))
    - 서울특별시 도봉구 방학동 584
 - 커피스미스 도봉역점 ([link](https://goo.gl/maps/CEHSNYTccSFCs1jD9))
    - 서울특별시 도봉구 도봉동 92-55
 - 와겐커피 방학점 ([link](https://goo.gl/maps/VdMG4oAmxJAG12cn7))
    - 서울특별시 도봉구 방학동 716-14
-- 투썸플레이스 방학역점 ([link](https://goo.gl/maps/WX9zqDKN29xV8ECW6))
-   - 서울특별시 도봉구 방학동 706-7
 - 카미노 커피로스터스 ([link](https://goo.gl/maps/FRegMNLDLwvciRKo9))
    - 서울특별시 도봉구 방학1동 671-18
 - 탐앤탐스 창동본점 ([link](https://goo.gl/maps/kLj6Qt6UFURmWgm69))
@@ -805,6 +793,20 @@
    - 서울특별시 도봉구 창동 135-26 이마트
 - 스타벅스 쌍문역점 ([link](https://maps.google.com/?cid=14681938399562063279))
    - 서울특별시 도봉구 창동 659-5
+- 투썸플레이스 도봉산입구점 ([link](https://maps.google.com/?cid=17385227576630042665))
+   - 서울특별시 도봉구 도봉1동 282-304
+- 투썸플레이스 방학역점 ([link](https://maps.google.com/?cid=8983172084460281998))
+   - 서울특별시 도봉구 방학1동 706-9
+- 투썸플레이스 도봉보건소점 ([link](https://goo.gl/maps/6YJBaTdWKTqTbQRLA))
+   - 서울특별시 도봉구 창동 715-1
+- 투썸플레이스 쌍문중앙점 ([link](https://goo.gl/maps/QVDmkrc5FTfxKFiP9))
+   - 서울특별시 도봉구 창동 659-4 우성빌딩
+- 투썸플레이스 창동역점 ([link](https://goo.gl/maps/TNBURLWWMsAJV6hM8))
+   - 서울특별시 도봉구 창동 9-2
+- 투썸플레이스 창동이마트점 ([link](https://goo.gl/maps/onGSqkyMDUEsVkqn8))
+   - 서울특별시 도봉구 창동 75-1 2층
+- 투썸플레이스 쌍문역점 ([link](https://goo.gl/maps/zKGwLUZHt78wPvAt8))
+   - 서울특별시 도봉구 쌍문동 96-4 우림빌딩
 
 ### 동대문구
 
