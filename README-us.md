@@ -6,16 +6,16 @@
 
 - [California (CA)](#california-ca)
     - [Bay Area](#bay-area)
-    - [San Francisco](#san-francisco)
-    - [San Jose](#san-jose)
-    - [Mountain View](#mountain-view)
+       - [San Francisco](#san-francisco)
+       - [San Jose](#san-jose)
+       - [Mountain View](#mountain-view)
+       - [Oakland](#oakland)
     - [Los Angeles](#los-angeles)
     - [San Diego](#san-deigo)
     - [Santa Clarita](#santa-clarita)
     - [Fresno](#fresno)
     - [Sacramento](#sacramento)
     - [Long Beach](#long-beach)
-    - [Oakland](#oakland)
 
 ## 🔰 Rules
 
@@ -30,11 +30,13 @@
 
 ### Bay Area
 
-### San Francisco
+#### San Francisco
 
-### San Jose
+#### San Jose
 
-### Mountain View
+#### Mountain View
+
+#### Oakland
 
 ### Los Angeles
 
@@ -47,5 +49,3 @@
 ### Sacramento
 
 ### Long Beach
-
-### Oakland
