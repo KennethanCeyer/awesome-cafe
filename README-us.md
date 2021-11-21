@@ -30,6 +30,8 @@
 
 ### Bay Area
 
+#### San Francisco
+
 - Atlas Cafe ([link](https://g.page/AtlasCafeSF?share))
    - 3049 20th St, San Francisco, CA 94110
 - Beacon Coffee and Pantry ([link](https://goo.gl/maps/4cKkhFic1eszr5kF9))
@@ -54,8 +56,6 @@
    - 549 Castro St, San Francisco, CA 94114
 - Philz Coffee, Embarcadero Center ([link](https://goo.gl/maps/9KHHzs3enyrN5PQz6))
    - 5 Embarcadero Ctr, San Francisco, CA 94111
-
-#### San Francisco
 
 #### San Jose
 
