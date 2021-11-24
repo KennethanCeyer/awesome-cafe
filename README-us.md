@@ -59,6 +59,11 @@
 
 #### San Jose
 
+- Philz Coffee, Colonnade Apt ([link](https://goo.gl/maps/kmDraBEETAxHTsuD8))
+   - 118 Paseo de San Antonio, San Jose, CA 95112
+- Starbucks, Almanden Rd ([link](https://goo.gl/maps/XDUKfmgd5gfC6sVW7))
+   - 2306 Almaden Rd, San Jose, CA 95125
+
 #### Mountain View
 
 #### Oakland
