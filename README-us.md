@@ -66,6 +66,18 @@
 
 #### Mountain View
 
+- Dana Street Roasting Company ([link](https://goo.gl/maps/j9Vz2HKDuTdpMUcx8))
+   - 744 W Dana St, Mountain View, CA 94041
+- Starbucks, Pear Ave ([link](https://goo.gl/maps/ASBXPiTgLUYjdaWu6))
+   - 1380 Pear Ave, Mountain View, CA 94043
+- Starbucks, Charleston Rd ([link](https://goo.gl/maps/ai87WrvaAjinN59H7))
+   - 2410 Charleston Rd, Mountain View, CA 94043
+- Starbucks, Rengstorff Ave ([link](https://goo.gl/maps/omWukmHYrDBabeXWA))
+   - 580 N Rengstorff Ave, Mountain View, CA 94043
+- Starbucks, Shoreline Blvd ([link](https://goo.gl/maps/Zz5FVKE2LzH9YtyY7))
+   - 570 N Shoreline Blvd, Mountain View, CA 94040
+
+
 #### Oakland
 
 ### Los Angeles
