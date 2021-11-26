@@ -40,21 +40,21 @@
    - 2123 Fillmore St, San Francisco, CA 94115
 - Mercury Cafe ([link](https://goo.gl/maps/GMAcry593bx8bise9))
    - 201 Octavia St, San Francisco, CA 94102
-- Philz Coffee, Polk Street ([link](https://goo.gl/maps/NEZPv2KN1rPZFWp47))
+- Philz Coffee, Polk St ([link](https://goo.gl/maps/NEZPv2KN1rPZFWp47))
    - 2234 Polk St, San Francisco, CA 94109
-- Philz Coffee, Front Street ([link](https://goo.gl/maps/Wba7J644HNN95kiQ6))
+- Philz Coffee, Front St ([link](https://goo.gl/maps/Wba7J644HNN95kiQ6))
    - 1 Front St #100, San Francisco, CA 94111
-- Philz Coffee, Folsom Street ([link](https://goo.gl/maps/8tuVuGKzXPyYfNEB9))
+- Philz Coffee, Folsom St ([link](https://goo.gl/maps/8tuVuGKzXPyYfNEB9))
    - 300 Folsom St, San Francisco, CA 94105
-- Philz Coffee, Berry Street ([link](https://goo.gl/maps/unLzhgwJXGC2dRZo9))
+- Philz Coffee, Berry St ([link](https://goo.gl/maps/unLzhgwJXGC2dRZo9))
    - 201 Berry St, San Francisco, CA 94158
-- Philz Coffee, 17th Street ([link](https://goo.gl/maps/HARUZ5HwTbhSxYTM9))
+- Philz Coffee, 17th St ([link](https://goo.gl/maps/HARUZ5HwTbhSxYTM9))
    - 1775 17th St, San Francisco, CA 94103
-- Philz Coffee, 24th Street ([link](https://goo.gl/maps/PRz8pTouAN9p4wwM7))
+- Philz Coffee, 24th St ([link](https://goo.gl/maps/PRz8pTouAN9p4wwM7))
    - 3101 24th St, San Francisco, CA 94110
-- Philz Coffee, Castro Street ([link](https://goo.gl/maps/jNEGscGZiVBJTV6K7))
+- Philz Coffee, Castro St ([link](https://goo.gl/maps/jNEGscGZiVBJTV6K7))
    - 549 Castro St, San Francisco, CA 94114
-- Philz Coffee, Embarcadero Center ([link](https://goo.gl/maps/9KHHzs3enyrN5PQz6))
+- Philz Coffee, Embarcadero Ctr ([link](https://goo.gl/maps/9KHHzs3enyrN5PQz6))
    - 5 Embarcadero Ctr, San Francisco, CA 94111
 
 #### San Jose
@@ -79,6 +79,19 @@
 
 
 #### Oakland
+
+- Kilovolt Coffee ([link](https://goo.gl/maps/ofMXSz821EuvemSh7))
+   - 1829 Mandela Parkway, Oakland, CA 94607
+- Peet's Coffee, Telegraph Ave ([link](https://goo.gl/maps/PiqHPC5L4ZTRPPev9))
+   - 5095 Telegraph Ave Suite #1, Oakland, CA 94609
+- Peet's Coffee, Piedmont Ave ([link](https://goo.gl/maps/RNNkajGrZatYHaN88))
+   - 4050 Piedmont Ave, Oakland, CA 94611
+- Peet's Coffee, Lakeshore Ave ([link](3258 Lakeshore Ave, Oakland, CA 94610))
+   - 3258 Lakeshore Ave, Oakland, CA 94610
+- Peet's Coffee, Broadway ([link](https://goo.gl/maps/vcbvq2J7V1t3z1UU6))
+   - 1615 Broadway, Oakland, CA 94612
+- Peet's Coffee, Shellmound St ([link](https://goo.gl/maps/qhixjpWZZ8wXZdKV8))
+   - 5959 Shellmound St Suite 85, Emeryville, CA 94608
 
 ### Los Angeles
 
