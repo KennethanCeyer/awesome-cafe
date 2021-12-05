@@ -67,7 +67,7 @@
 - 커피빈 강남역먹자골목점 ([link](https://goo.gl/maps/JJkiik23KGjxsppU7))
    - 서울특별시 강남구 역삼동 816-6
 - 엔제리너스 강남역사거리점 ([link](https://goo.gl/maps/XMTrjWrAzWrmrHu1A))
-   - 서울특별시 강남구 역삼동 824-19 1층 동경빌딩
+   - 서울특별시 강남구 역삼동 824-19, 1층 동경빌딩
 - 리퍼크 ([link](https://goo.gl/maps/5vfGv9asPGYbQR8b6))
    - 서울특별시 강남구 역삼동 825-2 메리츠타워, 1층 
 - 올드타운 한양 ([link](https://goo.gl/maps/PzHhhm7cxmDCntcK7))
@@ -77,7 +77,7 @@
 - 테라로사 코엑스점 ([link](https://goo.gl/maps/P3e8zqMXPP4nGUxB6))
    - 서울특별시 강남구 삼성1동 1층 스타필드 코엑스몰
 - 테라로사 포스코센터점 ([link](https://goo.gl/maps/fmFfGQdQK31YK5jv9))
-   - 서울특별시 강남구 대치4동 테헤란로 440 포스코센터 1층
+   - 서울특별시 강남구 대치4동 테헤란로 440 포스코센터, 1층
 - 스타벅스 역삼아레나빌딩점 ([link](https://maps.google.com/?cid=13658902587988069534))
    - 서울특별시 강남구 역삼동 언주로 425 아레나빌딩
 - 스타벅스 논현역사거리점 ([link](https://maps.google.com/?cid=2369206391972629600))
@@ -89,7 +89,7 @@
 - 스타벅스 스탈릿대치R점 ([link](https://maps.google.com/?cid=15041666579450182972))
    - 서울특별시 강남구 대치동 599 대원빌딩
 - 스타벅스 코엑스몰 ([link](https://maps.google.com/?cid=6540166990860045915))
-   - 서울특별시 강남구 삼성1동
+   - 서울특별시 강남구 삼성동 159 코엑스 O103호
 - 스타벅스 압구정윤성빌딩점 ([link](https://maps.google.com/?cid=14554654239495542434))
    - 서울특별시 강남구 신사동 592 윤성빌딩
 - 스타벅스 코엑스별마당점 ([link](https://maps.google.com/?cid=5766592970875618650))
