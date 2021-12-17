@@ -67,7 +67,7 @@
 - 커피빈 강남역먹자골목점 ([link](https://goo.gl/maps/JJkiik23KGjxsppU7))
    - 서울특별시 강남구 역삼동 816-6
 - 엔제리너스 강남역사거리점 ([link](https://goo.gl/maps/XMTrjWrAzWrmrHu1A))
-   - 서울특별시 강남구 역삼동 824-19, 1층 동경빌딩
+   - 서울특별시 강남구 역삼동 824-19 동경빌딩, 1층
 - 리퍼크 ([link](https://goo.gl/maps/5vfGv9asPGYbQR8b6))
    - 서울특별시 강남구 역삼동 825-2 메리츠타워, 1층 
 - 올드타운 한양 ([link](https://goo.gl/maps/PzHhhm7cxmDCntcK7))
