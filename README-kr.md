@@ -841,8 +841,6 @@
 
 ### 동작구
 
-- 드롭탑 서여의도점 ([link](https://goo.gl/maps/mmiCX4yyK8BhHNpCA))
-   - 서울특별시 영등포구 여의도동 국회대로70길 7
 - 텐퍼센트커피 이수역점 ([link](https://goo.gl/maps/k9GUs4pNYDSbAvgP7))
    - 서울특별시 동작구 동작대로29길 36 103, 104호
 - 스타벅스 노량진역점 ([link](https://maps.google.com/?cid=8193250930787995266))
@@ -1519,6 +1517,8 @@
 
 ### 영등포구
 
+- 드롭탑 서여의도점 ([link](https://goo.gl/maps/mmiCX4yyK8BhHNpCA))
+   - 서울특별시 영등포구 여의도동 국회대로70길 7
 - 텐퍼센트커피 여의도점 ([link](https://goo.gl/maps/xwcCKDjeqLN39mWd6))
    - 서울특별시 영등포구 여의동 35-2번지 백상빌딩, 1층 102호
 - 스타벅스 타임스퀘어R점 ([link](https://maps.google.com/?cid=5585900882227809798))
