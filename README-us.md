@@ -42,6 +42,8 @@
    - 201 Octavia St, San Francisco, CA 94102
 - Bluestone Lane Front Street Coffee Shop ([link](https://maps.app.goo.gl/xMAz4kcmzvhwvsZH6))
    - 227 Front St, San Francisco, CA 94111
+- Peet's coffee ([link](https://goo.gl/maps/QmLNfr39f5zYjyUW6))
+   - 160 Jefferson St, San Francisco, CA 94133
 - Philz Coffee, Polk St ([link](https://goo.gl/maps/NEZPv2KN1rPZFWp47))
    - 2234 Polk St, San Francisco, CA 94109
 - Philz Coffee, Front St ([link](https://goo.gl/maps/Wba7J644HNN95kiQ6))
