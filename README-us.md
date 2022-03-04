@@ -40,6 +40,8 @@
    - 3049 20th St, San Francisco, CA 94110
 - Beacon Coffee and Pantry ([link](https://goo.gl/maps/4cKkhFic1eszr5kF9))
    - 805 Columbus Ave, San Francisco, CA 94133
+- Four Barrel Coffee ([link](https://goo.gl/maps/aUwzfNxDFs6KcLL6A))
+   - 375 Valencia St, San Francisco, CA 94103
 - Jane on Fillmore ([link](https://goo.gl/maps/UjDQB9NeG5TZpwuSA))
    - 2123 Fillmore St, San Francisco, CA 94115
 - Mercury Cafe ([link](https://goo.gl/maps/GMAcry593bx8bise9))
