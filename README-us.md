@@ -46,6 +46,8 @@
    - 2123 Fillmore St, San Francisco, CA 94115
 - Mercury Cafe ([link](https://goo.gl/maps/GMAcry593bx8bise9))
    - 201 Octavia St, San Francisco, CA 94102
+- Ritual Coffee Roasters ([link](https://maps.app.goo.gl/6nwMG9jDac9V7qxm6))
+   - 1300 Haight St, San Francisco, CA 94117
 - Bluestone Lane Front Street Coffee Shop ([link](https://maps.app.goo.gl/xMAz4kcmzvhwvsZH6))
    - 227 Front St, San Francisco, CA 94111
 - Home Coffee Roasters ([link](https://goo.gl/maps/URZRu9KPV1CUsXYd8))
@@ -81,7 +83,7 @@
 - Dana Street Roasting Company ([link](https://goo.gl/maps/j9Vz2HKDuTdpMUcx8))
    - 744 W Dana St, Mountain View, CA 94041
 - Philz Coffee, Middlefield Rd ([link](https://maps.app.goo.gl/KZni5bqifjn9pu7o8))
-   - 3191 Middlefield Rd, Palo Alto, CA 94306 미국
+   - 3191 Middlefield Rd, Palo Alto, CA 94306
 - Starbucks, Pear Ave ([link](https://goo.gl/maps/ASBXPiTgLUYjdaWu6))
    - 1380 Pear Ave, Mountain View, CA 94043
 - Starbucks, Charleston Rd ([link](https://goo.gl/maps/ai87WrvaAjinN59H7))
