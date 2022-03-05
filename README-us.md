@@ -80,6 +80,8 @@
 
 - Dana Street Roasting Company ([link](https://goo.gl/maps/j9Vz2HKDuTdpMUcx8))
    - 744 W Dana St, Mountain View, CA 94041
+- Philz Coffee, Middlefield Rd ([link](https://maps.app.goo.gl/KZni5bqifjn9pu7o8))
+   - 3191 Middlefield Rd, Palo Alto, CA 94306 미국
 - Starbucks, Pear Ave ([link](https://goo.gl/maps/ASBXPiTgLUYjdaWu6))
    - 1380 Pear Ave, Mountain View, CA 94043
 - Starbucks, Charleston Rd ([link](https://goo.gl/maps/ai87WrvaAjinN59H7))
