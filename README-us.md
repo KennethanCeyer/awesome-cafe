@@ -52,6 +52,8 @@
    - 1300 Haight St, San Francisco, CA 94117
 - Bluestone Lane Front Street Coffee Shop ([link](https://maps.app.goo.gl/xMAz4kcmzvhwvsZH6))
    - 227 Front St, San Francisco, CA 94111
+- fifty/fifty ([link](https://goo.gl/maps/HZsQktahGBQ5tKuC7))
+   - 3157 Geary Blvd, San Francisco, CA 94118
 - Home Coffee Roasters ([link](https://goo.gl/maps/URZRu9KPV1CUsXYd8))
    - 1222 Noriega St, San Francisco, CA 94122
 - Verve Coffee Roasters ([link](https://goo.gl/maps/Y21DBHJozdfFVnm7A))
