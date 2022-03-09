@@ -58,6 +58,8 @@
    - 1222 Noriega St, San Francisco, CA 94122
 - Verve Coffee Roasters ([link](https://goo.gl/maps/Y21DBHJozdfFVnm7A))
    - 2101 Market St, San Francisco, CA 94114
+- Sightglass Coffee ([link](https://goo.gl/maps/cCeAU5YnAiXBiAu96))
+   - 270 7th St, San Francisco, CA 94103
 - Peet's coffee ([link](https://goo.gl/maps/QmLNfr39f5zYjyUW6))
    - 160 Jefferson St, San Francisco, CA 94133
 - Philz Coffee, Polk St ([link](https://goo.gl/maps/NEZPv2KN1rPZFWp47))
