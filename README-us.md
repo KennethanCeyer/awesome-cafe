@@ -81,6 +81,8 @@
 
 #### San Jose
 
+- Voltaire Coffee Roasters ([link](https://goo.gl/maps/i7g1bryNrx9WQ1E8A))
+   - 360 S Market St #80, San Jose, CA 95113
 - Philz Coffee, Colonnade Apt ([link](https://goo.gl/maps/kmDraBEETAxHTsuD8))
    - 118 Paseo de San Antonio, San Jose, CA 95112
 - Starbucks, Almanden Rd ([link](https://goo.gl/maps/XDUKfmgd5gfC6sVW7))
