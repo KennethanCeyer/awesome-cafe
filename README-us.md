@@ -81,6 +81,8 @@
 
 #### San Jose
 
+- Roy's Station Coffee & Tea ([link](https://goo.gl/maps/xf9mw4SrDMyD3WP99))
+   - 197 Jackson St, San Jose, CA 95112
 - Voltaire Coffee Roasters ([link](https://goo.gl/maps/i7g1bryNrx9WQ1E8A))
    - 360 S Market St #80, San Jose, CA 95113
 - Philz Coffee, Colonnade Apt ([link](https://goo.gl/maps/kmDraBEETAxHTsuD8))
