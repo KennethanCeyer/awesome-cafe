@@ -81,6 +81,8 @@
 
 #### San Jose
 
+- Crema Coffee Roasting Company ([link](https://goo.gl/maps/HqLT5BG8MxoXsG7KA))
+   - 238 Race St, San Jose, CA 95126
 - Roy's Station Coffee & Tea ([link](https://goo.gl/maps/xf9mw4SrDMyD3WP99))
    - 197 Jackson St, San Jose, CA 95112
 - Voltaire Coffee Roasters ([link](https://goo.gl/maps/i7g1bryNrx9WQ1E8A))
