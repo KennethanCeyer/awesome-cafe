@@ -125,6 +125,9 @@
 
 ### Los Angeles
 
+- Document Coffee Bar ([link](https://goo.gl/maps/mPRhm2ndYVSQEu8Z6))
+   - 3850 Wilshire Blvd, Los Angeles, CA 90010
+
 ### San Diego
 
 ### Santa Clarita
