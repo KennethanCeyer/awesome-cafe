@@ -85,6 +85,8 @@
    - 238 Race St, San Jose, CA 95126
 - Roy's Station Coffee & Tea ([link](https://goo.gl/maps/xf9mw4SrDMyD3WP99))
    - 197 Jackson St, San Jose, CA 95112
+- Voyager Craft Coffee ([link](https://goo.gl/maps/H4mwo1xoLL6eK3Um9))
+   - 87 N San Pedro St, San Jose, CA 95110
 - Voltaire Coffee Roasters ([link](https://goo.gl/maps/i7g1bryNrx9WQ1E8A))
    - 360 S Market St #80, San Jose, CA 95113
 - Philz Coffee, Colonnade Apt ([link](https://goo.gl/maps/kmDraBEETAxHTsuD8))
