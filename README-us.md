@@ -127,6 +127,8 @@
 
 ### Los Angeles
 
+- Alchemist Coffee Project ([link](https://goo.gl/maps/omPTKYfLnAthUrxX6))
+   - 698 S Vermont Ave Ste 103, Los Angeles, CA 90005
 - Document Coffee Bar ([link](https://goo.gl/maps/mPRhm2ndYVSQEu8Z6))
    - 3850 Wilshire Blvd, Los Angeles, CA 90010
 
