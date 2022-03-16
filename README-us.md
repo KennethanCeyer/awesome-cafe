@@ -134,6 +134,9 @@
 
 ### San Diego
 
+- Holsem Coffee ([link](https://goo.gl/maps/UYExqTJevvZJJUYE8))
+   - 2911 University Ave, San Diego, CA 92104
+
 ### Santa Clarita
 
 ### Fresno
