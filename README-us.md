@@ -134,6 +134,8 @@
 
 ### San Diego
 
+- Better Buzz Coffee Hillcrest ([link](https://g.page/betterbuzzcoffeehillcrest?share))
+   - 801 University Ave, San Diego, CA 92103
 - Holsem Coffee ([link](https://goo.gl/maps/UYExqTJevvZJJUYE8))
    - 2911 University Ave, San Diego, CA 92104
 
