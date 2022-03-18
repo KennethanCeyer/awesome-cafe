@@ -134,6 +134,8 @@
 
 ### San Diego
 
+- Bay Park Coffee ([link](https://goo.gl/maps/MSGbYxK8Knkq3rvX8))
+   - 4130 Napier St, San Diego, CA 92110
 - Better Buzz Coffee Hillcrest ([link](https://g.page/betterbuzzcoffeehillcrest?share))
    - 801 University Ave, San Diego, CA 92103
 - Holsem Coffee ([link](https://goo.gl/maps/UYExqTJevvZJJUYE8))
