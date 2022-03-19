@@ -140,6 +140,8 @@
    - 801 University Ave, San Diego, CA 92103
 - Holsem Coffee ([link](https://goo.gl/maps/UYExqTJevvZJJUYE8))
    - 2911 University Ave, San Diego, CA 92104
+- Communal Coffee ([link](https://goo.gl/maps/buepuJU2TczAwN6u8))
+   - 2335 University Ave, San Diego, CA 92104
 
 ### Santa Clarita
 
