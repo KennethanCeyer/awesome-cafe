@@ -150,6 +150,9 @@
 
 ### Fresno
 
+- Hi-Top Coffee ([link](https://goo.gl/maps/xioDzLnwsiEwQoe17))
+   - 1306 N Wishon Ave, Fresno, CA 93728
+
 ### Sacramento
 
 ### Long Beach
