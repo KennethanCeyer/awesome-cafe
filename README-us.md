@@ -159,3 +159,6 @@
    - 919 20th St, Sacramento, CA 95811
 
 ### Long Beach
+
+- Rose Park Roasters ([link](https://g.page/RoseParkonPine?share))
+   - 800 Pine Ave, Long Beach, CA 90813
