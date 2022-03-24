@@ -162,3 +162,5 @@
 
 - Rose Park Roasters ([link](https://g.page/RoseParkonPine?share))
    - 800 Pine Ave, Long Beach, CA 90813
+- Vibes Cafe ([link](https://maps.app.goo.gl/13aji1sqMHAeHpcWA))
+   - 76 1/2 62nd Pl, Long Beach, CA 90803
