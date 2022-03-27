@@ -161,6 +161,8 @@
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Pachamama Coffee ([link](https://g.page/PachamamaCoffeeCooperative?share))
    - 919 20th St, Sacramento, CA 95811
+- Old Soul at The Weatherstone ([link](https://goo.gl/maps/X5MUFpT4rfAzoLaUA))
+   - 812 21st Street, Sacramento, CA 95811
 
 ### Long Beach
 
