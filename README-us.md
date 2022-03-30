@@ -170,6 +170,8 @@
 
 ### Long Beach
 
+- Café Scuba ([link](https://goo.gl/maps/yYem6GhHv6TKHx8N7))
+   - 100 Aquarium Way, Long Beach, CA 90802
 - Rose Park Roasters ([link](https://g.page/RoseParkonPine?share))
    - 800 Pine Ave, Long Beach, CA 90813
 - Vibes Cafe ([link](https://maps.app.goo.gl/13aji1sqMHAeHpcWA))
