@@ -167,6 +167,8 @@
    - 919 20th St, Sacramento, CA 95811
 - Old Soul at The Weatherstone ([link](https://goo.gl/maps/X5MUFpT4rfAzoLaUA))
    - 812 21st Street, Sacramento, CA 95811
+- Vic's Café ([link](https://goo.gl/maps/J2onE7Mwg6iPTgTg8))
+   - 3193 Riverside Blvd, Sacramento, CA 95818
 
 ### Long Beach
 
