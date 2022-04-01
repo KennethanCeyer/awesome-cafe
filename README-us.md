@@ -147,6 +147,8 @@
 
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/TobeyebHSr8ePAXA9))
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
+- Trophy Coffee ([link](https://g.page/trophycoffee?share))
+   - 21726 Placerita Canyon Rd, Santa Clarita, CA 91321
 - Undergrounds Coffeehouse ([link](https://g.page/UndergroundsCoffee?share))
    - 23841 Newhall Ranch Rd, Santa Clarita, CA 91355
 
