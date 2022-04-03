@@ -165,6 +165,8 @@
 
 ### Sacramento
 
+- Shine Kava ([link](https://goo.gl/maps/ZXwWDtmTTCSaVAjf9))
+   - 1400 E St, Sacramento, CA 95814
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/2c6RSuE43WA2tJPHA))
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Pachamama Coffee ([link](https://g.page/PachamamaCoffeeCooperative?share))
