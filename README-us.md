@@ -133,6 +133,8 @@
    - 3850 Wilshire Blvd, Los Angeles, CA 90010
 - Verve Coffee Roasters ([link](https://g.page/500Mateo?share))
    - 500 Mateo St #102, Los Angeles, CA 90013
+- The Coffee Company ([link](https://goo.gl/maps/CL2mcAxFzXksvhLDA))
+   - 8751 La Tijera Blvd, Los Angeles, CA 90045
 
 ### San Diego
 
