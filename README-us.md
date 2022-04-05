@@ -81,6 +81,8 @@
 
 #### San Jose
 
+- Academic Coffee ([link](https://maps.app.goo.gl/QHw3rTMbhjxgn9wk8))
+   - 499 S Second St, San Jose, CA 95113
 - Crema Coffee Roasting Company ([link](https://goo.gl/maps/HqLT5BG8MxoXsG7KA))
    - 238 Race St, San Jose, CA 95126
 - Roy's Station Coffee & Tea ([link](https://goo.gl/maps/xf9mw4SrDMyD3WP99))
