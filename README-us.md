@@ -188,3 +188,5 @@
    - 800 Pine Ave, Long Beach, CA 90813
 - Vibes Cafe ([link](https://maps.app.goo.gl/13aji1sqMHAeHpcWA))
    - 76 1/2 62nd Pl, Long Beach, CA 90803
+- Philz Coffee, 4801 2nd St ([link](https://goo.gl/maps/QJ4eLp5sx7qzC8qZ6))
+   - 4801 2nd St, Long Beach, CA 90803
