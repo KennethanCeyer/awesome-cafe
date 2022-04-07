@@ -98,6 +98,8 @@
 
 #### Mountain View
 
+- Specialty's Café & Bakery ([link](https://goo.gl/maps/VdViMvMHN8DMJnEG7))
+   - 645 Ellis St, Mountain View, CA 94043
 - Dana Street Roasting Company ([link](https://goo.gl/maps/j9Vz2HKDuTdpMUcx8))
    - 744 W Dana St, Mountain View, CA 94041
 - Philz Coffee, Middlefield Rd ([link](https://maps.app.goo.gl/KZni5bqifjn9pu7o8))
