@@ -81,6 +81,8 @@
 
 #### San Jose
 
+- 7 Leaves Cafe ([link](https://goo.gl/maps/Xi5c5HYbMzmXL5n46))
+   - 1743 Berryessa Rd, San Jose, CA 95131
 - Academic Coffee ([link](https://maps.app.goo.gl/QHw3rTMbhjxgn9wk8))
    - 499 S Second St, San Jose, CA 95113
 - Crema Coffee Roasting Company ([link](https://goo.gl/maps/HqLT5BG8MxoXsG7KA))
