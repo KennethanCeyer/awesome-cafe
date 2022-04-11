@@ -124,6 +124,8 @@
 
 - Kilovolt Coffee ([link](https://goo.gl/maps/ofMXSz821EuvemSh7))
    - 1829 Mandela Parkway, Oakland, CA 94607
+- Oaklandia Cafe ([link](https://goo.gl/maps/AFVLXfzwNJpbwqXh9))
+   - 371 30th St Suite C100, Oakland, CA 94609
 - Peet's Coffee, Telegraph Ave ([link](https://goo.gl/maps/PiqHPC5L4ZTRPPev9))
    - 5095 Telegraph Ave Suite #1, Oakland, CA 94609
 - Peet's Coffee, Piedmont Ave ([link](https://goo.gl/maps/RNNkajGrZatYHaN88))
