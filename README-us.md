@@ -139,6 +139,8 @@
 
 ### Los Angeles
 
+- Carrera Cafe ([link](https://goo.gl/maps/Sfo9nFTLgWeP5Dcp8))
+   - 8251 Melrose Ave, Los Angeles, CA 90046
 - Alchemist Coffee Project ([link](https://goo.gl/maps/omPTKYfLnAthUrxX6))
    - 698 S Vermont Ave Ste 103, Los Angeles, CA 90005
 - Document Coffee Bar ([link](https://goo.gl/maps/mPRhm2ndYVSQEu8Z6))
