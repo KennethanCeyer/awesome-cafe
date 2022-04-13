@@ -187,6 +187,8 @@
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Pachamama Coffee ([link](https://g.page/PachamamaCoffeeCooperative?share))
    - 919 20th St, Sacramento, CA 95811
+- Kuppa Joy Coffee House - Fresno ([link](https://goo.gl/maps/spvkjQkcjBAgUYmH6))
+   - 1900 N Echo Ave, Fresno, CA 93704
 - Old Soul at The Weatherstone ([link](https://goo.gl/maps/X5MUFpT4rfAzoLaUA))
    - 812 21st Street, Sacramento, CA 95811
 - Vic's Café ([link](https://goo.gl/maps/J2onE7Mwg6iPTgTg8))
