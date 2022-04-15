@@ -163,6 +163,8 @@
 
 ### Santa Clarita
 
+- Bodhi Leaf Coffee Traders ([link](https://goo.gl/maps/TsjFToeb5HBfPvA9A))
+   - 22913 Soledad Canyon Rd, Santa Clarita, CA 91350
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/TobeyebHSr8ePAXA9))
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Trophy Coffee ([link](https://g.page/trophycoffee?share))
