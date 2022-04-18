@@ -151,6 +151,8 @@
    - 500 Mateo St #102, Los Angeles, CA 90013
 - The Coffee Company ([link](https://goo.gl/maps/CL2mcAxFzXksvhLDA))
    - 8751 La Tijera Blvd, Los Angeles, CA 90045
+- Starbucks, Grand Ave ([link](https://goo.gl/maps/rVvvFawg4KGC4Ci88))
+   - 350 S Grand Ave Suite #B-5, Los Angeles, CA 90071
 
 ### San Diego
 
