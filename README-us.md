@@ -164,6 +164,8 @@
    - 2911 University Ave, San Diego, CA 92104
 - Communal Coffee ([link](https://goo.gl/maps/buepuJU2TczAwN6u8))
    - 2335 University Ave, San Diego, CA 92104
+- Starbucks, Market St ([link](https://goo.gl/maps/Qrza4ERMKjvQXyQq7))
+   - 1011 Market St, San Diego, CA 92101
 
 ### Santa Clarita
 
