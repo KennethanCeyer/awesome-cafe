@@ -99,6 +99,8 @@
    - 2306 Almaden Rd, San Jose, CA 95125
 - Starbucks, San Carlos St ([link](https://goo.gl/maps/Lr2wYvQVXZNrRY6EA))
    - 1432 W San Carlos St, San Jose, CA 95126
+- Starbucks, 150 S 1st St ([link](https://goo.gl/maps/B9fYUGmZZ29PeRZx5))
+   - 150 S 1st St, San Jose, CA 95113
 
 #### Mountain View
 
