@@ -120,6 +120,8 @@
    - 580 N Rengstorff Ave, Mountain View, CA 94043
 - Starbucks, Shoreline Blvd ([link](https://goo.gl/maps/Zz5FVKE2LzH9YtyY7))
    - 570 N Shoreline Blvd, Mountain View, CA 94040
+- Starbucks, 175 E El Camino Real ([link](https://goo.gl/maps/GFKr6rdpG7mgCva86))
+   - 175 E El Camino Real, Mountain View, CA 94040
 
 
 #### Oakland
