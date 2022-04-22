@@ -142,6 +142,8 @@
    - 5959 Shellmound St Suite 85, Emeryville, CA 94608
 - Starbucks, Clay St ([link](https://goo.gl/maps/DwPCs9fbAumT4f7DA))
    - 1200 Clay St, Oakland, CA 94612
+- Starbucks, Embarcadero ([link](https://goo.gl/maps/Umozr3XwzQCtS8Yg7))
+   - 1211 Embarcadero, Oakland, CA 94606
 
 ### Los Angeles
 
