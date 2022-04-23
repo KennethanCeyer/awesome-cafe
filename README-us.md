@@ -159,6 +159,8 @@
    - 8751 La Tijera Blvd, Los Angeles, CA 90045
 - Starbucks, Grand Ave ([link](https://goo.gl/maps/rVvvFawg4KGC4Ci88))
    - 350 S Grand Ave Suite #B-5, Los Angeles, CA 90071
+- Starbucks, Crenshaw Blvd ([link](https://goo.gl/maps/dg61kZSYhRLJSUcz5))
+   - 3722 Crenshaw Blvd, Los Angeles, CA 90016
 
 ### San Diego
 
