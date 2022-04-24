@@ -78,6 +78,8 @@
    - 549 Castro St, San Francisco, CA 94114
 - Philz Coffee, Embarcadero Ctr ([link](https://goo.gl/maps/9KHHzs3enyrN5PQz6))
    - 5 Embarcadero Ctr, San Francisco, CA 94111
+- Starbucks, Stockton St ([link](https://goo.gl/maps/ZbYHDuddEgos444n9))
+   - 390 Stockton St, San Francisco, CA 94108
 
 #### San Jose
 
