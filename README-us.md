@@ -106,7 +106,7 @@
 
 #### Mountain View
 
-- Panera Bread ([link](https://goo.gl/maps/XeuhMSeSGc7Qvaex8])
+- Panera Bread ([link](https://goo.gl/maps/XeuhMSeSGc7Qvaex8)])
    - 1035 El Monte Ave, Mountain View, CA 94041
 - Specialty's Café & Bakery ([link](https://goo.gl/maps/VdViMvMHN8DMJnEG7))
    - 645 Ellis St, Mountain View, CA 94043
@@ -114,6 +114,8 @@
    - 744 W Dana St, Mountain View, CA 94041
 - Philz Coffee, Middlefield Rd ([link](https://maps.app.goo.gl/KZni5bqifjn9pu7o8))
    - 3191 Middlefield Rd, Palo Alto, CA 94306
+- Philz Coffee, Forest Ave ([link](https://goo.gl/maps/umH35WADA9Tvn7b48))
+   - 101 Forest Ave, Palo Alto, CA 94301
 - Starbucks, Pear Ave ([link](https://goo.gl/maps/ASBXPiTgLUYjdaWu6))
    - 1380 Pear Ave, Mountain View, CA 94043
 - Starbucks, Charleston Rd ([link](https://goo.gl/maps/ai87WrvaAjinN59H7))
