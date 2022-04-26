@@ -226,3 +226,5 @@
    - 76 1/2 62nd Pl, Long Beach, CA 90803
 - Philz Coffee, 4801 2nd St ([link](https://goo.gl/maps/QJ4eLp5sx7qzC8qZ6))
    - 4801 2nd St, Long Beach, CA 90803
+- Starbucks, Alhambra Blvd ([link](https://goo.gl/maps/rhnSFTVL3rspn4JXA))
+   - 1401 Alhambra Blvd, Sacramento, CA 95816
