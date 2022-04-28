@@ -97,6 +97,8 @@
    - 360 S Market St #80, San Jose, CA 95113
 - Philz Coffee, Colonnade Apt ([link](https://goo.gl/maps/kmDraBEETAxHTsuD8))
    - 118 Paseo de San Antonio, San Jose, CA 95112
+- Philz Coffee, Lincoln Ave ([link](https://goo.gl/maps/N162hxbKeXZEqiAz7))
+   - 1115 Lincoln Ave, San Jose, CA 95125
 - Starbucks, Almanden Rd ([link](https://goo.gl/maps/XDUKfmgd5gfC6sVW7))
    - 2306 Almaden Rd, San Jose, CA 95125
 - Starbucks, San Carlos St ([link](https://goo.gl/maps/Lr2wYvQVXZNrRY6EA))
