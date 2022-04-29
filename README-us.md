@@ -114,6 +114,8 @@
    - 645 Ellis St, Mountain View, CA 94043
 - Dana Street Roasting Company ([link](https://goo.gl/maps/j9Vz2HKDuTdpMUcx8))
    - 744 W Dana St, Mountain View, CA 94041
+- Peet's Coffee, Castro St ([link](https://goo.gl/maps/ebo2WqCeYeq3dNJp6))
+   - 420 Castro St, Mountain View, CA 94041
 - Philz Coffee, Middlefield Rd ([link](https://maps.app.goo.gl/KZni5bqifjn9pu7o8))
    - 3191 Middlefield Rd, Palo Alto, CA 94306
 - Philz Coffee, Forest Ave ([link](https://goo.gl/maps/umH35WADA9Tvn7b48))
