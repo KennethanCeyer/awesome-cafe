@@ -97,6 +97,8 @@
    - 360 S Market St #80, San Jose, CA 95113
 - Peet's Coffee, Santana Row Suite ([link](https://goo.gl/maps/aPkjhjEURunsM2ux9))
    - 377 Santana Row Suite # 1130, San Jose, CA 95128
+- Peet's Coffee, The Alameda ([link](https://goo.gl/maps/p9knxZebMjZsFNYG7))
+   - 1295 The Alameda, San Jose, CA 95126
 - Philz Coffee, Colonnade Apt ([link](https://goo.gl/maps/kmDraBEETAxHTsuD8))
    - 118 Paseo de San Antonio, San Jose, CA 95112
 - Philz Coffee, Lincoln Ave ([link](https://goo.gl/maps/N162hxbKeXZEqiAz7))
