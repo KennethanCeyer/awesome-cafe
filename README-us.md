@@ -95,6 +95,8 @@
    - 87 N San Pedro St, San Jose, CA 95110
 - Voltaire Coffee Roasters ([link](https://goo.gl/maps/i7g1bryNrx9WQ1E8A))
    - 360 S Market St #80, San Jose, CA 95113
+- Caffé Bene, E Tasman Dr ([link](https://goo.gl/maps/UPysEMDwyG89xDh6A))
+   - 181 E Tasman Dr #80, San Jose, CA 95134
 - Peet's Coffee, Santana Row Suite ([link](https://goo.gl/maps/aPkjhjEURunsM2ux9))
    - 377 Santana Row Suite # 1130, San Jose, CA 95128
 - Peet's Coffee, The Alameda ([link](https://goo.gl/maps/p9knxZebMjZsFNYG7))
