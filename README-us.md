@@ -126,6 +126,8 @@
    - 420 Castro St, Mountain View, CA 94041
 - Peet's Coffee, Ellis St ([link](https://goo.gl/maps/5GvayST8jhKF8Hs46))
    - 645 Ellis St, Mountain View, CA 94043
+- Peet's Coffee, Grant Rd ([link](https://goo.gl/maps/oSeafT9x1eaR5yUM9))
+   - Nob Hill Foods, 1250 Grant Rd, Mountain View, CA 94040
 - Philz Coffee, Middlefield Rd ([link](https://maps.app.goo.gl/KZni5bqifjn9pu7o8))
    - 3191 Middlefield Rd, Palo Alto, CA 94306
 - Philz Coffee, Forest Ave ([link](https://goo.gl/maps/umH35WADA9Tvn7b48))
