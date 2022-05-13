@@ -1,5 +1,4 @@
-<h1 align="center">Awesome Cafe ☕</h1>
-  
+<h1 align="center">Awesome Cafe ☕</h1> 
 <p align="center">List of cafes for developers</p>
 
 ## ⛳️ List
