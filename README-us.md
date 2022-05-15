@@ -59,7 +59,7 @@
    - 2101 Market St, San Francisco, CA 94114
 - Sightglass Coffee ([link](https://goo.gl/maps/cCeAU5YnAiXBiAu96))
    - 270 7th St, San Francisco, CA 94103
-- Peet's coffee ([link](https://goo.gl/maps/M6JRfeV8aZXJwByH7))
+- Peet's coffee, California St ([link](https://goo.gl/maps/M6JRfeV8aZXJwByH7))
    - 3419 California St, San Francisco, CA 94118
 - Peet's coffee ([link](https://goo.gl/maps/QmLNfr39f5zYjyUW6))
    - 160 Jefferson St, San Francisco, CA 94133
