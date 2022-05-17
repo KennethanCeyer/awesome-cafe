@@ -147,6 +147,8 @@
 
 #### Oakland
 
+- Awaken Cafe & Roasting ([link](https://g.page/awaken-cafe-roasting?share))
+   - 1429 Broadway, Oakland, CA 94612
 - Kilovolt Coffee ([link](https://goo.gl/maps/ofMXSz821EuvemSh7))
    - 1829 Mandela Parkway, Oakland, CA 94607
 - Oaklandia Cafe ([link](https://goo.gl/maps/AFVLXfzwNJpbwqXh9))
