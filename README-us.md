@@ -153,6 +153,8 @@
    - 1829 Mandela Parkway, Oakland, CA 94607
 - Oaklandia Cafe ([link](https://goo.gl/maps/AFVLXfzwNJpbwqXh9))
    - 371 30th St Suite C100, Oakland, CA 94609
+- Modern Coffee ([link](https://goo.gl/maps/uN52NcumMP4Jtitw7))
+   - 381 19th St, Oakland, CA 94612
 - Philz Coffee, College Ave ([link](https://goo.gl/maps/EbGLT46AMFCctNoRA))
    - 6310 College Ave, Oakland, CA 94618
 - Philz Coffee, Ninth St Suite ([link](https://goo.gl/maps/jpVBSeAX7FfciVAu5))
