@@ -98,6 +98,8 @@
    - 360 S Market St #80, San Jose, CA 95113
 - Caffé Bene, E Tasman Dr ([link](https://goo.gl/maps/UPysEMDwyG89xDh6A))
    - 181 E Tasman Dr #80, San Jose, CA 95134
+- Nirvana Soul ([link](https://g.page/nirvanasoulcoffee?share))
+   - 315 S First St, San Jose, CA 95113
 - Peet's Coffee, Santana Row Suite ([link](https://goo.gl/maps/aPkjhjEURunsM2ux9))
    - 377 Santana Row Suite # 1130, San Jose, CA 95128
 - Peet's Coffee, The Alameda ([link](https://goo.gl/maps/p9knxZebMjZsFNYG7))
