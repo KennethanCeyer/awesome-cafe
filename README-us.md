@@ -188,6 +188,8 @@
    - 500 Mateo St #102, Los Angeles, CA 90013
 - The Coffee Company ([link](https://goo.gl/maps/CL2mcAxFzXksvhLDA))
    - 8751 La Tijera Blvd, Los Angeles, CA 90045
+- Philz Coffee, Sunset Blvd ([link](https://goo.gl/maps/XmVURghnP2cJiuUy9))
+   - 6430 Sunset Blvd, Los Angeles, CA 90028
 - Peet's Coffee, Larchmont Blvd ([link](https://goo.gl/maps/VpH4sDyktm7eyG8r5))
    - 124 N Larchmont Blvd, Los Angeles, CA 90004
 - Starbucks, Grand Ave ([link](https://goo.gl/maps/rVvvFawg4KGC4Ci88))
