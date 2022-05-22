@@ -216,6 +216,8 @@
 
 - Starbucks, Golden Valley Rd ([link](https://goo.gl/maps/oimGssUgRSb6Jipc9))
    - 26585 Golden Valley Rd, Santa Clarita, CA 91350
+- Starbucks, The Old Rd ([link](https://goo.gl/maps/hNe9cAvr9XmkK1Q76))
+   - 25850 The Old Rd, Valencia, CA 91355
 - Bodhi Leaf Coffee Traders ([link](https://goo.gl/maps/TsjFToeb5HBfPvA9A))
    - 22913 Soledad Canyon Rd, Santa Clarita, CA 91350
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/TobeyebHSr8ePAXA9))
