@@ -190,6 +190,8 @@
    - 8751 La Tijera Blvd, Los Angeles, CA 90045
 - Philz Coffee, Sunset Blvd ([link](https://goo.gl/maps/XmVURghnP2cJiuUy9))
    - 6430 Sunset Blvd, Los Angeles, CA 90028
+- Philz Coffee, Beverly Dr ([link](https://goo.gl/maps/q8MbmhRNu1qSE1B2A))
+   - 233 S Beverly Dr Suite B, Beverly Hills, CA 90212
 - Peet's Coffee, Larchmont Blvd ([link](https://goo.gl/maps/VpH4sDyktm7eyG8r5))
    - 124 N Larchmont Blvd, Los Angeles, CA 90004
 - Starbucks, Grand Ave ([link](https://goo.gl/maps/rVvvFawg4KGC4Ci88))
