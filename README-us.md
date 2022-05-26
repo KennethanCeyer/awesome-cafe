@@ -211,6 +211,8 @@
    - 2911 University Ave, San Diego, CA 92104
 - Communal Coffee ([link](https://goo.gl/maps/buepuJU2TczAwN6u8))
    - 2335 University Ave, San Diego, CA 92104
+- The WestBean Coffee Roasters ([link](https://goo.gl/maps/XN4qMW8cPbcn8ZfA9))
+   - 2550 Fifth Ave Suite 75, San Diego, CA 92103
 - Philz Coffee, La Jolla Dr ([link](https://goo.gl/maps/GnG6xAEcDjAT6Jdb6))
    - 8849 Villa La Jolla Dr, La Jolla, CA 92037
 - Starbucks, Market St ([link](https://goo.gl/maps/Qrza4ERMKjvQXyQq7))
