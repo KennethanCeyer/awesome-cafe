@@ -215,6 +215,8 @@
    - 2550 Fifth Ave Suite 75, San Diego, CA 92103
 - Philz Coffee, La Jolla Dr ([link](https://goo.gl/maps/GnG6xAEcDjAT6Jdb6))
    - 8849 Villa La Jolla Dr, La Jolla, CA 92037
+- Starbucks, Broadway Suite ([link](https://goo.gl/maps/vKrBw7PbuN9wtH5Y7))
+   - 600 W Broadway Suite 115, San Diego, CA 92101
 - Starbucks, Market St ([link](https://goo.gl/maps/Qrza4ERMKjvQXyQq7))
    - 1011 Market St, San Diego, CA 92101
 
