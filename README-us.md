@@ -260,6 +260,8 @@
    - 812 21st Street, Sacramento, CA 95811
 - Vic's Café ([link](https://goo.gl/maps/J2onE7Mwg6iPTgTg8))
    - 3193 Riverside Blvd, Sacramento, CA 95818
+- Starbucks, Alhambra Blvd ([link](https://goo.gl/maps/QbYVRSkf5V4f8ppv8))
+   - 1401 Alhambra Blvd, Sacramento, CA 95816
 
 ### Long Beach
 
