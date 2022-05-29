@@ -245,6 +245,8 @@
    - 8821 N Cedar Ave, Fresno, CA 93720
 - Hi-Top Coffee ([link](https://goo.gl/maps/xioDzLnwsiEwQoe17))
    - 1306 N Wishon Ave, Fresno, CA 93728
+- Starbucks, U St ([link](https://goo.gl/maps/CmUBRiKZ6sF24UdY9))
+   - 1100 U St, Fresno, CA 93721
 
 ### Sacramento
 
