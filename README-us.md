@@ -249,6 +249,8 @@
    - 1041 E Shaw Ave, Fresno, CA 93710
 - Starbucks, U St ([link](https://goo.gl/maps/CmUBRiKZ6sF24UdY9))
    - 1100 U St, Fresno, CA 93721
+- Starbucks, Tulare Ave ([link](https://goo.gl/maps/Mu9WLfPCM1RWF7N57))
+   - 3045 E Tulare Ave, Fresno, CA 93721
 
 ### Sacramento
 
