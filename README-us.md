@@ -251,6 +251,8 @@
    - 1100 U St, Fresno, CA 93721
 - Starbucks, Tulare Ave ([link](https://goo.gl/maps/Mu9WLfPCM1RWF7N57))
    - 3045 E Tulare Ave, Fresno, CA 93721
+- Startbucks, Shields Ave ([link](https://goo.gl/maps/b8VhhcnWLN2NHBdd6))
+   - 2035 E Shields Ave, Fresno, CA 93726
 
 ### Sacramento
 
