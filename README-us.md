@@ -262,6 +262,8 @@
    - 1400 E St, Sacramento, CA 95814
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/2c6RSuE43WA2tJPHA))
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
+- Philz Coffee, 1725 R St ([link](https://goo.gl/maps/8R3LxQg1JsNbqZV37))
+   - 1725 R St, Sacramento, CA 95811
 - Pachamama Coffee ([link](https://g.page/PachamamaCoffeeCooperative?share))
    - 919 20th St, Sacramento, CA 95811
 - Kuppa Joy Coffee House - Fresno ([link](https://goo.gl/maps/spvkjQkcjBAgUYmH6))
