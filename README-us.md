@@ -194,6 +194,8 @@
    - 233 S Beverly Dr Suite B, Beverly Hills, CA 90212
 - Peet's Coffee, Larchmont Blvd ([link](https://goo.gl/maps/VpH4sDyktm7eyG8r5))
    - 124 N Larchmont Blvd, Los Angeles, CA 90004
+- Peet's Coffee, Westwood Blvd ([link](https://goo.gl/maps/GpSjwDpP4P98ZJuF9))
+   - 1854 Westwood Blvd, Los Angeles, CA 90025
 - Starbucks, Grand Ave ([link](https://goo.gl/maps/rVvvFawg4KGC4Ci88))
    - 350 S Grand Ave Suite #B-5, Los Angeles, CA 90071
 - Starbucks, Crenshaw Blvd ([link](https://goo.gl/maps/dg61kZSYhRLJSUcz5))
