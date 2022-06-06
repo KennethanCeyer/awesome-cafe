@@ -192,6 +192,8 @@
    - 6430 Sunset Blvd, Los Angeles, CA 90028
 - Philz Coffee, Beverly Dr ([link](https://goo.gl/maps/q8MbmhRNu1qSE1B2A))
    - 233 S Beverly Dr Suite B, Beverly Hills, CA 90212
+- Philz Coffee, Ventura Blvd ([link](https://goo.gl/maps/SyDgNv9UC6PMnBzCA))
+   - 13005 Ventura Blvd, Studio City, CA 91604
 - Peet's Coffee, Larchmont Blvd ([link](https://goo.gl/maps/VpH4sDyktm7eyG8r5))
    - 124 N Larchmont Blvd, Los Angeles, CA 90004
 - Peet's Coffee, Westwood Blvd ([link](https://goo.gl/maps/GpSjwDpP4P98ZJuF9))
