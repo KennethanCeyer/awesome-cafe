@@ -125,6 +125,8 @@
    - 645 Ellis St, Mountain View, CA 94043
 - Dana Street Roasting Company ([link](https://goo.gl/maps/j9Vz2HKDuTdpMUcx8))
    - 744 W Dana St, Mountain View, CA 94041
+- Shoreline Lake American Bistro ([link](https://goo.gl/maps/iwVntB3zm4a5RGkV8))
+   - 3160 N Shoreline Blvd, Mountain View, CA 94043
 - Peet's Coffee, Castro St ([link](https://goo.gl/maps/ebo2WqCeYeq3dNJp6))
    - 420 Castro St, Mountain View, CA 94041
 - Peet's Coffee, Ellis St ([link](https://goo.gl/maps/5GvayST8jhKF8Hs46))
