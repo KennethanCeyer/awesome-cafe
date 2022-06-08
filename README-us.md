@@ -110,6 +110,8 @@
    - 118 Paseo de San Antonio, San Jose, CA 95112
 - Philz Coffee, Lincoln Ave ([link](https://goo.gl/maps/N162hxbKeXZEqiAz7))
    - 1115 Lincoln Ave, San Jose, CA 95125
+- Starbucks, Monterey Rd ([link](https://goo.gl/maps/mzF88r8sp9j3T1rd6))
+   - 1430 Monterey Rd #20, San Jose, CA 95110
 - Starbucks, Almanden Rd ([link](https://goo.gl/maps/XDUKfmgd5gfC6sVW7))
    - 2306 Almaden Rd, San Jose, CA 95125
 - Starbucks, San Carlos St ([link](https://goo.gl/maps/Lr2wYvQVXZNrRY6EA))
