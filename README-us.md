@@ -121,6 +121,8 @@
 
 #### Mountain View
 
+- Clocktower Coffee Roasting Company ([link](https://goo.gl/maps/QFJ9BTxZ8uCRLo7d7))
+   - 205 E Middlefield Rd, Mountain View, CA 94043
 - Panera Bread ([link](https://goo.gl/maps/XeuhMSeSGc7Qvaex8)])
    - 1035 El Monte Ave, Mountain View, CA 94041
 - Specialty's Café & Bakery ([link](https://goo.gl/maps/VdViMvMHN8DMJnEG7))
