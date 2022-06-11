@@ -194,6 +194,8 @@
    - 500 Mateo St #102, Los Angeles, CA 90013
 - The Coffee Company ([link](https://goo.gl/maps/CL2mcAxFzXksvhLDA))
    - 8751 La Tijera Blvd, Los Angeles, CA 90045
+- Earth Bean Coffee ([link](https://g.page/earthbeancoffee?share))
+   - 1040 S Los Angeles St, Los Angeles, CA 90015
 - Philz Coffee, Sunset Blvd ([link](https://goo.gl/maps/XmVURghnP2cJiuUy9))
    - 6430 Sunset Blvd, Los Angeles, CA 90028
 - Philz Coffee, Beverly Dr ([link](https://goo.gl/maps/q8MbmhRNu1qSE1B2A))
