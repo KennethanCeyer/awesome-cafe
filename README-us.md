@@ -81,6 +81,8 @@
    - 5 Embarcadero Ctr, San Francisco, CA 94111
 - Starbucks, Stockton St ([link](https://goo.gl/maps/ZbYHDuddEgos444n9))
    - 390 Stockton St, San Francisco, CA 94108
+- Starbucks, California St ([link]([https://goo.gl/maps/ZbYHDuddEgos444n9](https://goo.gl/maps/haN2GS3va5na3NQ16)))
+   - 3595 California St, San Francisco, CA 94118
 
 #### San Jose
 
