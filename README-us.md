@@ -153,6 +153,8 @@
    - 570 N Shoreline Blvd, Mountain View, CA 94040
 - Starbucks, 175 E El Camino Real ([link](https://goo.gl/maps/GFKr6rdpG7mgCva86))
    - 175 E El Camino Real, Mountain View, CA 94040
+- Starbucks, Monte Ave ([link](https://goo.gl/maps/hgRGE3bQ9xH4m1wV7))
+   - 1037 El Monte Ave, Mountain View, CA 94040
 
 
 #### Oakland
