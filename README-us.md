@@ -186,6 +186,8 @@
    - 1200 Clay St, Oakland, CA 94612
 - Starbucks, Embarcadero ([link](https://goo.gl/maps/Umozr3XwzQCtS8Yg7))
    - 1211 Embarcadero, Oakland, CA 94606
+- Starbucks, Fruitvale Ave ([link](https://goo.gl/maps/1ehr95Dr4ZFF8rp46))
+   - 3550 Fruitvale Ave, Oakland, CA 94602
 
 ### Los Angeles
 
