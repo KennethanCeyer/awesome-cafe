@@ -213,6 +213,8 @@
    - 124 N Larchmont Blvd, Los Angeles, CA 90004
 - Peet's Coffee, Westwood Blvd ([link](https://goo.gl/maps/GpSjwDpP4P98ZJuF9))
    - 1854 Westwood Blvd, Los Angeles, CA 90025
+- Starbucks, Alameda St ([link](https://goo.gl/maps/Zc5W2Ux88uhqKHfD6))
+   - 1401 Alameda St, Los Angeles, CA 90021
 - Starbucks, Grand Ave ([link](https://goo.gl/maps/rVvvFawg4KGC4Ci88))
    - 350 S Grand Ave Suite #B-5, Los Angeles, CA 90071
 - Starbucks, Crenshaw Blvd ([link](https://goo.gl/maps/dg61kZSYhRLJSUcz5))
