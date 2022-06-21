@@ -219,6 +219,8 @@
    - 350 S Grand Ave Suite #B-5, Los Angeles, CA 90071
 - Starbucks, Crenshaw Blvd ([link](https://goo.gl/maps/dg61kZSYhRLJSUcz5))
    - 3722 Crenshaw Blvd, Los Angeles, CA 90016
+- Starbucks, Wilshire Blvd ([link](https://goo.gl/maps/YruCnwTgXeRWftvq6))
+   - 3150 Wilshire Blvd, Los Angeles, CA 90010
 
 ### San Diego
 
