@@ -250,6 +250,8 @@
    - 600 W Broadway Suite 115, San Diego, CA 92101
 - Starbucks, Market St ([link](https://goo.gl/maps/Qrza4ERMKjvQXyQq7))
    - 1011 Market St, San Diego, CA 92101
+- Starbucks, Harbor Dr Suite ([link](https://goo.gl/maps/PB2XtxdC2N8TWS7x6))
+   - 789 W Harbor Dr Suite E-7, San Diego, CA 92101
 
 ### Santa Clarita
 
