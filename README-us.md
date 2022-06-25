@@ -244,6 +244,8 @@
    - 955 Catalina Blvd Suite 103, San Diego, CA 92106
 - Philz Coffee, La Jolla Dr ([link](https://goo.gl/maps/GnG6xAEcDjAT6Jdb6))
    - 8849 Villa La Jolla Dr, La Jolla, CA 92037
+- Philz Coffee, El Camino Real Highlands ([link](https://goo.gl/maps/WwLJhmha9416dq3w8))
+   - Town Center, 12873 El Camino Real Highlands, San Diego, CA 92130
 - Starbucks, Fifth Ave ([link](https://goo.gl/maps/bungYaKaUP4JcrLg8))
    - 2440 Fifth Ave, San Diego, CA 92101
 - Starbucks, Broadway Suite ([link](https://goo.gl/maps/vKrBw7PbuN9wtH5Y7))
