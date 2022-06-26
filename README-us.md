@@ -213,6 +213,8 @@
    - 124 N Larchmont Blvd, Los Angeles, CA 90004
 - Peet's Coffee, Westwood Blvd ([link](https://goo.gl/maps/GpSjwDpP4P98ZJuF9))
    - 1854 Westwood Blvd, Los Angeles, CA 90025
+- Peet's Coffee, World Way ([link](https://goo.gl/maps/z7JyVFLa1G6kMF4Y6))
+   - 1 World Way, Los Angeles, CA 90045
 - Starbucks, Los Angeles St ([link](https://goo.gl/maps/z2yePWi5nTUtVhab8))
    - 120 S Los Angeles St #110, Los Angeles, CA 90012
 - Starbucks, Alameda St ([link](https://goo.gl/maps/Zc5W2Ux88uhqKHfD6))
