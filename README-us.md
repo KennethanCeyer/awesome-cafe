@@ -276,6 +276,11 @@
 - Starbucks, The Old Rd ([link](https://goo.gl/maps/hNe9cAvr9XmkK1Q76))
    - 25850 The Old Rd, Valencia, CA 91355
 
+### Stanford
+
+- Starbucks, Lagunita Dr ([link](https://goo.gl/maps/AAavxEQaHs8uW78fA))
+   - 459 Lagunita Dr, Stanford, CA 94305
+
 ### Fresno
 
 - The Revue - Coffee Shop ([link](https://g.page/revue_fresno?share))
