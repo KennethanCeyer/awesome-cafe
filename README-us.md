@@ -12,6 +12,7 @@
     - [Los Angeles](#los-angeles)
     - [San Diego](#san-deigo)
     - [Santa Clarita](#santa-clarita)
+    - [Stanford](#stanford)
     - [Fresno](#fresno)
     - [Sacramento](#sacramento)
     - [Long Beach](#long-beach)
