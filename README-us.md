@@ -279,6 +279,8 @@
 
 ### Stanford
 
+- Med Café ([link](https://goo.gl/maps/4vzgtng2C7B57ph58))
+   - 291 Campus Drive, Stanford, CA 94305
 - Peet's Coffee, Campus Drive ([link](https://goo.gl/maps/dAz23ZQ2MqoBnYt49))
    - 318 Campus Drive, Stanford, CA 94305
 - Starbucks, Lagunita Dr ([link](https://goo.gl/maps/AAavxEQaHs8uW78fA))
