@@ -283,6 +283,8 @@
    - 291 Campus Drive, Stanford, CA 94305
 - Coupa Cafe - GSB ([link](https://goo.gl/maps/H5P1u8CsrkAjctwP7))
    - 655 Knight Way, Stanford, CA 94305
+- Coupa Cafe - Y2E2 ([link](https://goo.gl/maps/af1mpBhW2Hc8C9fLA))
+   - 473 Via Ortega, Stanford, CA 94305
 - Blue Bottle Coffee, Stanford Shopping Center ([link](https://goo.gl/maps/Bo1hzqntzYZre74m9))
    - 660 Stanford Shopping Center #650B, Palo Alto, CA 94304
 - Peet's Coffee, Campus Drive ([link](https://goo.gl/maps/dAz23ZQ2MqoBnYt49))
