@@ -281,6 +281,8 @@
 
 - Med Café ([link](https://goo.gl/maps/4vzgtng2C7B57ph58))
    - 291 Campus Drive, Stanford, CA 94305
+- Cool Cafe ([link](https://goo.gl/maps/JPkFSDzuwij6RjCu8))
+   - 328 Lomita Dr, Stanford, CA 94305
 - Coupa Cafe - GSB ([link](https://goo.gl/maps/H5P1u8CsrkAjctwP7))
    - 655 Knight Way, Stanford, CA 94305
 - Coupa Cafe - Y2E2 ([link](https://goo.gl/maps/af1mpBhW2Hc8C9fLA))
