@@ -14,6 +14,7 @@
     - [Santa Clarita](#santa-clarita)
     - [Stanford](#stanford)
     - [Fresno](#fresno)
+    - [Palo Alto](#palo-alto)
     - [Sacramento](#sacramento)
     - [Long Beach](#long-beach)
 
@@ -313,6 +314,11 @@
    - 3045 E Tulare Ave, Fresno, CA 93721
 - Startbucks, Shields Ave ([link](https://goo.gl/maps/b8VhhcnWLN2NHBdd6))
    - 2035 E Shields Ave, Fresno, CA 93726
+
+### Palo Alto
+
+- Peet's Coffee, Country Vlg ([link](https://goo.gl/maps/iBY3PGrmtyFwLgeV8))
+   - 77 Town and Country Vlg, Palo Alto, CA 94301
 
 ### Sacramento
 
