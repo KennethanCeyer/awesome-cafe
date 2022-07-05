@@ -319,6 +319,8 @@
 
 - Peet's Coffee, Country Vlg ([link](https://goo.gl/maps/iBY3PGrmtyFwLgeV8))
    - 77 Town and Country Vlg, Palo Alto, CA 94301
+- Starbucks, California Ave ([link](https://goo.gl/maps/crdWDAw9UCxUb4UH9))
+   - 361 California Ave, Palo Alto, CA 94306
 
 ### Sacramento
 
