@@ -319,6 +319,8 @@
 
 - Philz Coffee, Forest Ave ([link](https://goo.gl/maps/xAMF8ojmc4L6Q3Z86))
    - 101 Forest Ave, Palo Alto, CA 94301
+- Philz Coffee, Middlefield Rd ([link](https://goo.gl/maps/FZcs47AXPwd5MVUU8))
+   - 3191 Middlefield Rd, Palo Alto, CA 94306
 - Peet's Coffee, Country Vlg ([link](https://goo.gl/maps/iBY3PGrmtyFwLgeV8))
    - 77 Town and Country Vlg, Palo Alto, CA 94301
 - Starbucks, California Ave ([link](https://goo.gl/maps/crdWDAw9UCxUb4UH9))
