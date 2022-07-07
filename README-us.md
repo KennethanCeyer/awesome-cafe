@@ -323,6 +323,8 @@
    - 77 Town and Country Vlg, Palo Alto, CA 94301
 - Starbucks, California Ave ([link](https://goo.gl/maps/crdWDAw9UCxUb4UH9))
    - 361 California Ave, Palo Alto, CA 94306
+- Starbucks, University Ave ([link](https://goo.gl/maps/oaz3vY19u8nAc8L96))
+   - 376 University Ave, Palo Alto, CA 94301
 
 ### Sacramento
 
