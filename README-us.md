@@ -323,6 +323,8 @@
    - 3191 Middlefield Rd, Palo Alto, CA 94306
 - Peet's Coffee, Country Vlg ([link](https://goo.gl/maps/iBY3PGrmtyFwLgeV8))
    - 77 Town and Country Vlg, Palo Alto, CA 94301
+- Verve Coffee Roasters ([link](https://goo.gl/maps/z36KT5EZ71mLBnWT8))
+   - 162 University Ave, Palo Alto, CA 94301
 - Palo Alto Cafe ([link](https://goo.gl/maps/bEtF3cYh3hK7PF4j7))
    - 2675 Middlefield Rd A, Palo Alto, CA 94306
 - Starbucks, California Ave ([link](https://goo.gl/maps/crdWDAw9UCxUb4UH9))
