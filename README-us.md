@@ -317,6 +317,8 @@
 
 ### Palo Alto
 
+- Blue Bottle Coffee, University Ave ([link](https://goo.gl/maps/ZngXvkjuoPuWTECz8))
+   - 456 University Ave, Palo Alto, CA 94301
 - Philz Coffee, Forest Ave ([link](https://goo.gl/maps/xAMF8ojmc4L6Q3Z86))
    - 101 Forest Ave, Palo Alto, CA 94301
 - Philz Coffee, Middlefield Rd ([link](https://goo.gl/maps/FZcs47AXPwd5MVUU8))
