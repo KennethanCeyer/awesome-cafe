@@ -319,6 +319,8 @@
 
 - Blue Bottle Coffee, University Ave ([link](https://goo.gl/maps/ZngXvkjuoPuWTECz8))
    - 456 University Ave, Palo Alto, CA 94301
+- Blue Bottle Coffee, Stanford Shopping Center ([link](https://goo.gl/maps/PR4K6y8Q5bLcNhju6))
+   - 660 Stanford Shopping Center #650B, Palo Alto, CA 94304
 - Philz Coffee, Forest Ave ([link](https://goo.gl/maps/xAMF8ojmc4L6Q3Z86))
    - 101 Forest Ave, Palo Alto, CA 94301
 - Philz Coffee, Middlefield Rd ([link](https://goo.gl/maps/FZcs47AXPwd5MVUU8))
