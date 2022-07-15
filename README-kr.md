@@ -56,6 +56,8 @@
    - 서울특별시 강남구 대치동 삼성로 414
 - 구글 스타트업 캠퍼스 ([link](https://goo.gl/maps/L4ZnVntaACnSBPhL9))
    - 서울특별시 강남구 대치2동 영동대로 417, 지하 2층
+- 엔제리너스 선릉골드로즈 ([link](https://goo.gl/maps/ARfPTuEWH1Cy8AE5A))
+   - 서울특별시 강남구 선릉로86길 31 104호
 - 파스쿠찌 선릉이노센스점 ([link](https://goo.gl/maps/RKG48anQr6ctvS919))
    - 서울특별시 강남구 삼성동 141-9
 - 카페 레꼴뜨 ([link](https://goo.gl/maps/TceiwzF2WMyXXWWm9))
