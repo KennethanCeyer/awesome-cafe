@@ -323,6 +323,8 @@
 
 ### Palo Alto
 
+- HanaHaus ([link](https://goo.gl/maps/5EJoitkNLdtbBDLXA))
+   - 456 University Ave, Palo Alto, CA 94301
 - Blue Bottle Coffee, University Ave ([link](https://goo.gl/maps/ZngXvkjuoPuWTECz8))
    - 456 University Ave, Palo Alto, CA 94301
 - Blue Bottle Coffee, Stanford Shopping Center ([link](https://goo.gl/maps/PR4K6y8Q5bLcNhju6))
