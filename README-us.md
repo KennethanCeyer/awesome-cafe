@@ -301,7 +301,6 @@
 - Starbucks, Lagunita Dr ([link](https://goo.gl/maps/AAavxEQaHs8uW78fA))
    - 459 Lagunita Dr, Stanford, CA 94305
 
-
 ### Fresno
 
 - The Revue - Coffee Shop ([link](https://g.page/revue_fresno?share))
@@ -343,6 +342,8 @@
    - 361 California Ave, Palo Alto, CA 94306
 - Starbucks, University Ave ([link](https://goo.gl/maps/oaz3vY19u8nAc8L96))
    - 376 University Ave, Palo Alto, CA 94301
+- Starbucks, Stanford Shopping Center ([link](https://goo.gl/maps/XXpkHXG2k4CouLc7A))
+   - Stanford Shopping Center #79, Palo Alto, CA 94304
 
 ### Sacramento
 
