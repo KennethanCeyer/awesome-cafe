@@ -271,6 +271,8 @@
    - 26910 Sierra Hwy Unit D-2, Santa Clarita, CA 91321
 - Bodhi Leaf Coffee Traders, Soledad Canyon Rd ([link](https://goo.gl/maps/TsjFToeb5HBfPvA9A))
    - 22913 Soledad Canyon Rd, Santa Clarita, CA 91350
+- The Coffee Bean & Tea Leaf ([link](https://goo.gl/maps/5WrakxzesYtKTq9Y9))
+   - 28291 Newhall Ranch Rd, Valencia, CA 91355
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/TobeyebHSr8ePAXA9))
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Trophy Coffee ([link](https://g.page/trophycoffee?share))
