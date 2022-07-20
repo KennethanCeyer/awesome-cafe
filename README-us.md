@@ -305,6 +305,8 @@
 
 ### Fresno
 
+- Collect Coffee Bar ([link](https://goo.gl/maps/YXj7MB3zGHJxaCNa7))
+   - 3142 E Campus Pointe Dr, Fresno, CA 93710
 - The Revue - Coffee Shop ([link](https://g.page/revue_fresno?share))
    - 620 E Olive Ave, Fresno, CA 93728
 - Kuppa Joy Coffee House - Grand Cafe Fresno ([link](https://g.page/kuppajoygrandcafe?share))
