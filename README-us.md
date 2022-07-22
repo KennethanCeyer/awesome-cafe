@@ -163,6 +163,10 @@
 - Starbucks, Charleston Rd ([link](https://goo.gl/maps/WpuU3n3Bvdt9aKzP9))
    - 2410 Charleston Rd, Mountain View, CA 94043
 
+#### Santa Clara
+
+- Jiaren Cafe ([link](https://goo.gl/maps/EAXUQAB4agZ8S5xs5))
+   - 1171 Homestead Rd Ste 140B, Santa Clara, CA 95050 
 
 #### Oakland
 
