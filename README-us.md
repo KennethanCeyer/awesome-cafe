@@ -167,6 +167,8 @@
 
 - Jiaren Cafe ([link](https://goo.gl/maps/EAXUQAB4agZ8S5xs5))
    - 1171 Homestead Rd Ste 140B, Santa Clara, CA 95050 
+- Peet's Coffee, El Camino Real Suite 20 ([link](https://goo.gl/maps/fE45UzZjgES6EeGd8))
+   - 2002 El Camino Real Suite 20, Santa Clara, CA 95050
 
 #### Oakland
 
