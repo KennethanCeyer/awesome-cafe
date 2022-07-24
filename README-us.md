@@ -8,6 +8,7 @@
        - [San Francisco](#san-francisco)
        - [San Jose](#san-jose)
        - [Mountain View](#mountain-view)
+       - [Santa Clara](#santa-clara)
        - [Oakland](#oakland)
     - [Los Angeles](#los-angeles)
     - [San Diego](#san-deigo)
