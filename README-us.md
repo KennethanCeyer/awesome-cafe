@@ -170,6 +170,8 @@
    - 1171 Homestead Rd Ste 140B, Santa Clara, CA 95050 
 - Peet's Coffee, El Camino Real Suite 20 ([link](https://goo.gl/maps/fE45UzZjgES6EeGd8))
    - 2002 El Camino Real Suite 20, Santa Clara, CA 95050
+- Starbucks, El Camino Real ([link](https://goo.gl/maps/gjGxBpo9P4ais8pv8))
+   - 3605 El Camino Real, Santa Clara, CA 95051
 
 #### Oakland
 
