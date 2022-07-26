@@ -166,6 +166,8 @@
 
 #### Santa Clara
 
+- 1 Oz Coffee ([link](https://goo.gl/maps/odeYECNFHpSsQi9N7))
+   - 3051 Tasman Dr, Santa Clara, CA 95054
 - Jiaren Cafe ([link](https://goo.gl/maps/EAXUQAB4agZ8S5xs5))
    - 1171 Homestead Rd Ste 140B, Santa Clara, CA 95050 
 - Peet's Coffee, El Camino Real Suite 20 ([link](https://goo.gl/maps/fE45UzZjgES6EeGd8))
