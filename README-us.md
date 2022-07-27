@@ -176,6 +176,8 @@
    - 2221 The Alameda, Santa Clara, CA 95050
 - Starbucks, El Camino Real ([link](https://goo.gl/maps/gjGxBpo9P4ais8pv8))
    - 3605 El Camino Real, Santa Clara, CA 95051
+- Starbucks, Wyatt Dr #110 ([link](https://goo.gl/maps/WpS2xUigd3qu9bG4A))
+   - 2030 Wyatt Dr #110, Santa Clara, CA 95054
 
 #### Oakland
 
