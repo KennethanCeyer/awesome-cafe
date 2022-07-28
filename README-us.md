@@ -178,6 +178,8 @@
    - 3605 El Camino Real, Santa Clara, CA 95051
 - Starbucks, Wyatt Dr #110 ([link](https://goo.gl/maps/WpS2xUigd3qu9bG4A))
    - 2030 Wyatt Dr #110, Santa Clara, CA 95054
+- Starbucks, Pruneridge Shopping Center ([link]([https://goo.gl/maps/WpS2xUigd3qu9bG4A](https://goo.gl/maps/aezBDwFMs1WqJAxy7)))
+   - Pruneridge Shopping Center, 200 Saratoga Ave, Santa Clara, CA 95050
 
 #### Oakland
 
