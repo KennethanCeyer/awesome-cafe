@@ -174,7 +174,9 @@
    - 2002 El Camino Real Suite 20, Santa Clara, CA 95050
 - Voyager Craft Coffee ([link](https://goo.gl/maps/AUTCBgNUSYDVC8Mu6))
    - 2221 The Alameda, Santa Clara, CA 95050
-- Starbucks, El Camino Real ([link](https://goo.gl/maps/gjGxBpo9P4ais8pv8))
+- Starbucks, 2370 El Camino Real ([link](https://goo.gl/maps/LVKaNtvwwvKb9Xf29))
+   - 2370 El Camino Real, Santa Clara, CA 95050
+- Starbucks, 3605 El Camino Real ([link](https://goo.gl/maps/gjGxBpo9P4ais8pv8))
    - 3605 El Camino Real, Santa Clara, CA 95051
 - Starbucks, Wyatt Dr #110 ([link](https://goo.gl/maps/WpS2xUigd3qu9bG4A))
    - 2030 Wyatt Dr #110, Santa Clara, CA 95054
