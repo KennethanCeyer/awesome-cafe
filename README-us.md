@@ -330,6 +330,8 @@
    - 3142 E Campus Pointe Dr, Fresno, CA 93710
 - The Revue - Coffee Shop ([link](https://g.page/revue_fresno?share))
    - 620 E Olive Ave, Fresno, CA 93728
+- The Coffee Bean & Tea Leaf ([link](https://goo.gl/maps/QBoocVn2ArM5Y5b7A))
+   - 8462 N Friant Rd Suite 102, Fresno, CA 93720
 - Kuppa Joy Coffee House - Grand Cafe Fresno ([link](https://g.page/kuppajoygrandcafe?share))
    - 8821 N Cedar Ave, Fresno, CA 93720
 - Hi-Top Coffee ([link](https://goo.gl/maps/xioDzLnwsiEwQoe17))
