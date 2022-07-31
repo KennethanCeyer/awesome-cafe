@@ -170,6 +170,8 @@
    - 3051 Tasman Dr, Santa Clara, CA 95054
 - Jiaren Cafe ([link](https://goo.gl/maps/EAXUQAB4agZ8S5xs5))
    - 1171 Homestead Rd Ste 140B, Santa Clara, CA 95050 
+- Cafe Big Mug ([link](https://g.page/cafe-big-mug?share))
+   - 3787 Stevens Creek Blvd #104, Santa Clara, CA 95051
 - Peet's Coffee, El Camino Real Suite 20 ([link](https://goo.gl/maps/fE45UzZjgES6EeGd8))
    - 2002 El Camino Real Suite 20, Santa Clara, CA 95050
 - Voyager Craft Coffee ([link](https://goo.gl/maps/AUTCBgNUSYDVC8Mu6))
