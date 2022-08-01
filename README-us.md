@@ -325,6 +325,8 @@
    - 660 Stanford Shopping Center #650B, Palo Alto, CA 94304
 - Peet's Coffee, Campus Drive ([link](https://goo.gl/maps/dAz23ZQ2MqoBnYt49))
    - 318 Campus Drive, Stanford, CA 94305
+- Stanford Bookstore Cafe ([link](https://goo.gl/maps/dLwCTtH7zdGhPvpG6))
+   - 519 Lasuen Mall, Stanford, CA 94305
 - Starbucks, Lagunita Dr ([link](https://goo.gl/maps/AAavxEQaHs8uW78fA))
    - 459 Lagunita Dr, Stanford, CA 94305
 
