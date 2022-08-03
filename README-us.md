@@ -300,6 +300,8 @@
    - 22913 Soledad Canyon Rd, Santa Clarita, CA 91350
 - The Coffee Bean & Tea Leaf ([link](https://goo.gl/maps/5WrakxzesYtKTq9Y9))
    - 28291 Newhall Ranch Rd, Valencia, CA 91355
+- Panera Bread ([link](https://goo.gl/maps/bG7NZzrNcF4Uzb5A9))
+   - 2002 El Camino Real, Santa Clara, CA 95015
 - Peet's Coffee, McBean Pkwy ([link](https://goo.gl/maps/TobeyebHSr8ePAXA9))
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Trophy Coffee ([link](https://g.page/trophycoffee?share))
