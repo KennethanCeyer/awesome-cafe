@@ -306,6 +306,8 @@
    - 27047 McBean Pkwy, Santa Clarita, CA 91355
 - Trophy Coffee ([link](https://g.page/trophycoffee?share))
    - 21726 Placerita Canyon Rd, Santa Clarita, CA 91321
+- WFM Coffee & Juice Bar ([link](https://goo.gl/maps/1PAcCpvrGr62atT49))
+   - 24130 Valencia Blvd, Santa Clarita, CA 91355
 - Undergrounds Coffeehouse ([link](https://g.page/UndergroundsCoffee?share))
    - 23841 Newhall Ranch Rd, Santa Clarita, CA 91355
 - Starbucks, Bouquet Canyon Rd ([link](https://goo.gl/maps/eiuFFsDQG3tubbAA9))
