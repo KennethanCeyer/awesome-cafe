@@ -180,6 +180,8 @@
    - 2732 Augustine Dr Ste 1600, Santa Clara, CA 95054
 - Starbucks, Pruneridge Shopping Center ([link](https://goo.gl/maps/Qry5aPRSARedc4Hi7))
    - Pruneridge Shopping Center, 200 Saratoga Ave, Santa Clara, CA 95050
+- Starbucks, 3253 Coronado Pl ([link](https://goo.gl/maps/UoWmHDutDHmzEd2o7))
+   - 3253 Coronado Pl, Santa Clara, CA 95054
 - Starbucks, 2370 El Camino Real ([link](https://goo.gl/maps/LVKaNtvwwvKb9Xf29))
    - 2370 El Camino Real, Santa Clara, CA 95050
 - Starbucks, 495 El Camino Real ([link](https://goo.gl/maps/fywY6iwPTreetkGD6))
