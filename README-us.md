@@ -8,6 +8,7 @@
        - [San Francisco](#san-francisco)
        - [San Jose](#san-jose)
        - [Mountain View](#mountain-view)
+       - [Sunnyvale](#sunnyvale)
        - [Santa Clara](#santa-clara)
        - [Oakland](#oakland)
     - [Los Angeles](#los-angeles)
@@ -163,6 +164,11 @@
    - 1037 El Monte Ave, Mountain View, CA 94040
 - Starbucks, Charleston Rd ([link](https://goo.gl/maps/WpuU3n3Bvdt9aKzP9))
    - 2410 Charleston Rd, Mountain View, CA 94043
+
+#### Sunnyvale
+
+- Peet's Coffee, 144 W El Camino Real ([link](https://goo.gl/maps/sJAEeW6MpX3wKiio8))
+   - 144 W El Camino Real, Sunnyvale, CA 94087
 
 #### Santa Clara
 
