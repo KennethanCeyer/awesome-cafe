@@ -167,6 +167,8 @@
 
 #### Sunnyvale
 
+- Chun Yang Tea ([link](https://goo.gl/maps/yTpZzeB1vD9S52df6))
+   - 1120 Kifer Rd Suite C, Sunnyvale, CA 94086
 - Peet's Coffee, 144 W El Camino Real ([link](https://goo.gl/maps/sJAEeW6MpX3wKiio8))
    - 144 W El Camino Real, Sunnyvale, CA 94087
 - Starbucks, 785 E El Camino Real ([link](https://goo.gl/maps/V4vR5fXFsRk1pMzY8))
