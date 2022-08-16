@@ -167,6 +167,8 @@
 
 #### Sunnyvale
 
+- Coffee & More ([link](https://goo.gl/maps/jtkhTBEQadMzPnGm6))
+   - 100 S Murphy Ave #1, Sunnyvale, CA 94086
 - Chun Yang Tea ([link](https://goo.gl/maps/yTpZzeB1vD9S52df6))
    - 1120 Kifer Rd Suite C, Sunnyvale, CA 94086
 - Philz Coffee ([link](https://goo.gl/maps/YVEojr9BGp8doq2N8))
