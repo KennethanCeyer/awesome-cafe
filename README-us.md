@@ -183,6 +183,8 @@
    - 460 N Mathilda Ave, Sunnyvale, CA 94085
 - Starbucks, 1291 S Mary Ave ([link](https://goo.gl/maps/3abdhFgiCZvA5wUV9))
    - 1291 S Mary Ave, Sunnyvale, CA 94087
+- Starbucks, 348 E El Camino Real ([link](https://goo.gl/maps/21xKQqWpXrgZi6886))
+   - 348 E El Camino Real, Sunnyvale, CA 94087
 
 #### Santa Clara
 
