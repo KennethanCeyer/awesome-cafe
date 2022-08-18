@@ -175,6 +175,8 @@
    - 125 S Frances St, Sunnyvale, CA 94086
 - Peet's Coffee, 144 W El Camino Real ([link](https://goo.gl/maps/sJAEeW6MpX3wKiio8))
    - 144 W El Camino Real, Sunnyvale, CA 94087
+- Starbucks, 298 W McKinley Ave ([link](https://goo.gl/maps/a22HGwp5nvH36SEX8))
+   - 298 W McKinley Ave, Sunnyvale, CA 94086
 - Starbucks, 1003 E El Camino Real ([link](https://goo.gl/maps/4sQGDzfLwxEP4y1f7))
    - 1003 E El Camino Real, Sunnyvale, CA 94087
 - Starbucks, 785 E El Camino Real ([link](https://goo.gl/maps/V4vR5fXFsRk1pMzY8))
