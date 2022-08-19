@@ -167,6 +167,8 @@
 
 #### Sunnyvale
 
+- Bean Scene Café ([link](https://goo.gl/maps/zSZTFt9NUU7XGCE39))
+   - 186 S Murphy Ave, Sunnyvale, CA 94086
 - Coffee & More ([link](https://goo.gl/maps/jtkhTBEQadMzPnGm6))
    - 100 S Murphy Ave #1, Sunnyvale, CA 94086
 - Chun Yang Tea ([link](https://goo.gl/maps/yTpZzeB1vD9S52df6))
