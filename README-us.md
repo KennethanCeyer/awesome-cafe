@@ -187,6 +187,8 @@
    - 1003 E El Camino Real, Sunnyvale, CA 94087
 - Starbucks, 785 E El Camino Real ([link](https://goo.gl/maps/V4vR5fXFsRk1pMzY8))
    - 785 E El Camino Real, Sunnyvale, CA 94087
+- Starbucks, 762 Sunnyvale Saratoga Rd ([link](https://goo.gl/maps/PWmtdxymCEJh5tvTA))
+   - 762 Sunnyvale Saratoga Rd, Sunnyvale, CA 94087
 - Starbucks, 460 N Mathilda Ave ([link](https://goo.gl/maps/bw3QecchGYkZnegV8))
    - 460 N Mathilda Ave, Sunnyvale, CA 94085
 - Starbucks, 1291 S Mary Ave ([link](https://goo.gl/maps/3abdhFgiCZvA5wUV9))
