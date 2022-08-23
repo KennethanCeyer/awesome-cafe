@@ -177,6 +177,8 @@
    - 1120 Kifer Rd Suite C, Sunnyvale, CA 94086
 - Las Palmas Cafe and Lounge ([link](https://goo.gl/maps/m5rd4t9dAtLawmLH6))
    - 755 S Mathilda Ave, Sunnyvale, CA 94087
+- Panera Bread ([link](https://goo.gl/maps/83aUjQ6ikAipjdWe9))
+   - 1189 E Arques Ave, Sunnyvale, CA 94085
 - Philz Coffee ([link](https://goo.gl/maps/YVEojr9BGp8doq2N8))
    - 125 S Frances St, Sunnyvale, CA 94086
 - Peet's Coffee, 144 W El Camino Real ([link](https://goo.gl/maps/sJAEeW6MpX3wKiio8))
