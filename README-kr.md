@@ -2058,8 +2058,12 @@
 
 ## 경기
 
-### 김포시 양촌읍
+### 김포시
 
+- 금파1832 ([link](https://goo.gl/maps/Xb8ygjGMQjV7fazP6))
+   - 경기도 김포시 사우동 금파로 183
+- 카페나울 ([link](https://goo.gl/maps/yzwAHHYrcnFXoTjf8))
+   - 경기도 김포시 봉성로 243
 - 빵선생 샹그리나 파라다이스 ([link](https://goo.gl/maps/27L8Bcgp5Kd3VsHr5))
    - 경기도 김포시 고촌읍 아라육로 152번길 210-14
 - 스타벅스 석모DT점 ([link](https://goo.gl/maps/SB5E1LPTVpggvMiu7))
@@ -2180,8 +2184,6 @@
 
 - 리치카페 ([link](https://goo.gl/maps/kPLyMqSA9h1p5YdX8))
    - 경기도 성남시 중원구 성남동  3219
-- 카페나울 ([link](https://goo.gl/maps/yzwAHHYrcnFXoTjf8))
-   - 경기도 김포시 봉성로 243
 - 스타벅스 단대오거리역 ([link](https://goo.gl/maps/XSEzdz52ub3gRfNn8))
    - 경기도 성남시 중원구 중앙동 산성대로 340-1
 - 스타벅스 남한산성입구역점 ([link](https://goo.gl/maps/tSarsV8EYbDeSGr57))
