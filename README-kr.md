@@ -2066,6 +2066,8 @@
    - 경기도 김포시 봉성로 243
 - 빵선생 샹그리나 파라다이스 ([link](https://goo.gl/maps/27L8Bcgp5Kd3VsHr5))
    - 경기도 김포시 고촌읍 아라육로 152번길 210-14
+- 아보고가 ([link](https://goo.gl/maps/syLuejBQv3kmUZ8J8))
+   - 경기도 김포시 하성면 월하로 977-19
 - 스타벅스 석모DT점 ([link](https://goo.gl/maps/SB5E1LPTVpggvMiu7))
    - 경기도 김포시 양촌읍 석모리 917, 919-2번지
 - 몬떼델피노 (Monte del Pino) ([link](https://goo.gl/maps/2vfM3YKM8aWZdX8Z7))
