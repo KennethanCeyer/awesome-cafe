@@ -2285,6 +2285,11 @@
 
 ## 부산
 
+### 서면
+
+- 블랙업커피 서면 ([link](https://goo.gl/maps/sihg9JzZYY5DKaTT7))
+   - 부산광역시 부산진구 서전로10번길 41
+
 ### 센텀시티
 
 - 커피스미스 부산센텀시티점 ([link](https://goo.gl/maps/FHQr61q1E6AV2C1E8))
