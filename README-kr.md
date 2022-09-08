@@ -2064,6 +2064,8 @@
 
 ### 김포시
 
+- 55갤런 ([link](https://goo.gl/maps/6Yxc7sULoiqqmpSC6))
+   - 경기도 김포시 양촌읍 김포대로 1619 55갤런 비스트로 카페
 - 금파1832 ([link](https://goo.gl/maps/Xb8ygjGMQjV7fazP6))
    - 경기도 김포시 사우동 금파로 183
 - 카페나울 ([link](https://goo.gl/maps/yzwAHHYrcnFXoTjf8))
