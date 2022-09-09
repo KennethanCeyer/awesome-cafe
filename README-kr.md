@@ -2299,6 +2299,11 @@
 - 스타벅스 센텀시티역점 ([link](https://goo.gl/maps/wxUihaC2kDZf27fE9))
    - 부산 해운대구 센텀동로 9
 
+### 부산진구
+
+- 프랭클린 커피 로스터스 ([link](https://goo.gl/maps/ncFL8QSNxeZ4qy4PA))
+   - 부산광역시 부산진구 동성로 29
+
 ## 강원
 
 ### 평창군
