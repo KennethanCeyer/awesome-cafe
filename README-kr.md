@@ -2078,6 +2078,8 @@
    - 경기도 김포시 양촌읍 석모리 917, 919-2번지
 - 몬떼델피노 (Monte del Pino) ([link](https://goo.gl/maps/2vfM3YKM8aWZdX8Z7))
    - 경기도 김포시 김포 한강 6로 49-19
+- 스타벅스 김포시청점 ([link](https://maps.app.goo.gl/FnVr1G7D7rijib6A8?g_st=ic))
+   - 경기도 김포시 사우중로 35
 
 ### 성남시 판교
 
