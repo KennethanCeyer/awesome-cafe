@@ -2305,6 +2305,8 @@
 
 ### 부산진구
 
+- 유월커피 부산본점 ([link](https://goo.gl/maps/jSDmpUx4z2AQ1M346))
+   - 부산광역시 부산진구 서전로58번길 94
 - 프랭클린 커피 로스터스 ([link](https://goo.gl/maps/ncFL8QSNxeZ4qy4PA))
    - 부산광역시 부산진구 동성로 29
 
