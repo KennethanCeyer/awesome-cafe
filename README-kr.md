@@ -2310,6 +2310,11 @@
 - 프랭클린 커피 로스터스 ([link](https://goo.gl/maps/ncFL8QSNxeZ4qy4PA))
    - 부산광역시 부산진구 동성로 29
 
+### 기장군
+
+- 웨이브온 커피 ([link](https://g.page/WaveonCoffee?share))
+   - 부산광역시 기장군 해맞이로 286
+
 ## 강원
 
 ### 평창군
