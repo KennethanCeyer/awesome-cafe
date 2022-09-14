@@ -73,6 +73,8 @@
    - 서울특별시 강남구 역삼동 637-20
 - fyi ([link](https://goo.gl/maps/qxk5v8QBPNvt39vz9))
    - 서울특별시 강남구 역삼로 180 1층 fyi
+- 파브리끄 역삼 GFC점 ([link](https://goo.gl/maps/sCq2i9DzFWRAv4nJA))
+   - 서울특별시 강남구 역삼로17길 64 파브리끄 1층
 - 커피빈 강남역먹자골목점 ([link](https://goo.gl/maps/JJkiik23KGjxsppU7))
    - 서울특별시 강남구 역삼동 816-6
 - 엔제리너스 강남역사거리점 ([link](https://goo.gl/maps/XMTrjWrAzWrmrHu1A))
