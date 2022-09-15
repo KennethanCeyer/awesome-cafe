@@ -2317,6 +2317,11 @@
 - 웨이브온 커피 ([link](https://g.page/WaveonCoffee?share))
    - 부산광역시 기장군 해맞이로 286
 
+### 영도군
+
+- e.c.t. ([link](https://goo.gl/maps/5ABcUfHzPqNKqp5E9))
+   - 부산광역시 영도구 대평동 대평북로 29
+
 ## 강원
 
 ### 평창군
