@@ -2316,6 +2316,8 @@
 
 - 웨이브온 커피 ([link](https://g.page/WaveonCoffee?share))
    - 부산광역시 기장군 해맞이로 286
+- 카페 윤 ([link](https://goo.gl/maps/1tvnUzQ4ffVaPnbc8))
+   - 부산광역시 기장군 기장해안로 34-16
 
 ### 영도군
 
