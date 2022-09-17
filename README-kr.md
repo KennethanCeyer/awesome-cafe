@@ -2319,6 +2319,11 @@
 - 카페 윤 ([link](https://goo.gl/maps/1tvnUzQ4ffVaPnbc8))
    - 부산광역시 기장군 기장해안로 34-16
 
+### 금정구
+
+- 모모스커피 본점 ([link](https://goo.gl/maps/EpbhajxDqh6fKNn5A))
+   - 부산광역시 금정구 오시게로 20
+
 ### 영도군
 
 - e.c.t. ([link](https://goo.gl/maps/5ABcUfHzPqNKqp5E9))
