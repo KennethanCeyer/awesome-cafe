@@ -2311,6 +2311,8 @@
    - 부산광역시 부산진구 서전로58번길 94
 - 프랭클린 커피 로스터스 ([link](https://goo.gl/maps/ncFL8QSNxeZ4qy4PA))
    - 부산광역시 부산진구 동성로 29
+- 도코 ㅡ 도시농가카페 ([link](https://maps.app.goo.gl/moH7Ei3Pa1LJUwtG8?g_st=ic))
+   - 부산광역시 부산진구 중앙대로666번길 17
 
 ### 기장군
 
