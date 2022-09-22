@@ -2196,6 +2196,8 @@
 
 - 리치카페 ([link](https://goo.gl/maps/kPLyMqSA9h1p5YdX8))
    - 경기도 성남시 중원구 성남동  3219
+- 카페베네 수진역점 ([link](https://maps.app.goo.gl/FwBJZUcJXCqkJdmw8?g_st=ic))
+   - 경기도 성남시 중원구 산성대로 208 1층 카페베네
 - 스타벅스 단대오거리역 ([link](https://goo.gl/maps/XSEzdz52ub3gRfNn8))
    - 경기도 성남시 중원구 중앙동 산성대로 340-1
 - 스타벅스 남한산성입구역점 ([link](https://goo.gl/maps/tSarsV8EYbDeSGr57))
