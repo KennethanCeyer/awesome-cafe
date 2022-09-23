@@ -2324,6 +2324,8 @@
    - 부산광역시 기장군 해맞이로 286
 - 카페 윤 ([link](https://goo.gl/maps/1tvnUzQ4ffVaPnbc8))
    - 부산광역시 기장군 기장해안로 34-16
+- 헤이든 ([link](https://goo.gl/maps/SqBwSEw3SJ2M769V8))
+   - 부산광역시 기장군 일광면 동백리 286-2
 
 ### 수영구
 
