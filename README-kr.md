@@ -2336,6 +2336,8 @@
 
 - 모모스커피 본점 ([link](https://goo.gl/maps/EpbhajxDqh6fKNn5A))
    - 부산광역시 금정구 오시게로 20
+- 소록 ([link](https://goo.gl/maps/NxDNbdjB4MmHcUE37))
+   - 부산광역시 금정구 장전동 금샘로7번길 20
 
 ### 영도군
 
