@@ -2343,6 +2343,8 @@
 
 - e.c.t. ([link](https://goo.gl/maps/5ABcUfHzPqNKqp5E9))
    - 부산광역시 영도구 대평동 대평북로 29
+- 에테르 카페 ([link](https://goo.gl/maps/wvQ4kdeJqE3nYeaJ6))
+   - 부산광역시 영도구 영선2동 절영로 234
 - 카페 마렌 ([link](https://goo.gl/maps/yAx1hS3BS2KSec5M7))
    - 부산광역시 영도구 해안산책길 52
 
