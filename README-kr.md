@@ -2297,6 +2297,8 @@
 
 - 블랙업커피 서면 ([link](https://goo.gl/maps/sihg9JzZYY5DKaTT7))
    - 부산광역시 부산진구 서전로10번길 41
+- 카페 클레어 ([link](https://goo.gl/maps/Wp9FkZtz9huGevN56))
+   - 부산광역시 부산진구 서면문화로 14
 
 ### 센텀시티
 
