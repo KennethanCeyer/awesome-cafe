@@ -2299,6 +2299,8 @@
    - 부산광역시 부산진구 서전로10번길 41
 - 카페 클레어 ([link](https://goo.gl/maps/Wp9FkZtz9huGevN56))
    - 부산광역시 부산진구 서면문화로 14
+- 할리스커피 부산서면본점 ([link](https://maps.app.goo.gl/tUKFwEYZr9sJH8mq6))
+   - 부산광역시 부산진구 동천로 73
 
 ### 센텀시티
 
