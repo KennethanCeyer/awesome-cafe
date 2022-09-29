@@ -2313,6 +2313,8 @@
 
 ### 부산진구
 
+- 빈티지38 전포본점 ([link](https://maps.app.goo.gl/uQCnSazeytxAmcDp8))
+   - 부산광역시 부산진구 전포대로199번길 38
 - 유월커피 부산본점 ([link](https://goo.gl/maps/jSDmpUx4z2AQ1M346))
    - 부산광역시 부산진구 서전로58번길 94
 - 프랭클린 커피 로스터스 ([link](https://goo.gl/maps/ncFL8QSNxeZ4qy4PA))
