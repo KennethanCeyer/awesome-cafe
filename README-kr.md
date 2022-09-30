@@ -2344,6 +2344,8 @@
    - 부산광역시 금정구 오시게로 20
 - 소록 ([link](https://goo.gl/maps/NxDNbdjB4MmHcUE37))
    - 부산광역시 금정구 장전동 금샘로7번길 20
+- 셀라스 ([link](https://goo.gl/maps/2JuHVJAR2QAryUxV8))
+   - 부산광역시 금정구 금샘로 538
 
 ### 영도군
 
