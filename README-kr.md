@@ -2337,6 +2337,8 @@
 
 - 테라로사 수영점 ([link](https://goo.gl/maps/KPXzqTmdAbytKmgY9))
    - 부산광역시 수영구 망미2동 구락로123번길 20
+- Coffee de Port ([link](https://goo.gl/maps/a1NBMQh4K1pvQxmaA))
+   - 부산광역시 수영구 좌수영로 131-9
 
 ### 금정구
 
