@@ -2357,6 +2357,8 @@
    - 부산광역시 영도구 영선2동 절영로 234
 - 카페 마렌 ([link](https://goo.gl/maps/yAx1hS3BS2KSec5M7))
    - 부산광역시 영도구 해안산책길 52
+- P.Ark Cafe & Bakery ([link](https://goo.gl/maps/XR4Ds4dHCFCjrbzWA))
+   - 부산광역시 영도구 해양로195번길 180 피아크
 
 ## 강원
 
