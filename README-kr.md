@@ -2321,6 +2321,8 @@
    - 부산광역시 부산진구 서전로58번길 94
 - 프랭클린 커피 로스터스 ([link](https://goo.gl/maps/ncFL8QSNxeZ4qy4PA))
    - 부산광역시 부산진구 동성로 29
+- 다운트 ([link](https://goo.gl/maps/qse3R9wZhfq8ewLn8))
+   - 부산광역시 부산진구 서전로38번길 43-6
 - 도코 ㅡ 도시농가카페 ([link](https://maps.app.goo.gl/moH7Ei3Pa1LJUwtG8?g_st=ic))
    - 부산광역시 부산진구 중앙대로666번길 17
 - 텐퍼센트커피 부산시민공원점 ([link](https://maps.app.goo.gl/1gRvAjwEuEE7vKsP9?g_st=ic))
