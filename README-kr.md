@@ -2352,6 +2352,8 @@
    - 부산광역시 금정구 장전동 금샘로7번길 20
 - 셀라스 ([link](https://goo.gl/maps/2JuHVJAR2QAryUxV8))
    - 부산광역시 금정구 금샘로 538
+- Cafe Hygge ([link](https://goo.gl/maps/Liv8aEiDLqWUC13p9))
+   - 부산광역시 금정구 금정로149번안길 16
 
 ### 영도군
 
