@@ -2365,6 +2365,8 @@
    - 부산광역시 영도구 해안산책길 52
 - P.Ark Cafe & Bakery ([link](https://goo.gl/maps/XR4Ds4dHCFCjrbzWA))
    - 부산광역시 영도구 해양로195번길 180 피아크
+- 신기숲 ([link](https://goo.gl/maps/MDnU2vXTCczf1d7a7))
+   - 부산광역시 영도구 와치로 65
 
 ## 강원
 
