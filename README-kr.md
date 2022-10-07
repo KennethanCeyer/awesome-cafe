@@ -2346,6 +2346,8 @@
 
 ### 금정구
 
+- 고고커피 ([linkj](https://goo.gl/maps/AP4vxWfQDkm6igbP6))
+   - 부산광역시 금정구 부곡동 14-2
 - 모모스커피 본점 ([link](https://goo.gl/maps/EpbhajxDqh6fKNn5A))
    - 부산광역시 금정구 오시게로 20
 - 소록 ([link](https://goo.gl/maps/NxDNbdjB4MmHcUE37))
