@@ -2357,8 +2357,10 @@
 - Cafe Hygge ([link](https://goo.gl/maps/Liv8aEiDLqWUC13p9))
    - 부산광역시 금정구 금정로149번안길 16
 
-### 영도군
+### 영도구
 
+- CAFE DE 220VOLT Busan ([link](https://goo.gl/maps/SMZjaP5V1p2cESXA9))
+   - 부산광역시 영도구 하나길 807
 - e.c.t. ([link](https://goo.gl/maps/5ABcUfHzPqNKqp5E9))
    - 부산광역시 영도구 대평동 대평북로 29
 - 에테르 카페 ([link](https://goo.gl/maps/wvQ4kdeJqE3nYeaJ6))
