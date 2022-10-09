@@ -2359,6 +2359,8 @@
 
 ### 영도구
 
+- 신기산업 카페 ([link](https://goo.gl/maps/pHm5TGtzb4QiRtKKA))
+   - 부산광역시 영도구 와치로51번길 2
 - CAFE DE 220VOLT Busan ([link](https://goo.gl/maps/SMZjaP5V1p2cESXA9))
    - 부산광역시 영도구 하나길 807
 - e.c.t. ([link](https://goo.gl/maps/5ABcUfHzPqNKqp5E9))
