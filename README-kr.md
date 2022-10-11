@@ -2303,6 +2303,8 @@
    - 부산광역시 부산진구 서전로10번길 28 오기빌딩 1F
 - 할리스커피 부산서면본점 ([link](https://maps.app.goo.gl/tUKFwEYZr9sJH8mq6))
    - 부산광역시 부산진구 동천로 73
+- 옵포드 ([link](https://goo.gl/maps/WNkd119deWEWDB7P9))
+   - 부산광역시 부산진구 중앙대로680번가길 38
 
 ### 센텀시티
 
