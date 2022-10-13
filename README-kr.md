@@ -2380,7 +2380,7 @@
 
 ### 평창군
 
-- Vasello ([link]())
+- Vasello ([link](https://goo.gl/maps/7zKEmq8nXGZ5JoZj8))
    - 강원도 평창군 용평면 장평리 119-6
 - 카페마카 ([link](https://goo.gl/maps/yg3zE8pjU1CprR5KA))
    - 강원도 평창군 봉평면 원길리 266-8번지
