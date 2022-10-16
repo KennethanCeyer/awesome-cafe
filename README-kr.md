@@ -2387,5 +2387,7 @@
    - 강원도 평창군 봉평면 원길리 266-8번지
 - 카페 연월일 ([link](https://goo.gl/maps/qYFBeT6N5oCPx51o6))
    - 강원도 평창군 진부면 진고개로 129
+- 카페 921 ([link](https://goo.gl/maps/8zqNurMjJLfUSeQbA))
+   - 강원도 평창군 용평면 안인평2길 29
 - 바람의언덕 ([link](https://goo.gl/maps/PzWj99Lr4qQqNiQq6))
    - 강원도 평창군 대관령면 경강로 5721
