@@ -2298,6 +2298,8 @@
 
 - 스타벅스 서면역점 ([link](https://goo.gl/maps/16rAVRh45jAK3Xzt7))
    - 부산광역시 부산진구 서전로 1
+- 스타벅스 서면중앙점 ([link](https://maps.app.goo.gl/areB1c4dVtpSXudU6?g_st=ic))
+   - 부산광역시 부산진구 서면로68번길 1
 - 블랙업커피 서면 ([link](https://goo.gl/maps/sihg9JzZYY5DKaTT7))
    - 부산광역시 부산진구 서전로10번길 41
 - 카페 클레어 ([link](https://goo.gl/maps/Wp9FkZtz9huGevN56))
