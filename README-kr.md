@@ -2366,6 +2366,8 @@
 
 ### 영도구
 
+- 스타벅스 영도대교점 ([link](https://goo.gl/maps/SLHyPthDxL3qFydSA))
+   - 부산광역시 영도구 태종로 39
 - 신기산업 카페 ([link](https://goo.gl/maps/pHm5TGtzb4QiRtKKA))
    - 부산광역시 영도구 와치로51번길 2
 - CAFE DE 220VOLT Busan ([link](https://goo.gl/maps/SMZjaP5V1p2cESXA9))
