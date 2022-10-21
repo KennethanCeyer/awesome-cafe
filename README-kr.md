@@ -2389,6 +2389,8 @@
 
 - Vasello ([link](https://goo.gl/maps/7zKEmq8nXGZ5JoZj8))
    - 강원도 평창군 용평면 장평리 119-6
+- 투썸플레이스 평창올림픽플라자점 ([link](https://goo.gl/maps/K3Fki9mVwQuoyxxQ7))
+   - 강원도 평창군 대관령면 354-7
 - 카페마카 ([link](https://goo.gl/maps/yg3zE8pjU1CprR5KA))
    - 강원도 평창군 봉평면 원길리 266-8
 - T Factory Coffee ([link](https://goo.gl/maps/CpbZo5zbDqZW9D6c9))
