@@ -2393,6 +2393,8 @@
    - 강원도 평창군 대관령면 354-7
 - 카페마카 ([link](https://goo.gl/maps/yg3zE8pjU1CprR5KA))
    - 강원도 평창군 봉평면 원길리 266-8
+- 대관령 카페휴 ([link](https://goo.gl/maps/FBuUcQAfQ1NxA1yr5))
+   - 강원도 평창군 대관령면 횡계리 14-406
 - T Factory Coffee ([link](https://goo.gl/maps/CpbZo5zbDqZW9D6c9))
    - 강원도 평창군 대관령면 차항길 162-22
 - 카페 연월일 ([link](https://goo.gl/maps/qYFBeT6N5oCPx51o6))
