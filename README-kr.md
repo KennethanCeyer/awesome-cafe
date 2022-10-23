@@ -2311,6 +2311,11 @@
 - 옵포드 ([link](https://goo.gl/maps/WNkd119deWEWDB7P9))
    - 부산광역시 부산진구 중앙대로680번가길 38
 
+### 해운대구
+
+- 스타벅스 해운대엑스더스카이점 ([link](https://goo.gl/maps/28dyBEC3JVxYYd9W9))
+   - 부산광역시 해운대구 해운대로774번길 30 엘시티더샵랜드마크타워 99층
+
 ### 센텀시티
 
 - 스페이스 단단 ([link](https://goo.gl/maps/rbdvREngCZx6qcm28))
