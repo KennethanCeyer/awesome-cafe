@@ -5,8 +5,6 @@
 
 - [British Columbia (BC)](#british-columbia-bc))
 
-Aperture Coffee Bar
-
 ## 🔰 Rules
 
 - For convenience of developer accessibility, write the cafe name and Google Map link instead of `.geojson`.
