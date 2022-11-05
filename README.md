@@ -5,8 +5,8 @@
 ## Contents
 
 - [Awesome Cafe - US](./README-us.md)
+- [Awesome Cafe - CA](./README-ca.md)
 - [Awesome Cafe - KR](./README-kr.md)
-- Awesome Cafe - CA (To be added soon)
 
 The target countries will be added gradually.
 Contributions through [Pull Requests](https://github.com/KennethanCeyer/awesome-cafe/pulls) are always welcome!
