@@ -3,7 +3,7 @@
 
 ## ⛳️ List
 
-- [British Columbia (BC)](#british-columbia-bc))
+- [British Columbia (BC)](#british-columbia-bc)
 
 ## 🔰 Rules
 
