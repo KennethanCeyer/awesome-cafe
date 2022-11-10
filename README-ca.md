@@ -23,5 +23,7 @@
    - 1049 W Cordova St, Vancouver, BC V6C 0B9, Canada
 - Revolver ([link](https://goo.gl/maps/hfvpPADRGakoCi7n9))
    - 325 Cambie St, Vancouver, BC V6B 2N4, Canada
+- Nelson the Seagull ([link](https://goo.gl/maps/7cxTLHAj1TXeH7va8))
+   - 315 Carrall St, Vancouver, BC V6A 0A7, Canada
 - Starbucks, Powell St ([link](https://goo.gl/maps/MGz36LwHcBqEXC8g7))
    - 850 Powell St, Vancouver, BC V6A 1H8, Canada
