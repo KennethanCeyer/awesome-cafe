@@ -27,3 +27,5 @@
    - 315 Carrall St, Vancouver, BC V6A 0A7, Canada
 - Starbucks, Powell St ([link](https://goo.gl/maps/MGz36LwHcBqEXC8g7))
    - 850 Powell St, Vancouver, BC V6A 1H8, Canada
+- Timbertrain Coffee Roasters - Gastown ([link](https://g.page/TimbertrainCoffee?share))
+   - 311 W Cordova St, Vancouver, BC V6B 4K2, Canada
