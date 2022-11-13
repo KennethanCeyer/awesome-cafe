@@ -27,6 +27,8 @@
    - 325 Cambie St, Vancouver, BC V6B 2N4, Canada
 - Nelson the Seagull ([link](https://goo.gl/maps/7cxTLHAj1TXeH7va8))
    - 315 Carrall St, Vancouver, BC V6A 0A7, Canada
+- Elysian Coffee - Burrard & Helmcken ([link](https://goo.gl/maps/THwjY4QSpQBRcdMRA))
+   - 1100 Burrard St, Vancouver, BC V6Z 1Y7, Canada
 - Starbucks, Powell St ([link](https://goo.gl/maps/MGz36LwHcBqEXC8g7))
    - 850 Powell St, Vancouver, BC V6A 1H8, Canada
 - Timbertrain Coffee Roasters - Gastown ([link](https://g.page/TimbertrainCoffee?share))
