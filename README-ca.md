@@ -31,3 +31,5 @@
    - 850 Powell St, Vancouver, BC V6A 1H8, Canada
 - Timbertrain Coffee Roasters - Gastown ([link](https://g.page/TimbertrainCoffee?share))
    - 311 W Cordova St, Vancouver, BC V6B 4K2, Canada
+- Nemesis Coffee GNW ([link](https://goo.gl/maps/oDGx7Q2gQMe6QPPZ9))
+   - 555 Great Northern Way, Vancouver, BC V5T 1E1, Canada
