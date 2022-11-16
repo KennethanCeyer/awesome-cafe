@@ -37,6 +37,8 @@
    - 311 W Cordova St, Vancouver, BC V6B 4K2, Canada
 - Nemesis Coffee GNW ([link](https://goo.gl/maps/oDGx7Q2gQMe6QPPZ9))
    - 555 Great Northern Way, Vancouver, BC V5T 1E1, Canada
+- Nemesis Coffee Gastown ([link](https://maps.app.goo.gl/kHSdq3bskBkty6i98?g_st=ic))
+   - 302 W Hastings St, Vancouver, BC V6B 2N4 Canada
 - Small Victory Bakery ([link](https://goo.gl/maps/TmeFpboF1tbFdtVT6))
    - 1088 Homer St, Vancouver, BC V6B 2W9, Canada
 - Forecast Coffee ([link](https://goo.gl/maps/MjL29DqpkuyJ76au5))
