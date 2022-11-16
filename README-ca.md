@@ -41,3 +41,5 @@
    - 1088 Homer St, Vancouver, BC V6B 2W9, Canada
 - Forecast Coffee ([link](https://goo.gl/maps/MjL29DqpkuyJ76au5))
    - 2980 Main St, Vancouver, BC V5T 3G3, Canada
+- Incognito Coffee ([link](https://maps.app.goo.gl/6AqLDGbHum8yUMh96?g_st=ic))
+   - Atrium of VSO School Of Music, 843 Seymour St, Vancouver, BC V6B 3L4 Canada
