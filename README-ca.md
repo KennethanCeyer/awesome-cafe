@@ -31,6 +31,8 @@
    - 1100 Burrard St, Vancouver, BC V6Z 1Y7, Canada
 - Starbucks, Powell St ([link](https://goo.gl/maps/MGz36LwHcBqEXC8g7))
    - 850 Powell St, Vancouver, BC V6A 1H8, Canada
+- Starbucks, Dunsmuir St ([link](https://goo.gl/maps/SX6Zo1VXYvhTwgbEA))
+   - 885 Dunsmuir St, Vancouver, BC V6C 1N5, Canada
 - Starbucks, Pender St ([link](https://goo.gl/maps/6FCsV9qdfTFFUfof8))
    - 700 W Pender St, Vancouver, BC V6C 1G8, Canada
 - Timbertrain Coffee Roasters - Gastown ([link](https://g.page/TimbertrainCoffee?share))
