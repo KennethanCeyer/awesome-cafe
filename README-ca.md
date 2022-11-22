@@ -51,3 +51,5 @@
    - Atrium of VSO School Of Music, 843 Seymour St, Vancouver, BC V6B 3L4 Canada
 - Lost + Found Cafe ([link](https://goo.gl/maps/iyGZHRZMsDnBaYZ1A))
    - 33 W Hastings St, Vancouver, BC V6B 1G4, Canada
+- Elysian Coffee - Burrard & Helmcken ([link](https://goo.gl/maps/9dh1YK3hbdKvebp78))
+   - 1100 Burrard St, Vancouver, BC V6Z 1Y7, Canada
