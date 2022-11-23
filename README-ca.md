@@ -41,6 +41,8 @@
    - 555 Great Northern Way, Vancouver, BC V5T 1E1, Canada
 - Nemesis Coffee Gastown ([link](https://maps.app.goo.gl/kHSdq3bskBkty6i98?g_st=ic))
    - 302 W Hastings St, Vancouver, BC V6B 2N4, Canada
+- Milano Coffee Roasters ([link](https://goo.gl/maps/vryMrBUo3U55hf8k6))
+   - 156 W 8th Ave, Vancouver, BC V5Y 1N2, Canada
 - Small Victory Bakery ([link](https://goo.gl/maps/TmeFpboF1tbFdtVT6))
    - 1088 Homer St, Vancouver, BC V6B 2W9, Canada
 - Caffe Artigiano ([link](https://goo.gl/maps/rvgnuKc8hL3wLz9Y7))
