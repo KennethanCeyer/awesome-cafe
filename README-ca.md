@@ -29,6 +29,8 @@
    - 315 Carrall St, Vancouver, BC V6A 0A7, Canada
 - Elysian Coffee - Burrard & Helmcken ([link](https://goo.gl/maps/THwjY4QSpQBRcdMRA))
    - 1100 Burrard St, Vancouver, BC V6Z 1Y7, Canada
+- Starbucks, Granville St ([link](https://goo.gl/maps/7CtPLXFw2rCWGAyH7))
+   - 720 Granville St, Vancouver, BC V6Z 1E4, Canada
 - Starbucks, Powell St ([link](https://goo.gl/maps/MGz36LwHcBqEXC8g7))
    - 850 Powell St, Vancouver, BC V6A 1H8, Canada
 - Starbucks, Dunsmuir St ([link](https://goo.gl/maps/SX6Zo1VXYvhTwgbEA))
