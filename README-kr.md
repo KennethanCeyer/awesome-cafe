@@ -2395,6 +2395,11 @@
 
 ## 강원
 
+### 고성군
+
+- 투썸플레이스 천진해수욕장점 ([link](https://goo.gl/maps/X4L9dk3ELeQ3wxTF8))
+   - 강원도 고성군 토성면 천진리 178-13
+
 ### 평창군
 
 - Vasello ([link](https://goo.gl/maps/7zKEmq8nXGZ5JoZj8))
