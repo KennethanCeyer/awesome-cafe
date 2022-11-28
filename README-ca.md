@@ -47,6 +47,8 @@
    - 302 W Hastings St, Vancouver, BC V6B 2N4, Canada
 - Milano Coffee Roasters ([link](https://goo.gl/maps/vryMrBUo3U55hf8k6))
    - 156 W 8th Ave, Vancouver, BC V5Y 1N2, Canada
+- Cafe Lokal ([link](https://goo.gl/maps/GU4CNBrJjK2fSisP8))
+   - 2610 W 4th Ave, Vancouver, BC V6K 1P8, Canada
 - Small Victory Bakery ([link](https://goo.gl/maps/TmeFpboF1tbFdtVT6))
    - 1088 Homer St, Vancouver, BC V6B 2W9, Canada
 - Caffe Artigiano ([link](https://goo.gl/maps/rvgnuKc8hL3wLz9Y7))
