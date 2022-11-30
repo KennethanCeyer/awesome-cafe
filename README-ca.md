@@ -39,6 +39,8 @@
    - 700 W Pender St, Vancouver, BC V6C 1G8, Canada
 - Starbucks, Quebec St ([link](https://goo.gl/maps/3mubHoA5MxVzR7Lj7))
    - 1777 Quebec St, Vancouver, BC V5T 0E7, Canada
+- Starbucks, Burrard St ([link](https://goo.gl/maps/wKxn9fdCmgif5aPz7))
+   - 1088 Burrard St, Vancouver, BC V6Z 2R9, Canada
 - Starbucks, Laurel St ([link](https://goo.gl/maps/GmhrHzy1FFAs1rXo6))
    - 2787 Laurel St, Vancouver, BC V5Z 0A8, Canada
 - Timbertrain Coffee Roasters - Gastown ([link](https://g.page/TimbertrainCoffee?share))
