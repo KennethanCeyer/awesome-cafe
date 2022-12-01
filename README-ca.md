@@ -17,6 +17,8 @@
 
 ### Vancouver
 
+- Coffee Roastery Modus ([link](https://goo.gl/maps/HWzZLZ8Jj6eFVSfx9))
+   - 112 W Broadway, Vancouver, BC V5Y 1P1, Canada
 - Propaganda coffee ([link](https://goo.gl/maps/cWtW8jaLGZwBewzq7))
    - 209 E Pender St, Vancouver, BC V6A 1T8, Canada
 - East Café ([link](https://goo.gl/maps/2CVAWhyGTNXHskVk9))
