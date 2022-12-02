@@ -69,3 +69,8 @@
    - 395 Alexander St, Vancouver, BC V6A 1C4, Canada
 - Elysian Coffee - Burrard & Helmcken ([link](https://goo.gl/maps/9dh1YK3hbdKvebp78))
    - 1100 Burrard St, Vancouver, BC V6Z 1Y7, Canada
+
+## Toronto
+
+- Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
+   - 140 Yonge St, Toronto, ON M5C 1X6, Canada
