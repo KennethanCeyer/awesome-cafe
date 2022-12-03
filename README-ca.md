@@ -74,3 +74,5 @@
 
 - Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
    - 140 Yonge St, Toronto, ON M5C 1X6, Canada
+- Starbucks, King St W ([link](https://goo.gl/maps/mmtgxPaprgVHUyPV6))
+   - 4 King St W, Toronto, ON M5H 1B6, Canada
