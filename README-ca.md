@@ -80,3 +80,5 @@
    - 4 King St W, Toronto, ON M5H 1B6, Canada
 - Starbucks, Front St W ([link](https://goo.gl/maps/kK8gUNtKQandXiMC6))
    - 300 Front St W, Toronto, ON M5V 0E9, Canada
+- Third Wave Coffee Inc. ([link](https://goo.gl/maps/WvyTie6yjCBZKSgNA))
+   - 42 Church St, Toronto, ON M5E 0C1, Canada
