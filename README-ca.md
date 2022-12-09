@@ -82,6 +82,8 @@
    - 300 Front St W, Toronto, ON M5V 0E9, Canada
 - Starbucks, Eaton Centre ([link](https://goo.gl/maps/aPH91ZtohWzDseXt5))
    - Eaton Centre, 218 Yonge St #1-158, Toronto, ON M5B 2H6, Canada
+- Starbucks, King St E ([link](https://goo.gl/maps/WyFGgGoZkohcaJ1q6))
+   - 351 King St E, Toronto, ON M5A 1L1, Canada
 - Hale Coffee Company ([link](https://goo.gl/maps/XMLsqQ7vt5Yc5bCe9))
    - 300 Campbell Ave Unit #103, Toronto, ON M6P 3V6, Canada
 - Third Wave Coffee Inc. ([link](https://goo.gl/maps/WvyTie6yjCBZKSgNA))
