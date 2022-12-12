@@ -72,6 +72,8 @@
 
 ## Toronto
 
+- The Social Blend ([link](https://goo.gl/maps/rj8J5stdRb37PgDU6))
+   - 130 Eglinton Ave E, Toronto, ON M4P 2X9, Canada
 - Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
    - 140 Yonge St, Toronto, ON M5C 1X6, Canada
 - Tango Palace Coffee Company ([link](https://goo.gl/maps/xGMvJBssZAVvpA1EA))
