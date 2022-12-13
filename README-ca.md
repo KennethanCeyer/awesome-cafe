@@ -88,6 +88,8 @@
    - 351 King St E, Toronto, ON M5A 1L1, Canada
 - Starbucks, 10 Dundas St E ([link](https://goo.gl/maps/87mATQsWH4qd4vnx6))
    - Tba, 10 Dundas St E, Toronto, ON M5B 2G9, Canada
+- Starbucks, Avenue Rd ([link](https://goo.gl/maps/ra7yRcb47aD1p9hPA))
+   - 1507 Avenue Rd, Toronto, ON M5M 3X3, Canada
 - Starbucks, Jarvis St, ([link](https://goo.gl/maps/7XVaWtqGfrXAXfxJ9))
    - 253 Jarvis St, Toronto, ON M5B 2C2, Canada
 - Hale Coffee Company ([link](https://goo.gl/maps/XMLsqQ7vt5Yc5bCe9))
