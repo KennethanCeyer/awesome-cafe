@@ -86,6 +86,8 @@
    - 250 Queen St W, Toronto, ON M5V 1Z7, Canada
 - Starbucks, Eaton Centre ([link](https://goo.gl/maps/aPH91ZtohWzDseXt5))
    - Eaton Centre, 218 Yonge St #1-158, Toronto, ON M5B 2H6, Canada
+- Starbucks, University Ave ([link](https://goo.gl/maps/THHVN7ZjY55Zvp8W8))
+   - 439 University Ave, Toronto, ON M5G 2H6, Canada
 - Starbucks, King St E ([link](https://goo.gl/maps/WyFGgGoZkohcaJ1q6))
    - 351 King St E, Toronto, ON M5A 1L1, Canada
 - Starbucks, 10 Dundas St E ([link](https://goo.gl/maps/87mATQsWH4qd4vnx6))
