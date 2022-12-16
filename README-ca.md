@@ -78,6 +78,8 @@
    - 140 Yonge St, Toronto, ON M5C 1X6, Canada
 - Tango Palace Coffee Company ([link](https://goo.gl/maps/xGMvJBssZAVvpA1EA))
    - 1156 Queen St E, Toronto, ON M4M 1L2, Canada
+- Starbucks, Yonge St ([link](https://goo.gl/maps/vQXtENbA3PzXT1qS9))
+   - 5140 Yonge St, Toronto, ON M2N 6L7, Canada
 - Starbucks, King St W ([link](https://goo.gl/maps/mmtgxPaprgVHUyPV6))
    - 4 King St W, Toronto, ON M5H 1B6, Canada
 - Starbucks, Front St W ([link](https://goo.gl/maps/kK8gUNtKQandXiMC6))
