@@ -4,6 +4,7 @@
 ## ⛳️ List
 
 - [British Columbia (BC)](#british-columbia-bc)
+- [Toronto](#toronto)
 
 ## 🔰 Rules
 
