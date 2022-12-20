@@ -97,12 +97,14 @@
    - Tba, 10 Dundas St E, Toronto, ON M5B 2G9, Canada
 - Starbucks, Avenue Rd ([link](https://goo.gl/maps/ra7yRcb47aD1p9hPA))
    - 1507 Avenue Rd, Toronto, ON M5M 3X3, Canada
-- Starbucks, Queen St E ([link](https://goo.gl/maps/M4rDuPw41sHj9XvU6))
+- Starbucks, 869 Queen St E ([link](https://goo.gl/maps/M4rDuPw41sHj9XvU6))
    - 869 Queen St E, Toronto, ON M4M 1J2, Canada
 - Starbucks, Jarvis St, ([link](https://goo.gl/maps/7XVaWtqGfrXAXfxJ9))
    - 253 Jarvis St, Toronto, ON M5B 2C2, Canada
-- Starbucks, Queen St E G5 ([link](https://goo.gl/maps/uVFNbRcSvXfwDBuw8))
+- Starbucks, 1 Queen St E G5 ([link](https://goo.gl/maps/uVFNbRcSvXfwDBuw8))
    - 1 Queen St E G5, Toronto, ON M5C 2W5, Canada
+- Starbucks, 1960 Queen St E ([link](https://goo.gl/maps/SoUdbBBExrNc4znz8))
+   - 1960 Queen St E, Toronto, ON M4L 1H8, Canada
 - Hale Coffee Company ([link](https://goo.gl/maps/XMLsqQ7vt5Yc5bCe9))
    - 300 Campbell Ave Unit #103, Toronto, ON M6P 3V6, Canada
 - Third Wave Coffee Inc. ([link](https://goo.gl/maps/WvyTie6yjCBZKSgNA))
