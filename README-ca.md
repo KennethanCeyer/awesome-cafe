@@ -46,6 +46,8 @@
    - 1088 Burrard St, Vancouver, BC V6Z 2R9, Canada
 - Starbucks, Laurel St ([link](https://goo.gl/maps/GmhrHzy1FFAs1rXo6))
    - 2787 Laurel St, Vancouver, BC V5Z 0A8, Canada
+- Starbucks, Yonge St ([link](https://goo.gl/maps/i8hiRtrj14D1gMzC9))
+   - 32 Yonge St #2630, Toronto, ON M4P 2J5, Canada
 - Timbertrain Coffee Roasters - Gastown ([link](https://g.page/TimbertrainCoffee?share))
    - 311 W Cordova St, Vancouver, BC V6B 4K2, Canada
 - Nemesis Coffee GNW ([link](https://goo.gl/maps/oDGx7Q2gQMe6QPPZ9))
