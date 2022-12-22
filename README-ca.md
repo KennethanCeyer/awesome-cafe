@@ -95,6 +95,8 @@
    - 439 University Ave, Toronto, ON M5G 2H6, Canada
 - Starbucks, King St E ([link](https://goo.gl/maps/WyFGgGoZkohcaJ1q6))
    - 351 King St E, Toronto, ON M5A 1L1, Canada
+- Starbucks, Sheppard Ave W ([link](https://goo.gl/maps/RWFvpGG4tw8J7fdi6))
+   - 2295 Sheppard Ave W, Toronto, ON M9M 0B3, Canada
 - Starbucks, 10 Dundas St E ([link](https://goo.gl/maps/87mATQsWH4qd4vnx6))
    - Tba, 10 Dundas St E, Toronto, ON M5B 2G9, Canada
 - Starbucks, Avenue Rd ([link](https://goo.gl/maps/ra7yRcb47aD1p9hPA))
