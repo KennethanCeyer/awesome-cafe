@@ -105,6 +105,8 @@
    - 869 Queen St E, Toronto, ON M4M 1J2, Canada
 - Starbucks, Jarvis St, ([link](https://goo.gl/maps/7XVaWtqGfrXAXfxJ9))
    - 253 Jarvis St, Toronto, ON M5B 2C2, Canada
+- Starbucks, King St W Unit 7 ([link](https://goo.gl/maps/bBLmnv4AGLH3qvhJ7))
+   - 1005 King St W Unit 7, Toronto, ON M6G 1B9, Canada
 - Starbucks, Yonge St ([link](https://goo.gl/maps/nxWsDXvS93D1FgPD6))
    - 176 Yonge St, Toronto, ON M5C 2L7, Canada
 - Starbucks, 1 Queen St E G5 ([link](https://goo.gl/maps/uVFNbRcSvXfwDBuw8))
