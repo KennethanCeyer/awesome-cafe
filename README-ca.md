@@ -127,3 +127,5 @@
 
 - Starbucks, Bank St ([link](https://goo.gl/maps/6B2QREQtHNUyyduh9))
    - 1914 Bank St, Ottawa, ON K1V 7Z8, Canada
+- Starbucks, 455 Bank St ([link](https://goo.gl/maps/WQREunFLwBqXb99u6))
+   - 455 Bank St Unit 3, Ottawa, ON K2P 1Z1, Canada
