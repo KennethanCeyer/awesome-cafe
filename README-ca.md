@@ -131,3 +131,5 @@
    - 455 Bank St Unit 3, Ottawa, ON K2P 1Z1, Canada
 - Starbucks, Laurent Blvd ([link](https://goo.gl/maps/dZYB9MzQJD3YYHfB8))
    - 1910 St. Laurent Blvd Unit A/B, Ottawa, ON K1G 1A4, Canada
+- Starbucks, Elgin St ([link](https://goo.gl/maps/C7cVBWuwm5G1vMjA8))
+   - 216 Elgin St, Ottawa, ON K2P 1L7, Canada
