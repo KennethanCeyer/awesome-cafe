@@ -133,3 +133,5 @@
    - 1910 St. Laurent Blvd Unit A/B, Ottawa, ON K1G 1A4, Canada
 - Starbucks, Elgin St ([link](https://goo.gl/maps/C7cVBWuwm5G1vMjA8))
    - 216 Elgin St, Ottawa, ON K2P 1L7, Canada
+- Starbucks, Bank St G-009 ([link](https://goo.gl/maps/HsES2YfPyaYzuMhR8))
+   - 99 Bank St G-009, Ottawa, ON K1P 1E4, Canada
