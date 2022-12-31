@@ -135,3 +135,5 @@
    - 216 Elgin St, Ottawa, ON K2P 1L7, Canada
 - Starbucks, Bank St G-009 ([link](https://goo.gl/maps/HsES2YfPyaYzuMhR8))
    - 99 Bank St G-009, Ottawa, ON K1P 1E4, Canada
+- Bridgehead Roastery and Coffeehouse ([link](https://goo.gl/maps/MNRQeA2TTCJYiE2c7))
+   - 130 Anderson St, Preston St, Ottawa, ON K1R 6T7, Canada
