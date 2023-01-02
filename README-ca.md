@@ -127,6 +127,8 @@
 
 - Starbucks, Bank St ([link](https://goo.gl/maps/6B2QREQtHNUyyduh9))
    - 1914 Bank St, Ottawa, ON K1V 7Z8, Canada
+- Starbucks, Coventry Rd ([link](https://goo.gl/maps/W5E3tgZ9qkEKoyha8))
+   - 380 Coventry Rd, Ottawa, ON K1K 2C6, Canada
 - Starbucks, 455 Bank St ([link](https://goo.gl/maps/WQREunFLwBqXb99u6))
    - 455 Bank St Unit 3, Ottawa, ON K2P 1Z1, Canada
 - Starbucks, Laurent Blvd ([link](https://goo.gl/maps/dZYB9MzQJD3YYHfB8))
