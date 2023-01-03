@@ -141,3 +141,5 @@
    - 99 Bank St G-009, Ottawa, ON K1P 1E4, Canada
 - Bridgehead Roastery and Coffeehouse ([link](https://goo.gl/maps/MNRQeA2TTCJYiE2c7))
    - 130 Anderson St, Preston St, Ottawa, ON K1R 6T7, Canada
+- The Ministry of Coffee ([link](https://goo.gl/maps/3Xzs4XkLpSDn4tpy8))
+   - 274 Elgin St, Ottawa, ON K2P 1M2, Canada
