@@ -143,3 +143,5 @@
    - 130 Anderson St, Preston St, Ottawa, ON K1R 6T7, Canada
 - The Ministry of Coffee ([link](https://goo.gl/maps/3Xzs4XkLpSDn4tpy8))
    - 274 Elgin St, Ottawa, ON K2P 1M2, Canada
+- Black Squirrel Books & Espresso Bar ([link](https://goo.gl/maps/ndRG2CpJCWGippbS7))
+   - 1073 Bank St, Ottawa, ON K1S 3W9, Canada
