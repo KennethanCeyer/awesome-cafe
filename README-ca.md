@@ -145,3 +145,5 @@
    - 274 Elgin St, Ottawa, ON K2P 1M2, Canada
 - Black Squirrel Books & Espresso Bar ([link](https://goo.gl/maps/ndRG2CpJCWGippbS7))
    - 1073 Bank St, Ottawa, ON K1S 3W9, Canada
+- Little Victories Coffee Roasters - Elgin ([link](https://goo.gl/maps/cHvJYjadLJjxRqAo7))
+   - 44 Elgin St, Ottawa, ON K1P 1C7, Canada
