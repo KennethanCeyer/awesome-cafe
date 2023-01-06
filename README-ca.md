@@ -147,3 +147,5 @@
    - 1073 Bank St, Ottawa, ON K1S 3W9, Canada
 - Little Victories Coffee Roasters - Elgin ([link](https://goo.gl/maps/cHvJYjadLJjxRqAo7))
    - 44 Elgin St, Ottawa, ON K1P 1C7, Canada
+- Equator Coffee NAC/CNA ([link](https://goo.gl/maps/g7e2TjsRUYe5GzvB8))
+   - 1 Elgin St, Ottawa, ON K1P 5W1, Canada
