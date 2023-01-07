@@ -149,3 +149,5 @@
    - 44 Elgin St, Ottawa, ON K1P 1C7, Canada
 - Equator Coffee NAC/CNA ([link](https://goo.gl/maps/g7e2TjsRUYe5GzvB8))
    - 1 Elgin St, Ottawa, ON K1P 5W1, Canada
+- Equator Coffee Westboro ([link](https://goo.gl/maps/ipSwGPopipncu53XA))
+   - 412 Churchill Ave N, Ottawa, ON K1Z 5C6, Canada
