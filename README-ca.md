@@ -149,5 +149,7 @@
    - 44 Elgin St, Ottawa, ON K1P 1C7, Canada
 - Equator Coffee NAC/CNA ([link](https://goo.gl/maps/g7e2TjsRUYe5GzvB8))
    - 1 Elgin St, Ottawa, ON K1P 5W1, Canada
+- Happy Goat Coffee Co. (Sandy Hill) ([link](https://goo.gl/maps/MNYtYb6Zq41kQx1b6))
+   - 317 Rue Wilbrod St, Ottawa, ON K1N 7W4, Canada
 - Equator Coffee Westboro ([link](https://goo.gl/maps/ipSwGPopipncu53XA))
    - 412 Churchill Ave N, Ottawa, ON K1Z 5C6, Canada
