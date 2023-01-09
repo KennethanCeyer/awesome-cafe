@@ -139,6 +139,8 @@
    - 81 Metcalfe St, Ottawa, ON K1P 6K7, Canada
 - Starbucks, Bank St G-009 ([link](https://goo.gl/maps/HsES2YfPyaYzuMhR8))
    - 99 Bank St G-009, Ottawa, ON K1P 1E4, Canada
+- Starbucks, Trainyards Dr Unit 14 ([link](https://goo.gl/maps/oUa28cCKjuUEzFrD6))
+   - 100 Trainyards Dr Unit 14A, Ottawa, ON K1G 3S2, Canada
 - Bridgehead Roastery and Coffeehouse ([link](https://goo.gl/maps/MNRQeA2TTCJYiE2c7))
    - 130 Anderson St, Preston St, Ottawa, ON K1R 6T7, Canada
 - The Ministry of Coffee ([link](https://goo.gl/maps/3Xzs4XkLpSDn4tpy8))
