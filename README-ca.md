@@ -157,3 +157,5 @@
    - 317 Rue Wilbrod St, Ottawa, ON K1N 7W4, Canada
 - Equator Coffee Westboro ([link](https://goo.gl/maps/ipSwGPopipncu53XA))
    - 412 Churchill Ave N, Ottawa, ON K1Z 5C6, Canada
+- Café Qui Pense ([link](https://goo.gl/maps/Kiywir5BsLM8FZXw7))
+   - 204 Main St, Ottawa, ON K1S 1C6, Canada
