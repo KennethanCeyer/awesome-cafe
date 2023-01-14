@@ -143,6 +143,8 @@
    - 99 Bank St G-009, Ottawa, ON K1P 1E4, Canada
 - Starbucks, Trainyards Dr Unit 14 ([link](https://goo.gl/maps/oUa28cCKjuUEzFrD6))
    - 100 Trainyards Dr Unit 14A, Ottawa, ON K1G 3S2, Canada
+- Starbucks, Prince of Wales Dr ([link](https://goo.gl/maps/kEBfsZgLqY8hTCS57))
+   - 2271 Prince of Wales Dr, Ottawa, ON K2E 6Z8, Canada
 - Starbucks, Iris St ([link](https://goo.gl/maps/eZpXjEmusoMmNg6MA))
    - 2735 Iris St, Ottawa, ON K2C 3S4, Canada
 - Bridgehead, Elgin St ([link](https://goo.gl/maps/F6SJh1C1ZTcdnSda6))
