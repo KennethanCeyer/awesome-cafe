@@ -169,3 +169,5 @@
    - 412 Churchill Ave N, Ottawa, ON K1Z 5C6, Canada
 - Café Qui Pense ([link](https://goo.gl/maps/Kiywir5BsLM8FZXw7))
    - 204 Main St, Ottawa, ON K1S 1C6, Canada
+- Oat Couture Oatmeal Cafe ([link](https://goo.gl/maps/gLjboSNQztr3yP7q8))
+   - 1154 Bank St, Ottawa, ON K1S 3X6, Canada
