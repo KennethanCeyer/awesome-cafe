@@ -86,6 +86,8 @@
    - 1156 Queen St E, Toronto, ON M4M 1L2, Canada
 - Manic Coffee ([link](https://goo.gl/maps/DYP3VPhfUbhyjatr8))
    - 426 College St, Toronto, ON M5T 1T3, Canada
+- Tandem Coffee ([link](https://goo.gl/maps/VZT8AkoxuaLypNfj9))
+   - 368 King St E, Toronto, ON M5A 1K9, Canada
 - NEO COFFEE BAR ([link](https://goo.gl/maps/ffspfR96LiSdvVTE8))
    - 770 Bay St. Unit 3, Toronto, ON M5G 0A6, Canada
 - Starbucks, Yonge St ([link](https://goo.gl/maps/vQXtENbA3PzXT1qS9))
