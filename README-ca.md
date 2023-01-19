@@ -90,6 +90,8 @@
    - 368 King St E, Toronto, ON M5A 1K9, Canada
 - NEO COFFEE BAR ([link](https://goo.gl/maps/ffspfR96LiSdvVTE8))
    - 770 Bay St. Unit 3, Toronto, ON M5G 0A6, Canada
+- Propeller Coffee ([link](https://goo.gl/maps/zLye2KTBME71wBMC7))
+   - 50 Wade Ave, Toronto, ON M6H 2Z3, Canada
 - Starbucks, Yonge St ([link](https://goo.gl/maps/vQXtENbA3PzXT1qS9))
    - 5140 Yonge St, Toronto, ON M2N 6L7, Canada
 - Starbucks, King St W ([link](https://goo.gl/maps/mmtgxPaprgVHUyPV6))
