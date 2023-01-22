@@ -112,6 +112,8 @@
    - 351 King St E, Toronto, ON M5A 1L1, Canada
 - Starbucks, Sheppard Ave W ([link](https://goo.gl/maps/RWFvpGG4tw8J7fdi6))
    - 2295 Sheppard Ave W, Toronto, ON M9M 0B3, Canada
+- Starbucks, Clair Ave ([link](https://goo.gl/maps/4TJRfqtoebZt66GN7))
+   - 2575 St Clair Ave W #108, Toronto, ON M6N 4Z5, Canada
 - Starbucks, 10 Dundas St E ([link](https://goo.gl/maps/87mATQsWH4qd4vnx6))
    - Tba, 10 Dundas St E, Toronto, ON M5B 2G9, Canada
 - Starbucks, Avenue Rd ([link](https://goo.gl/maps/ra7yRcb47aD1p9hPA))
