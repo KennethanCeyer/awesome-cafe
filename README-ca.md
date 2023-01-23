@@ -94,6 +94,8 @@
    - 770 Bay St. Unit 3, Toronto, ON M5G 0A6, Canada
 - Propeller Coffee ([link](https://goo.gl/maps/zLye2KTBME71wBMC7))
    - 50 Wade Ave, Toronto, ON M6H 2Z3, Canada
+- Golden Gecko Coffee ([link](https://goo.gl/maps/v8XTeoBWYgKRNrsGA))
+   - 282 Jane St, Toronto, ON M6S 3Z2, Canada
 - Fahrenheit Coffee ([link](https://goo.gl/maps/z8QEC3ZvLyQBCV4S8))
    - 120 Lombard St, Toronto, ON M5C 3H5, Canada
 - Starbucks, Yonge St ([link](https://goo.gl/maps/vQXtENbA3PzXT1qS9))
