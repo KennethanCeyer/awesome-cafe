@@ -92,6 +92,8 @@
    - 368 King St E, Toronto, ON M5A 1K9, Canada
 - NEO COFFEE BAR ([link](https://goo.gl/maps/ffspfR96LiSdvVTE8))
    - 770 Bay St. Unit 3, Toronto, ON M5G 0A6, Canada
+- Dineen Outpost ([link](https://goo.gl/maps/waRtxXvMLgmMRhzB9))
+   - 1042 Gerrard St E, Toronto, ON M4M 1Z5, Canada
 - Propeller Coffee ([link](https://goo.gl/maps/zLye2KTBME71wBMC7))
    - 50 Wade Ave, Toronto, ON M6H 2Z3, Canada
 - Golden Gecko Coffee ([link](https://goo.gl/maps/v8XTeoBWYgKRNrsGA))
