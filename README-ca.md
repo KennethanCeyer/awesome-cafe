@@ -134,6 +134,8 @@
    - 1 Queen St E G5, Toronto, ON M5C 2W5, Canada
 - Starbucks, 1960 Queen St E ([link](https://goo.gl/maps/SoUdbBBExrNc4znz8))
    - 1960 Queen St E, Toronto, ON M4L 1H8, Canada
+- Starbucks, Richmond St ([link](https://goo.gl/maps/fEmvY6faCbqPy4bw8))
+   - 438 Richmond St W Unit #4, Toronto, ON M5V 3S6, Canada
 - Hale Coffee Company ([link](https://goo.gl/maps/XMLsqQ7vt5Yc5bCe9))
    - 300 Campbell Ave Unit #103, Toronto, ON M6P 3V6, Canada
 - Third Wave Coffee Inc. ([link](https://goo.gl/maps/WvyTie6yjCBZKSgNA))
