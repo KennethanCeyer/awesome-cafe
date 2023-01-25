@@ -76,8 +76,10 @@
 
 ## Toronto
 
-- Pilot Coffee Roasters ([link](https://goo.gl/maps/9YU6ttWMH89AtpXC7))
+- Pilot Coffee Roasters, King St ([link](https://goo.gl/maps/9YU6ttWMH89AtpXC7))
    - 100 King St W, Toronto, ON M5H 4A6, Canada
+- Pilot Coffee Roasters, Queen St ([link](https://goo.gl/maps/7rAovCX3awfDcnLUA))
+   - 983 Queen St E, Toronto, ON M4M 1K2, Canada
 - The Social Blend ([link](https://goo.gl/maps/rj8J5stdRb37PgDU6))
    - 130 Eglinton Ave E, Toronto, ON M4P 2X9, Canada
 - Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
