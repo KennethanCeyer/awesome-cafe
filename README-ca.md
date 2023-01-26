@@ -84,6 +84,8 @@
    - 925 Bay St., Toronto, ON M5S 3L4, Canada
 - The Social Blend ([link](https://goo.gl/maps/rj8J5stdRb37PgDU6))
    - 130 Eglinton Ave E, Toronto, ON M4P 2X9, Canada
+- Black Bear Espresso ([link](https://goo.gl/maps/3qWjxSst7MwE4sVM8))
+   - 25 Carlton St., Toronto, ON M5B 1L4, Canada
 - Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
    - 140 Yonge St, Toronto, ON M5C 1X6, Canada
 - Tango Palace Coffee Company ([link](https://goo.gl/maps/xGMvJBssZAVvpA1EA))
