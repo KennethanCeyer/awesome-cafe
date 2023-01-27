@@ -76,6 +76,8 @@
 
 ## Toronto
 
+- Arvo Coffee ([link](https://goo.gl/maps/f3UDAJRgqjVHBsoQA))
+   - 17 Gristmill Lane, Toronto, ON M5A 3C4, Canada
 - Pilot Coffee Roasters, King St ([link](https://goo.gl/maps/9YU6ttWMH89AtpXC7))
    - 100 King St W, Toronto, ON M5H 4A6, Canada
 - Pilot Coffee Roasters, Queen St ([link](https://goo.gl/maps/7rAovCX3awfDcnLUA))
