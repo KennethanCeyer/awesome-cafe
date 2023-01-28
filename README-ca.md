@@ -88,6 +88,8 @@
    - 130 Eglinton Ave E, Toronto, ON M4P 2X9, Canada
 - Black Bear Espresso ([link](https://goo.gl/maps/3qWjxSst7MwE4sVM8))
    - 25 Carlton St., Toronto, ON M5B 1L4, Canada
+- Found Coffee | College ([link](https://goo.gl/maps/AtYMgy6kc4wgJ7Ja7))
+   - 324 College St, Toronto, ON M5T 1S3, Canada
 - Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
    - 140 Yonge St, Toronto, ON M5C 1X6, Canada
 - Tango Palace Coffee Company ([link](https://goo.gl/maps/xGMvJBssZAVvpA1EA))
