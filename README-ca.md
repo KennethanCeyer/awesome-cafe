@@ -106,6 +106,8 @@
    - 1042 Gerrard St E, Toronto, ON M4M 1Z5, Canada
 - Propeller Coffee ([link](https://goo.gl/maps/zLye2KTBME71wBMC7))
    - 50 Wade Ave, Toronto, ON M6H 2Z3, Canada
+- Bulldog Coffee ([link](https://goo.gl/maps/tMDYSX5Emes9svAJ8))
+   - 89 Granby St, Toronto, ON M5B 1H9, Canada
 - Golden Gecko Coffee ([link](https://goo.gl/maps/v8XTeoBWYgKRNrsGA))
    - 282 Jane St, Toronto, ON M6S 3Z2, Canada
 - Fahrenheit Coffee ([link](https://goo.gl/maps/z8QEC3ZvLyQBCV4S8))
