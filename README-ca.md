@@ -132,6 +132,8 @@
    - 2575 St Clair Ave W #108, Toronto, ON M6N 4Z5, Canada
 - Starbucks, 10 Dundas St E ([link](https://goo.gl/maps/87mATQsWH4qd4vnx6))
    - Tba, 10 Dundas St E, Toronto, ON M5B 2G9, Canada
+- Starbucks, Pabst Ln ([link](https://goo.gl/maps/zhjmh3iU4STWAoAu9))
+   - 6 Pabst Ln, Toronto, ON M3C 0H4, Canada
 - Starbucks, Avenue Rd ([link](https://goo.gl/maps/ra7yRcb47aD1p9hPA))
    - 1507 Avenue Rd, Toronto, ON M5M 3X3, Canada
 - Starbucks, 869 Queen St E ([link](https://goo.gl/maps/M4rDuPw41sHj9XvU6))
