@@ -90,6 +90,8 @@
    - 25 Carlton St., Toronto, ON M5B 1L4, Canada
 - Found Coffee | College ([link](https://goo.gl/maps/AtYMgy6kc4wgJ7Ja7))
    - 324 College St, Toronto, ON M5T 1S3, Canada
+- Dispatch Coffee ([link](https://goo.gl/maps/XocBn6AGknRLfzCR8))
+   - 390 Bay St., Toronto, ON M5H 2Y2, Canada
 - Dineen Coffee Co. ([link](https://goo.gl/maps/UvAuPSxN4nzPcsY1A))
    - 140 Yonge St, Toronto, ON M5C 1X6, Canada
 - Tango Palace Coffee Company ([link](https://goo.gl/maps/xGMvJBssZAVvpA1EA))
