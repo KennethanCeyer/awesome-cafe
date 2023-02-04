@@ -118,6 +118,8 @@
    - 5140 Yonge St, Toronto, ON M2N 6L7, Canada
 - Starbucks, King St W ([link](https://goo.gl/maps/mmtgxPaprgVHUyPV6))
    - 4 King St W, Toronto, ON M5H 1B6, Canada
+- Starbucks, Rathburn Rd W ([link](https://goo.gl/maps/9hfKE4pMkBFvprGJ6))
+   - 189 Rathburn Rd W, Mississauga, ON L5B 4C1, Canada
 - Starbucks, Front St W ([link](https://goo.gl/maps/kK8gUNtKQandXiMC6))
    - 300 Front St W, Toronto, ON M5V 0E9, Canada
 - Starbucks, Queen St W ([link](https://goo.gl/maps/RCzwCGpDDEF3sCn79))
