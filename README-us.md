@@ -459,5 +459,7 @@
    - 4801 2nd St, Long Beach, CA 90803
 - Starbucks, Alhambra Blvd ([link](https://goo.gl/maps/rhnSFTVL3rspn4JXA))
    - 1401 Alhambra Blvd, Sacramento, CA 95816
+- Starbucks, E Willow St ([link](https://goo.gl/maps/AqNYcYd4oLiyRT8k7))
+   - 281 E Willow St, Long Beach, CA 90806
 - Ground Hideout Coffee ([link](https://g.page/groundhideoutlb?share))
    - 356 E 4th St, Long Beach, CA 90802
