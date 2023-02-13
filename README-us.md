@@ -392,6 +392,8 @@
    - 1306 N Wishon Ave, Fresno, CA 93728
 - Peet's coffee, Bullard Ave ([link](https://goo.gl/maps/usPugaRBcRKmSBC87))
    - 2026 W Bullard Ave, Fresno, CA 93711
+- Kuppa Joy Coffee House - Grand Cafe Fresno ([link](https://goo.gl/maps/Z1fbkuxMS8RjiMxZ9))
+   - 8821 N Cedar Ave, Fresno, CA 93720
 - Startbucks, E Shaw Ave ([link](https://goo.gl/maps/1wAKxh5nVwjTJUfFA))
    - 1041 E Shaw Ave, Fresno, CA 93710
 - Starbucks, U St ([link](https://goo.gl/maps/CmUBRiKZ6sF24UdY9))
