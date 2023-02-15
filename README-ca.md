@@ -181,6 +181,8 @@
    - 2271 Prince of Wales Dr, Ottawa, ON K2E 6Z8, Canada
 - Starbucks, Iris St ([link](https://goo.gl/maps/eZpXjEmusoMmNg6MA))
    - 2735 Iris St, Ottawa, ON K2C 3S4, Canada
+- I Deal Coffee ([link](https://goo.gl/maps/dXr8jyArthuv7Dii9))
+   - 176 Dalhousie St, Ottawa, ON K1N 7C6, Canada
 - Bridgehead, Elgin St ([link](https://goo.gl/maps/F6SJh1C1ZTcdnSda6))
    - 282 Elgin St, Ottawa, ON K2P 1M3, Canada
 - Bridgehead Roastery and Coffeehouse ([link](https://goo.gl/maps/MNRQeA2TTCJYiE2c7))
