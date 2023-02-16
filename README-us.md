@@ -95,6 +95,8 @@
    - 499 S Second St, San Jose, CA 95113
 - Crema Coffee Roasting Company ([link](https://goo.gl/maps/HqLT5BG8MxoXsG7KA))
    - 238 Race St, San Jose, CA 95126
+- Chromatic Coffee Co. ([link](https://goo.gl/maps/vUB9YrzGRRUs5w1m9))
+   - 460 Lincoln Ave #10, San Jose, CA 95126
 - Roy's Station Coffee & Tea ([link](https://goo.gl/maps/xf9mw4SrDMyD3WP99))
    - 197 Jackson St, San Jose, CA 95112
 - Voyager Craft Coffee ([link](https://goo.gl/maps/H4mwo1xoLL6eK3Um9))
