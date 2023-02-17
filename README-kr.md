@@ -1533,6 +1533,8 @@
 
 ### 영등포구
 
+- cafe unusual ([link](https://goo.gl/maps/DVCxtozmjSzWVDWg8))
+   - 서울특별시 영등포구 당산로36길 12 상가 201동 104호
 - 드롭탑 서여의도점 ([link](https://goo.gl/maps/mmiCX4yyK8BhHNpCA))
    - 서울특별시 영등포구 여의도동 국회대로70길 7
 - 텐퍼센트커피 여의도점 ([link](https://goo.gl/maps/xwcCKDjeqLN39mWd6))
