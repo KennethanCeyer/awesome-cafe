@@ -6,6 +6,7 @@
 - [British Columbia (BC)](#british-columbia-bc)
 - [Toronto](#toronto)
 - [Ottawa](#ottawa)
+- [Montreal](#montreal)
 
 ## 🔰 Rules
 
@@ -207,3 +208,8 @@
    - 204 Main St, Ottawa, ON K1S 1C6, Canada
 - Oat Couture Oatmeal Cafe ([link](https://goo.gl/maps/gLjboSNQztr3yP7q8))
    - 1154 Bank St, Ottawa, ON K1S 3X6, Canada
+
+## Montreal
+
+- Starbucks, 1500 Av ([link](https://goo.gl/maps/ydWWvi6gjg6KHAfu6))
+   - Kb09, 1500 Av. McGill College, Montréal, QC H3A 3J5, Canada
