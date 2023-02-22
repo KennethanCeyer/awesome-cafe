@@ -2399,6 +2399,8 @@
 
 ### 고성군
 
+- coffee go ([link](https://goo.gl/maps/xAyUGYfpzKFaWksb8))
+   - 강원도 고성군 토성로 84 KR 커피고 해맞이하우스 1층
 - 투썸플레이스 천진해수욕장점 ([link](https://goo.gl/maps/X4L9dk3ELeQ3wxTF8))
    - 강원도 고성군 토성면 천진리 178-13
 
