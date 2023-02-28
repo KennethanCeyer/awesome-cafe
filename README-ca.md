@@ -180,6 +180,8 @@
    - 100 Trainyards Dr Unit 14A, Ottawa, ON K1G 3S2, Canada
 - Starbucks, Prince of Wales Dr ([link](https://goo.gl/maps/kEBfsZgLqY8hTCS57))
    - 2271 Prince of Wales Dr, Ottawa, ON K2E 6Z8, Canada
+- Starbucks, Rideau Centre Unit ([link](https://maps.app.goo.gl/AFfcGqHyo7r86Tsv9?g_st=ic))
+   - 50 Rideau Centre Unit #246, Ottawa, ON K1N 9J7
 - Starbucks, Iris St ([link](https://goo.gl/maps/eZpXjEmusoMmNg6MA))
    - 2735 Iris St, Ottawa, ON K2C 3S4, Canada
 - I Deal Coffee ([link](https://goo.gl/maps/dXr8jyArthuv7Dii9))
