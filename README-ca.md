@@ -20,6 +20,8 @@
 
 ### Vancouver
 
+- Artistry Coffee Shop ([link](https://goo.gl/maps/DWR6yvKRnigyoada8))
+   - 2959 W 4th Ave, Vancouver, BC V6K 1R3, Canada
 - Coffee Roastery Modus ([link](https://goo.gl/maps/HWzZLZ8Jj6eFVSfx9))
    - 112 W Broadway, Vancouver, BC V5Y 1P1, Canada
 - Propaganda coffee ([link](https://goo.gl/maps/cWtW8jaLGZwBewzq7))
