@@ -2326,7 +2326,7 @@
 - 스타벅스 더해운대R점 ([link](https://goo.gl/maps/x2Yn2G1By26Zex8x8))
    - 부산광역시 해운대구 해운대해변로 197
 - 스페이스 단단 ([link](https://goo.gl/maps/rbdvREngCZx6qcm28))
-   - 부산 해운대구 센텀중앙로 79 1F
+   - 부산 해운대구 센텀중앙로 79 1층
 - 커피스미스 부산센텀시티점 ([link](https://goo.gl/maps/FHQr61q1E6AV2C1E8))
    - 부산 해운대구 센텀중앙로 55 경남정보대 센텀캠퍼스 1층
 - 스타벅스 센텀시티역점 ([link](https://goo.gl/maps/wxUihaC2kDZf27fE9))
