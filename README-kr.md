@@ -351,6 +351,8 @@
 
 ### 강동구
 
+- 피에로 커피 ([link](https://goo.gl/maps/QtGapkRJoHwVMrZU7))
+   - 서울특별시 강동구 성내제1동 465
 - 테라로사 길동점 ([link](https://goo.gl/maps/E77MknGtMZjgSQ3y8))
    - 서울특별시 강동구 길동 255-2
 - 스타벅스 명일이마트점 ([link](https://maps.google.com/?cid=8553215300384195544))
