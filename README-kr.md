@@ -2401,6 +2401,8 @@
 
 ### 고성군
 
+- 소울브릿지 ([link](https://goo.gl/maps/myJExJUe77ymRdHX8))
+   -  강원도 고성군 토성면 천진해변길 33
 - 태시트 TACIT ([link](https://goo.gl/maps/3PhVK7bvK4bAEFQc9))
    - 강원도 고성군 토성면 청간정길 25-2
 - coffee go ([link](https://goo.gl/maps/xAyUGYfpzKFaWksb8))
