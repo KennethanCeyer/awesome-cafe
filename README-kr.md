@@ -2077,6 +2077,8 @@
 
 ### 김포시
 
+- 글린공원 ([link](https://goo.gl/maps/3TbTvSa8aUhEkFzf9))
+   - 경기도 김포시 양촌읍 석모로5번길 34 카페 글린공원
 - 55갤런 ([link](https://goo.gl/maps/6Yxc7sULoiqqmpSC6))
    - 경기도 김포시 양촌읍 김포대로 1619 55갤런 비스트로 카페
 - 금파1832 ([link](https://goo.gl/maps/Xb8ygjGMQjV7fazP6))
