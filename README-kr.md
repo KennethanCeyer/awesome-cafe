@@ -65,6 +65,8 @@
 
 ### 강남구
 
+- 리퍼크 (reperk) ([link](https://goo.gl/maps/L66fxcG86iSPubV5A?coh=178572&entry=tt))
+   - 서울특별시 강남구 강남대로 382 메리츠타워, 1층
 - 카페 원데이노마드 ([link](https://goo.gl/maps/zRrRvMiGsogtRVzdA))
    - 서울특별시 강남구 대치동 번지, 1층 959-5
 - 인디워커스 하이브 ([link](https://goo.gl/maps/R361yJbVEjjBUeL8A))
