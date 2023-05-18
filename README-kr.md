@@ -65,6 +65,8 @@
 
 ### 강남구
 
+- 싸프란겔 커피 ([link](https://goo.gl/maps/qMs5BLBLdLKFb43E6?coh=178572&entry=tt))
+   - 서울특별시 강남구 선릉로82길 20
 - 카페 정월 ([link](https://goo.gl/maps/aHoohVerTcXjiMfy6?coh=178572&entry=tt))
    - 서울특별시 강남구 강남대로102길 46, 1층
 - Gentle Coffee ([link](https://goo.gl/maps/hruKMeMtcXshfQYb9?coh=178572&entry=tt))
