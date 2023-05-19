@@ -19,6 +19,8 @@
     - [Palo Alto](#palo-alto)
     - [Sacramento](#sacramento)
     - [Long Beach](#long-beach)
+- [Florida (FL)]
+    - [Miami](#miami)
 
 ## 🔰 Rules
 
@@ -467,3 +469,10 @@
    - 281 E Willow St, Long Beach, CA 90806
 - Ground Hideout Coffee ([link](https://g.page/groundhideoutlb?share))
    - 356 E 4th St, Long Beach, CA 90802
+
+## Florida (FL)
+
+### Miami
+
+- Starbucks, Chopin Plaza ([link](https://goo.gl/maps/PQF5etc8B6XiDPGm9?coh=178572&entry=tt))
+   - 100 Chopin Plaza, Miami, FL 33131, United States
