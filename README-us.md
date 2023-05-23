@@ -19,7 +19,7 @@
     - [Palo Alto](#palo-alto)
     - [Sacramento](#sacramento)
     - [Long Beach](#long-beach)
-- [Florida (FL)]
+- [Florida (FL)](#florida-fl)
     - [Miami](#miami)
 
 ## 🔰 Rules
