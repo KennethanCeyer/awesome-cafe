@@ -21,3 +21,5 @@
 
 - グランノットコーヒーロースターズ ([link](https://goo.gl/maps/DCw2yi9n93Vcn6aU7?coh=178572&entry=tt))
    - 〒550-0014 大阪府大阪市西区北堀江１丁目２３−4 長野ビル 102
+- MOTO COFFEE ([link](https://goo.gl/maps/EK7UvEh8BuU9zk8R6?coh=178572&entry=tt))
+   - 〒541-0041 大阪府大阪市中央区北浜２丁目１−1 ライオンビル
