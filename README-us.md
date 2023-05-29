@@ -9,6 +9,7 @@
        - [San Jose](#san-jose)
        - [Mountain View](#mountain-view)
        - [Sunnyvale](#sunnyvale)
+       - [Cupertino](#cupertino)
        - [Santa Clara](#santa-clara)
        - [Oakland](#oakland)
     - [Los Angeles](#los-angeles)
@@ -181,8 +182,6 @@
    - 1120 Kifer Rd Suite C, Sunnyvale, CA 94086
 - Las Palmas Cafe and Lounge ([link](https://goo.gl/maps/m5rd4t9dAtLawmLH6))
    - 755 S Mathilda Ave, Sunnyvale, CA 94087
-- 7 Leaves Cafe ([link](https://goo.gl/maps/kTfyD33XTxKn8VTx8))
-   - 11111 N Wolfe Rd, Cupertino, CA 95014
 - Panera Bread ([link](https://goo.gl/maps/83aUjQ6ikAipjdWe9))
    - 1189 E Arques Ave, Sunnyvale, CA 94085
 - Philz Coffee, 125 S Frances St ([link](https://goo.gl/maps/YVEojr9BGp8doq2N8))
@@ -203,6 +202,13 @@
    - 1291 S Mary Ave, Sunnyvale, CA 94087
 - Starbucks, 348 E El Camino Real ([link](https://goo.gl/maps/21xKQqWpXrgZi6886))
    - 348 E El Camino Real, Sunnyvale, CA 94087
+
+#### Cupertino
+
+- 7 Leaves Cafe ([link](https://goo.gl/maps/kTfyD33XTxKn8VTx8))
+   - 11111 N Wolfe Rd, Cupertino, CA 95014
+- Philz Coffee, Stevens Creek Blvd ([link](https://goo.gl/maps/2pqD2r6twifEK3dA8?coh=178572&entry=tt))
+   - 19439 Stevens Creek Blvd, Cupertino, CA 95014
 
 #### Santa Clara
 
