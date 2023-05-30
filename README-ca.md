@@ -117,6 +117,8 @@
    - 282 Jane St, Toronto, ON M6S 3Z2, Canada
 - Fahrenheit Coffee ([link](https://goo.gl/maps/z8QEC3ZvLyQBCV4S8))
    - 120 Lombard St, Toronto, ON M5C 3H5, Canada
+- The Arch Café ([link](https://goo.gl/maps/gt4h5EWQBkzJ3KZu7?coh=178572&entry=tt))
+   - 293 Augusta Ave, Toronto, ON M5T 2M2, Canada
 - Starbucks, Yonge St ([link](https://goo.gl/maps/vQXtENbA3PzXT1qS9))
    - 5140 Yonge St, Toronto, ON M2N 6L7, Canada
 - Starbucks, King St W ([link](https://goo.gl/maps/mmtgxPaprgVHUyPV6))
