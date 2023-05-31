@@ -27,3 +27,5 @@
    - 〒530-0013 大阪府大阪市北区茶屋町１５−22 アーバンテラス A棟
 - ブルックリン ロースティング カンパニー 北浜 ([link](https://goo.gl/maps/Fn8i8GdoucTiHdLN6?coh=178572&entry=tt))
    - 〒541-0041 大阪府大阪市中央区北浜１丁目１−9 ハウザー 北浜ビル 1F
+- Nable Cafe Osaka ([link](https://goo.gl/maps/v6LqU6Bgvt6Dd6H27?coh=178572&entry=tt))
+   - 〒530-0013 大阪府大阪市北区茶屋町１５−30 ＳＭＫ梅田 3F
