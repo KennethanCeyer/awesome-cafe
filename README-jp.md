@@ -15,6 +15,9 @@
 
 - スターバックス コーヒー 新宿サザンテラス店 ([link](https://goo.gl/maps/xWjfzR6VF1ce9QGg6?coh=178572&entry=tt))
    - 〒151-0053 東京都渋谷区代々木２丁目２−1 新宿サザンテラス内
+- 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
+   - 〒203-0033 東京都東久留米市滝山４丁目１−40
+
 ## 大阪府
 
 ### 大阪市
