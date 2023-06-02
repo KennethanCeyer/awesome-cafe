@@ -219,3 +219,5 @@
 
 - Starbucks, 1500 Av ([link](https://goo.gl/maps/ydWWvi6gjg6KHAfu6))
    - Kb09, 1500 Av. McGill College, Montréal, QC H3A 3J5, Canada
+- Starbucks, 150 Boul Crémazie E ([link](https://goo.gl/maps/MwXTmoqvrXBoE7H98?coh=178572&entry=tt))
+   - 150 Boul Crémazie E, Montréal, QC H2P 1E2
