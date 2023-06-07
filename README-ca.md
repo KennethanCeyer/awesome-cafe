@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Cafe ☕</h1> 
+<h1 align="center">Awesome Cafe (CA) ☕</h1> 
 <p align="center">List of caffeine shop for developers</p>
 
 ## ⛳️ List
