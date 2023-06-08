@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Cafe ☕</h1>
+<h1 align="center">Awesome Cafe (KR) ☕</h1>
   
 <p align="center">개발자 카페 목록</p>
 
