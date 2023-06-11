@@ -17,6 +17,8 @@
    - 〒151-0053 東京都渋谷区代々木２丁目２−1 新宿サザンテラス内
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
    - 〒203-0033 東京都東久留米市滝山４丁目１−40
+- ブルーボトルコーヒー 新宿カフェ ([link](https://goo.gl/maps/8sq6qsCQXtrMjBDH8))
+   - 〒160-0022 東京都新宿区新宿４丁目１−6 NEWoMan SHINJUKU 1F
 
 ## 大阪府
 
