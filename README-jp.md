@@ -21,6 +21,8 @@
    - 〒160-0022 東京都新宿区新宿４丁目１−6 NEWoMan SHINJUKU 1F
 - カフェ・ド・クリエ新宿東新ビル店 ([link](https://goo.gl/maps/sVeycdUiJroP9Le66))
    - 〒160-0022 東京都新宿区新宿３丁目２１−7 東新ビル Ｂ２Ｆ
+- タリーズコーヒー 新宿二丁目店 ([link](https://goo.gl/maps/JVbbzEiwvrYaNijw7))
+   - 〒160-0022 東京都新宿区新宿２丁目５−9
 
 ## 大阪府
 
