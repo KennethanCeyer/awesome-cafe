@@ -31,6 +31,8 @@
    - 〒160-0022 東京都新宿区新宿３丁目１−17 ビル山本B1F
 - VERVE COFFEE Shinjuku ([link](https://goo.gl/maps/dmMZq15KUEu8Sq3v7))
    - 〒151-0051 東京都渋谷区千駄ケ谷５丁目２４−55 NEWoMan 新宿 ２Ｆ
+- オールシーズンズコーヒー ([link](https://goo.gl/maps/3vesxAZQL9QAUddA8))
+   - 〒160-0022 東京都新宿区新宿２丁目７−7 1F
 
 ## 大阪府
 
