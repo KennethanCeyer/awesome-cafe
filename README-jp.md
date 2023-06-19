@@ -19,6 +19,8 @@
    - 〒160-0022 東京都新宿区新宿３丁目１１−6 エクレ新宿 1F
 - スターバックス コーヒー 新宿エルタワー店 ([link](https://goo.gl/maps/EAwkiYXLFn9MSPAP7))
    - 〒160-0023 東京都新宿区西新宿１丁目６−1, Shinjuku L Tower, 1F
+- スターバックス コーヒー 新宿新南口店 ([link](https://goo.gl/maps/6h8uUQFPtnc4X6TA9))
+   - 〒160-0022 東京都新宿区新宿４丁目１−9 新宿ユースビル 1F
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
    - 〒203-0033 東京都東久留米市滝山４丁目１−40
 - ブルーボトルコーヒー 新宿カフェ ([link](https://goo.gl/maps/8sq6qsCQXtrMjBDH8))
