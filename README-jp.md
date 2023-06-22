@@ -23,6 +23,8 @@
    - 〒160-0022 東京都新宿区新宿４丁目１−9 新宿ユースビル 1F
 - スターバックス コーヒー 京王新宿三丁目ビル店 ([link](https://goo.gl/maps/BiS6EAGnWNoRaQgQ9))
    - 〒160-0022 東京都新宿区新宿３丁目１−24 京王新宿三丁目ビル
+- スターバックス コーヒー 新宿西口店 ([link](https://goo.gl/maps/9VhU1Kbb27Jbatqk8))
+   - 〒160-0023 東京都新宿区西新宿１丁目１２−1 高倉第一ビル
 - スターバックス コーヒー ルミネエスト新宿店 ([link](https://goo.gl/maps/ymJyi36esQMc8JoCA))
    - 〒160-0022 東京都新宿区新宿３丁目３８−1 ルミネエスト新宿 2F
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
