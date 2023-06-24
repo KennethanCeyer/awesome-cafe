@@ -29,6 +29,8 @@
    - 〒160-0022 東京都新宿区新宿３丁目３８−1 ルミネエスト新宿 2F
 - スターバックス コーヒー 新宿中央公園 SHUKNOVA店 ([link](https://goo.gl/maps/rikEYw54EKbfVt9N7))
    - 〒160-0023 東京都新宿区西新宿２丁目１１−5 ＳＨＵＫＮＯＶＡ １階
+- 椿屋珈琲 新宿茶寮 ([link](https://goo.gl/maps/AmziRb7Tdeh2QGSZ9))
+   - 〒160-0022 東京都新宿区新宿３丁目３６−12 杉忠ビル 2F・3F
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
    - 〒203-0033 東京都東久留米市滝山４丁目１−40
 - ブルーボトルコーヒー 新宿カフェ ([link](https://goo.gl/maps/8sq6qsCQXtrMjBDH8))
