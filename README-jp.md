@@ -31,6 +31,8 @@
    - 〒160-0023 東京都新宿区西新宿２丁目１１−5 ＳＨＵＫＮＯＶＡ １階
 - スターバックス コーヒー 新宿サブナード店 ([link](https://goo.gl/maps/hAckCcJcMdm9eJ9B6))
    - 〒160-0021 東京都新宿区歌舞伎町１丁目 新宿サブナード サブナード 1
+- タリーズコーヒー 新宿エルタワー店 ([link](https://goo.gl/maps/3DV1DXZcLp8EXC4eA))
+   - 〒160-0023 東京都新宿区西新宿１丁目６−1, Shinjuku L Tower, Ｂ２Ｆ
 - 椿屋珈琲 新宿茶寮 ([link](https://goo.gl/maps/AmziRb7Tdeh2QGSZ9))
    - 〒160-0022 東京都新宿区新宿３丁目３６−12 杉忠ビル 2F・3F
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
