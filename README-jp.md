@@ -27,6 +27,8 @@
    - 〒160-0023 東京都新宿区西新宿１丁目１２−1 高倉第一ビル
 - スターバックス コーヒー ルミネエスト新宿店 ([link](https://goo.gl/maps/ymJyi36esQMc8JoCA))
    - 〒160-0022 東京都新宿区新宿３丁目３８−1 ルミネエスト新宿 2F
+- スターバックス コーヒー 東急プラザ 表参道原宿店 ([link](https://goo.gl/maps/SMm1YnVW2XDLVpEw8))
+   - 〒150-0001 東京都渋谷区神宮前４丁目３０−3 東急プラザ 表参道原宿 ６階
 - スターバックス コーヒー 新宿中央公園 SHUKNOVA店 ([link](https://goo.gl/maps/rikEYw54EKbfVt9N7))
    - 〒160-0023 東京都新宿区西新宿２丁目１１−5 ＳＨＵＫＮＯＶＡ １階
 - スターバックス コーヒー 新宿サブナード店 ([link](https://goo.gl/maps/hAckCcJcMdm9eJ9B6))
