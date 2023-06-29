@@ -37,6 +37,8 @@
    - 〒160-0023 東京都新宿区西新宿１丁目６−1, Shinjuku L Tower, Ｂ２Ｆ
 - タリーズコーヒー 新宿スクエアタワー店 ([link](https://goo.gl/maps/erpgPuM5atgyWwye8))
    - 〒163-1101 東京都新宿区西新宿６丁目２２−1 新宿スクエアタワー 1階
+- NOA COFFEE 原宿店 ([link](https://goo.gl/maps/bKf4MWRkgr9noYyz8))
+   - 〒150-0001 東京都渋谷区神宮前１丁目１７−5
 - 椿屋珈琲 新宿茶寮 ([link](https://goo.gl/maps/AmziRb7Tdeh2QGSZ9))
    - 〒160-0022 東京都新宿区新宿３丁目３６−12 杉忠ビル 2F・3F
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
