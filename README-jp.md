@@ -20,7 +20,7 @@
 - スターバックス コーヒー 新宿エルタワー店 ([link](https://goo.gl/maps/EAwkiYXLFn9MSPAP7))
    - 〒160-0023 東京都新宿区西新宿１丁目６−1, Shinjuku L Tower, 1F
 - スターバックス コーヒー 新宿新南口店 ([link](https://goo.gl/maps/6h8uUQFPtnc4X6TA9))
-   - 〒160-0022 東京都新宿区新宿４丁目１−9 新宿ユースビル 1F
+   - 〒160-0022 東京都新宿区新宿４丁目１−9 新宿ユースビル, 1F
 - スターバックス コーヒー 京王新宿三丁目ビル店 ([link](https://goo.gl/maps/BiS6EAGnWNoRaQgQ9))
    - 〒160-0022 東京都新宿区新宿３丁目１−24 京王新宿三丁目ビル
 - スターバックス コーヒー 新宿西口店 ([link](https://goo.gl/maps/9VhU1Kbb27Jbatqk8))
