@@ -43,6 +43,8 @@
    - 〒160-0023 東京都新宿区西新宿６丁目６−2 ヒルトン東京 B1F
 - NOA COFFEE 原宿店 ([link](https://goo.gl/maps/bKf4MWRkgr9noYyz8))
    - 〒150-0001 東京都渋谷区神宮前１丁目１７−5
+- Beck's Coffee Shop Shinjuku ([link](https://goo.gl/maps/6m3rgDJU1ffbkSNa9))
+   - 〒160-0022 東京都新宿区新宿３丁目３８ １JR新宿駅構内
 - 椿屋珈琲 新宿茶寮 ([link](https://goo.gl/maps/AmziRb7Tdeh2QGSZ9))
    - 〒160-0022 東京都新宿区新宿３丁目３６−12 杉忠ビル 2F・3F
 - 東京コーヒー ロースタリー カフェ ([link](https://goo.gl/maps/w42cC1go8vT2hPCn9?coh=178572&entry=tt))
