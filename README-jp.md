@@ -31,6 +31,8 @@
    - 〒150-0001 東京都渋谷区神宮前４丁目３０−3 東急プラザ 表参道原宿 ６階
 - スターバックス コーヒー 新宿中央公園 SHUKNOVA店 ([link](https://goo.gl/maps/rikEYw54EKbfVt9N7))
    - 〒160-0023 東京都新宿区西新宿２丁目１１−5 ＳＨＵＫＮＯＶＡ １階
+- スターバックス コーヒー 新宿新南口店 ([link](https://goo.gl/maps/aramDBFT7htryq6D7))
+   - 〒160-0022 東京都新宿区新宿４丁目１−9 新宿ユースビル 1F
 - スターバックス コーヒー 新宿サブナード店 ([link](https://goo.gl/maps/hAckCcJcMdm9eJ9B6))
    - 〒160-0021 東京都新宿区歌舞伎町１丁目 新宿サブナード サブナード 1
 - タリーズコーヒー 新宿エルタワー店 ([link](https://goo.gl/maps/3DV1DXZcLp8EXC4eA))
