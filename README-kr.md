@@ -362,6 +362,8 @@
 
 ### 강동구
 
+- 채스우드커피 ([link](https://goo.gl/maps/czqSr2EygzChvmZT8))
+   - 서울특별시 강동구 성내동 434-20번지, 1층
 - 피에로 커피 ([link](https://goo.gl/maps/QtGapkRJoHwVMrZU7))
    - 서울특별시 강동구 성내제1동 465
 - 테라로사 길동점 ([link](https://goo.gl/maps/E77MknGtMZjgSQ3y8))
