@@ -72,6 +72,8 @@
 
 ### 大阪市
 
+- スターバックス コーヒー 大阪ガーデンシティ店 ([link](https://goo.gl/maps/rDYCnDF9hWLwjiDY6))
+   - 〒530-0001 大阪府大阪市北区梅田３丁目３−20 明治安田生命 大阪梅田ビル １階
 - グランノットコーヒーロースターズ ([link](https://goo.gl/maps/DCw2yi9n93Vcn6aU7?coh=178572&entry=tt))
    - 〒550-0014 大阪府大阪市西区北堀江１丁目２３−4 長野ビル 102
 - MOTO COFFEE ([link](https://goo.gl/maps/EK7UvEh8BuU9zk8R6?coh=178572&entry=tt))
