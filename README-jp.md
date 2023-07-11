@@ -72,6 +72,8 @@
 
 ### 大阪市
 
+- スターバックス コーヒー TSUTAYA 梅田 MeRISE店 ([link](https://goo.gl/maps/kpHwb3BKfcXJzWRL6))
+   - 〒530-0014 大阪府大阪市北区鶴野町１−5
 - スターバックス コーヒー 大阪ガーデンシティ店 ([link](https://goo.gl/maps/rDYCnDF9hWLwjiDY6))
    - 〒530-0001 大阪府大阪市北区梅田３丁目３−20 明治安田生命 大阪梅田ビル １階
 - グランノットコーヒーロースターズ ([link](https://goo.gl/maps/DCw2yi9n93Vcn6aU7?coh=178572&entry=tt))
