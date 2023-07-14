@@ -80,6 +80,8 @@
    - 〒550-0014 大阪府大阪市西区北堀江１丁目２３−4 長野ビル 102
 - TSUMIKI COFFEE 幸町店 ([link](https://goo.gl/maps/shVmCksRU5ihSPH86))
    - 〒556-0021 大阪府大阪市浪速区幸町２丁目３−33
+- The Rita coffee ([link](https://goo.gl/maps/DHcM15rTsXmyH1ka6))
+   - 〒556-0022 大阪府大阪市浪速区桜川１丁目１−21
 - MOTO COFFEE ([link](https://goo.gl/maps/EK7UvEh8BuU9zk8R6?coh=178572&entry=tt))
    - 〒541-0041 大阪府大阪市中央区北浜２丁目１−1 ライオンビル
 - Streamer Coffee Company Shinsaibashi ([link](https://goo.gl/maps/F4dSrFzjis7Dai5aA))
