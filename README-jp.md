@@ -88,6 +88,8 @@
    - 〒541-0041 大阪府大阪市中央区北浜２丁目１−1 ライオンビル
 - Streamer Coffee Company Shinsaibashi ([link](https://goo.gl/maps/F4dSrFzjis7Dai5aA))
    - 〒542-0086 大阪府大阪市中央区西心斎橋１丁目１０−19
+- モンディアルカフェ 328 NY3 ([link](https://goo.gl/maps/TujoWBxkKmjbmG3R8))
+   - 〒550-0014 大阪府大阪市西区北堀江１丁目６−16
 - ブルーボトルコーヒー 梅田茶屋町カフェ ([link](https://goo.gl/maps/HFMHfBSf1QcVrhAv9?coh=178572&entry=tt))
    - 〒530-0013 大阪府大阪市北区茶屋町１５−22 アーバンテラス A棟
 - ブルックリン ロースティング カンパニー 北浜 ([link](https://goo.gl/maps/Fn8i8GdoucTiHdLN6?coh=178572&entry=tt))
