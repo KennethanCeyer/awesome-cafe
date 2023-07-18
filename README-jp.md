@@ -87,7 +87,9 @@
 - QoFFEE by rio coffee ([link](https://goo.gl/maps/m67EKmUBGJm7S4xG8))
    - 〒530-0005 大阪府大阪市北区中之島２丁目３−18 B1F, FESTIVAL TOWER, C04
 - MOTO COFFEE ([link](https://goo.gl/maps/EK7UvEh8BuU9zk8R6?coh=178572&entry=tt))
-   - 〒541-0041 大阪府大阪市中央区北浜２丁目１−1 ライオンビル
+   - 〒541-0041 大阪府大阪市中0央区北浜２丁目１−1 ライオンビル
+- タリーズコーヒー なんばEKIKAN店 ([link](https://goo.gl/maps/Sd2fqPjyaB2auP7WA))
+   - 〒556-0012 大阪府大阪市浪速区敷津東２丁目１−4
 - Streamer Coffee Company Shinsaibashi ([link](https://goo.gl/maps/F4dSrFzjis7Dai5aA))
    - 〒542-0086 大阪府大阪市中央区西心斎橋１丁目１０−19
 - モンディアルカフェ 328 NY3 ([link](https://goo.gl/maps/TujoWBxkKmjbmG3R8))
