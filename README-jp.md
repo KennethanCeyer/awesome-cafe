@@ -72,6 +72,8 @@
 
 ### 大阪市
 
+- THE COFFEE COFFEE COFFEE ([link](https://goo.gl/maps/AWuZrCsPZocvsDSp7))
+   - 〒550-0015 大阪府大阪市西区南堀江３丁目１−23 伊勢村ビル1F
 - スターバックス コーヒー TSUTAYA 梅田 MeRISE店 ([link](https://goo.gl/maps/kpHwb3BKfcXJzWRL6))
    - 〒530-0014 大阪府大阪市北区鶴野町１−5
 - スターバックス コーヒー 大阪ガーデンシティ店 ([link](https://goo.gl/maps/rDYCnDF9hWLwjiDY6))
