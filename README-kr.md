@@ -70,7 +70,7 @@
 - 카페 정월 ([link](https://goo.gl/maps/aHoohVerTcXjiMfy6?coh=178572&entry=tt))
    - 서울특별시 강남구 강남대로102길 46, 1층
 - Gentle Coffee ([link](https://goo.gl/maps/hruKMeMtcXshfQYb9?coh=178572&entry=tt))
-   - 서울특별시 강남구 논현로30길 41 1층
+   - 서울특별시 강남구 논현로30길 41, 1층
 - 리퍼크 (reperk) ([link](https://goo.gl/maps/L66fxcG86iSPubV5A?coh=178572&entry=tt))
    - 서울특별시 강남구 강남대로 382 메리츠타워, 1층
 - 카페 원데이노마드 ([link](https://goo.gl/maps/zRrRvMiGsogtRVzdA))
