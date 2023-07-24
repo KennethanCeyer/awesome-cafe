@@ -98,6 +98,8 @@
    - 〒556-0012 大阪府大阪市浪速区敷津東２丁目１−4
 - Streamer Coffee Company Shinsaibashi ([link](https://goo.gl/maps/F4dSrFzjis7Dai5aA))
    - 〒542-0086 大阪府大阪市中央区西心斎橋１丁目１０−19
+- The Coffee Market 焙煎・ケーキ工房 ([link](https://goo.gl/maps/aWdTxLn9MKDKqX6r9))
+   - 〒543-0052 大阪府大阪市天王寺区大道３丁目３−2
 - モンディアルカフェ 328 NY3 ([link](https://goo.gl/maps/TujoWBxkKmjbmG3R8))
    - 〒550-0014 大阪府大阪市西区北堀江１丁目６−16
 - ブルーボトルコーヒー 梅田茶屋町カフェ ([link](https://goo.gl/maps/HFMHfBSf1QcVrhAv9?coh=178572&entry=tt))
