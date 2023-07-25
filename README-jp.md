@@ -72,6 +72,8 @@
 
 ### 大阪市
 
+- SOT COFFEE ROASTER - Osaka Tenmabashi ([link]())
+   - 〒540-0021 大阪府大阪市中央区大手通１丁目３−7 ベルヴォア大手通 １−２階
 - THE COFFEE COFFEE COFFEE ([link](https://goo.gl/maps/AWuZrCsPZocvsDSp7))
    - 〒550-0015 大阪府大阪市西区南堀江３丁目１−23 伊勢村ビル1F
 - スターバックス コーヒー TSUTAYA 梅田 MeRISE店 ([link](https://goo.gl/maps/kpHwb3BKfcXJzWRL6))
