@@ -84,6 +84,8 @@
    - 〒530-0014 大阪府大阪市北区鶴野町１−5
 - グランノットコーヒーロースターズ ([link](https://goo.gl/maps/DCw2yi9n93Vcn6aU7?coh=178572&entry=tt))
    - 〒550-0014 大阪府大阪市西区北堀江１丁目２３−4 長野ビル 102
+- Coffee house Kenia Dotombori ([link](https://goo.gl/maps/M8RsEDHMiQspjHvh9))
+   - 〒542-0071 大阪府大阪市中央区道頓堀２丁目４−2
 - Tajima Coffee ([link](https://goo.gl/maps/UdqN7UgoToNFhQw48))
    - 〒544-0011 大阪府大阪市生野区田島４丁目４−37
 - TSUMIKI COFFEE 幸町店 ([link](https://goo.gl/maps/shVmCksRU5ihSPH86))
