@@ -84,6 +84,8 @@
    - 〒530-0014 大阪府大阪市北区鶴野町１−5
 - グランノットコーヒーロースターズ ([link](https://goo.gl/maps/DCw2yi9n93Vcn6aU7?coh=178572&entry=tt))
    - 〒550-0014 大阪府大阪市西区北堀江１丁目２３−4 長野ビル 102
+- 丸福珈琲店 千日前本店 ([link](https://goo.gl/maps/fpaPjpY8TZfyWtjq9))
+   - 〒542-0074 大阪府大阪市中央区千日前１丁目９−1
 - Coffee house Kenia Dotombori ([link](https://goo.gl/maps/M8RsEDHMiQspjHvh9))
    - 〒542-0071 大阪府大阪市中央区道頓堀２丁目４−2
 - Tajima Coffee ([link](https://goo.gl/maps/UdqN7UgoToNFhQw48))
