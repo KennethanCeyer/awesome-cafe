@@ -76,6 +76,8 @@
 
 - マヌコーヒー 大名店 ([link](https://goo.gl/maps/For7u8yjPKrWffY4A))
    - 〒810-0041 福岡県福岡市中央区大名１丁目１−3 石井ビル 1F
+- レックコーヒー 薬院駅前店 ([link](https://goo.gl/maps/3T26UpmD34sBTspU8))
+   - 〒810-0012 福岡県福岡市中央区白金１丁目１−26 １階
 
 ## 大阪府
 
