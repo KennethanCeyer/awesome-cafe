@@ -80,6 +80,8 @@
    - 〒810-0012 福岡県福岡市中央区白金１丁目１−26 １階
 - Rec Coffee｜レックコーヒー浄水テラス店 ([link](https://goo.gl/maps/eUAst8pFpgPkcPCQ6))
    - 〒810-0022 福岡県福岡市中央区薬院４丁目１３−60 1F
+- Fuk Coffee ([link](https://goo.gl/maps/xybR8kAKJRNKi1zK8))
+   - 〒812-0038 福岡県福岡市博多区祇園町６−22
 
 ## 大阪府
 
