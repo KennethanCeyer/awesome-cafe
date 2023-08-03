@@ -81,7 +81,9 @@
 - Rec Coffee｜レックコーヒー浄水テラス店 ([link](https://goo.gl/maps/eUAst8pFpgPkcPCQ6))
    - 〒810-0022 福岡県福岡市中央区薬院４丁目１３−60 1F
 - Fuk Coffee ([link](https://goo.gl/maps/xybR8kAKJRNKi1zK8))
-   - 〒812-0038 福岡県福岡市博多区祇園町６−22
+   - 〒812-0038 福岡県福岡市博多区祇園町６−22 ([link](https://goo.gl/maps/mSegTXgbrtj8qU5H6))
+- ライトハウスコーヒー
+   - 〒815-0032 Fukuoka, Minami Ward, Shiobaru, 4 Chome−13−15 ライフ塩原１F
 
 ## 大阪府
 
